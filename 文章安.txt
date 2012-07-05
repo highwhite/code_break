@@ -1,0 +1,557 @@
+
+Level 1
+
+This is a pen.
+
+
+Level 2
+
+
+Level 3
+
+
+Level 4
+
+
+
+Level 5
+
+
+Label label = new Label(); 6
+
+
+
+
+
+2段熟カレェエー
+
+●流言飛語　りゅうげんひご
+False rumors
+世間に流れている、根拠のないうわさ。デマ。
+Groundless or demagogic rumors spread around town
+流言飛語に惑わされず、みんなで力を合わせて頑張ろう。
+We have to join hands and do the best we can, without being bewildered by false rumors.
+
+ 
+●無味乾燥　むみかんそう
+To be very boring/To be dry-as-dust
+内容におもしろみも味わいもないこと。
+Something containing no fascinating or meaningful aspects
+昨日のパーティは無味乾燥としていて盛り上がらなかったね。
+The party last night was so boring that we didn't enjoy it at all.
+
+ 
+●大言壮語　たいげんそうご
+To be bombastic and boastful
+できもしない大きな事を、大いばりで言うこと。
+To talk boastfully about things that one will never achieve
+アイツは大言壮語の癖があるから本気にしない方がいいよ。
+He is always bombastic and boastful. Don't take his words seriously.
+
+ 
+●侃々諤々　かんかんがくがく
+To go at each other tooth and nail
+自分の思っていることを遠慮しないで主張すること。
+To insist on something without restraint 
+侃々諤々と部長に意見を伝えたので、すっきりしたよ。
+The section chief and I went at each other tooth and nail. But that was a good opportunity to speak my mind to him. Now, I'm feeling very good.
+
+ 
+●一刀両断　いっとうりょうだん
+To take drastic measures
+物事を思い切って、決断して処理することのたとえ。
+To make decisions promptly and confidently solve problems
+行政改革は一刀両断に行わないと進まない。
+We have to take drastic measures to promote the reform of the administrative structure.
+
+ 
+●行雲流水　こううんりゅうすい
+A cloud moving across the sky and a river running through the land
+物事に執着しないで自由な気持ちでいるようす。
+Being unconfined, not clinging to anything
+これからは行雲流水のように暮らしていきたいんです。
+I want to live like a cloud moving across the sky and a river running through the land.
+
+ 
+●外柔内剛　がいじゅうないごう
+To be gentle on the outside but tough on the inside
+外見はもの柔らかに見えるが、内面はしっかりしていて、芯が強いこと。
+A person who is soft and gentle in appearance while at the same time having a tough, strong-minded side
+彼女は外柔内剛で奥さんにするには、ぴったりの人だと思います。
+She is gentle on the outside but tough on the inside. I'm sure she will make a suitable wife for you.
+
+ 
+●山紫水明　さんしすいめい
+To be famous for scenic beauty
+山や川のある自然の光景が美しく清らかなようす。
+An area that is famous for its beautiful scenery of mountains and rivers.
+山紫水明とは、まさにこの景色のことですね。
+The term "Place of scenic beauty" is true to this place.
+
+ 
+●多情多恨　たじょうたこん
+To be full of tears and regrets
+物事に感じやすく、恨んだり、悔やんだりする気持ちが多いこと。
+To be overly sensitive, and filled with regretful and resentful feelings
+多情多恨であるよりも、明るく前向きに生きてみませんか。
+You don't have to live a life full of tears and regrets. You should think positive thoughts and live happily.
+
+ 
+●和気藹々　わきあいあい
+To be in happy harmony
+和やかな気分が人々の間に満ちあふれているようす。
+There is a peaceful and enjoyable atmosphere among the people.
+お隣の家族はいつも和気藹々として、楽しそうだわ。
+Our next-door neighbors are always in happy harmony. They're enjoying themselves.
+
+ 
+●自給自足　じきゅうじそく
+To be self-sufficient
+自分に必要なものをすべて、自分が生産することでまかなうこと。
+To provide for oneself sufficiently by producing everything one needs
+我が家では野菜はすべて自給自足なんですよ。
+My family is self-sufficient in vegetables.
+
+ 
+●盛者必衰　じょうしゃひっすい
+Golden days are destined to come to an end.
+現在勢いが盛んな者でも必ず衰えるときがくるものだということ。
+Anyone who is intoxicated by success is destined to experience a decline.
+バブルの時にベンツを乗り回していた彼が、金策に走ってるのは盛者必衰の見本だね。
+He was driving a Mercedes Benz in the bubble era, but now he has difficulty raising money. Anyone's golden days are destined to come to an end.
+
+ 
+●独立自尊　どくりつじそん
+To be independent and self-sufficient
+他人の言動に惑わされず、自分自身に誇りをもって自力で生きること。
+To live independently, taking pride in oneself and being undisturbed by others
+子供達には独立自尊の精神を学ばせたいと思います。
+We want our children to learn the spirit of independence and self-sufficiency.
+
+ 
+●波瀾万丈　はらんばんじょう
+be full of ups and downs
+物事の進行に変化、起伏が激しいことのたとえ。
+There are a lot of drastic changes in the course of events.
+是非あなたの波瀾万丈の半生を小説にさせて下さい。
+We really want to novelize the part of your life that was full of ups and downs.
+
+ 
+●純情可憐　じゅんじょうかれん
+To be pretty and pure in heart, naive/A pretty ingenue
+素直な心で邪心がなく、いたわりたくなるような気持ちを起こさせるようす。
+A girl who is so innocent and pure in heart that you want to take care of her
+純情可憐な少女の役が私にまわってくるなんて、驚きだわ。
+It's amazing that I was cast as a pretty ingenue.
+
+ 
+●天変地異　てんぺんちい
+Extraordinary natural phenomena
+自然界に起こる異変のこと。台風、雷雨、地震、大雨など。
+Unusual phenomena in the natural world such as typhoons, thunderstorms, earthquakes, or floods
+天変地異の繰り返しで、この辺りの地形も変化してきたようだ。
+The many extraordinary natural phenomena that we have experienced in this area seem to have changed the topographic features.
+
+ 
+●先手必勝　せんてひっしょう
+Victory goes to the swiftest.
+人より先に行動を起こせば、必ず優位に立てるということ。
+If you are quicker to take action than others, you will gain an advantage over them.
+商品開発は先手必勝だ。
+Victory goes to the swiftest. That's how it is in product development.
+
+ 
+●大胆不敵　だいたんふてき
+To be fearless
+度胸があって、敵を敵とも思わないようす。
+To have a lot of guts and not be afraid of your enemies
+彼の大胆不敵な笑みに背筋がぞっとしたよ。
+We were frightened to see him with a fearless smile on his lips.
+
+ 
+●絶体絶命　ぜったいぜつめい
+To have one's back against the wall
+切り抜ける方法が全く見当たらないほどの窮地に追い込まれた状態のこと。
+To be in a critical situation from which there seems to be no way out
+会社が絶体絶命の時に助けて頂いたご恩は忘れません。
+It was very kind of you to help us when we had our backs against the wall. We won't forget it.
+
+ 
+●多事多難　たじたなん
+To have a lot going on in one's life
+事件や困難が多くて、苦労がたえないこと。
+To suffer one hardship after another/To be surrounded by accidents and troubles.
+彼女は結婚してから多事多難だが、前向きに頑張っている。
+She has had a lot going on in her life since she got married, but she is forward-looking and doing everything energetically.
+
+ 
+●人跡未踏　じんせきみとう
+To be trackless/unexplored
+人間が今までに一度も足を踏み入れたことがないこと。
+Conditions of a region where no human being has ever set foot
+世界には人跡未踏の地はまだまだあるんでしょうね。
+I think that there are still a lot of unexplored lands in the world.
+
+ 
+●意味深長　いみしんちょう
+To be suggestive
+ことばや文章、態度などに含蓄のある意味が隠されているようす。
+There is something significant hidden behind someone's attitude and utterances.
+昨日の伯父は意味深長で、まだ気になっているんだ。
+My uncle said something so suggestive yesterday. I'm still wondering what he really wanted to say.
+
+ 
+●荒唐無稽　こうとうむけい
+To be complete nonsense
+言うことに根拠がなく、でたらめなこと。
+Someone's sayings are groundless and irresponsible.
+彼はいつも荒唐無稽で信用出来ない。
+His remarks are always nonsense. We can't believe what he says.
+
+ 
+●異口同音　いくどうおん
+Unanimously
+大勢の人が同じことを口をそろえて言うこと。
+Many people say the same thing, even if the words are different.
+会議では異口同音に社長退任の意見が出された。
+At the meeting, the participants unanimously insisted that the president should resign.
+
+ 
+●時期尚早　じきしょうそう
+To be premature
+あるものごとをするのに、まだ早すぎること。
+Something comes too early. You need more time before you start something.
+君が起業するのはまだ時期尚早だろう。
+I'm afraid that it's still premature to start your own business.
+
+ 
+●勧善懲悪　かんぜんちょうあく
+To be moralistic
+善行を勧め、悪行を懲らしめること。
+To encourage good behavior and censure wrongdoing
+部長は勧善懲悪を気取っているが、単に独善的なだけだよ。
+Our boss is trying to be moralistic, but he is just self-righteous.
+
+ 
+●暗中模索 あんちゅうもさく
+To grope in the dark
+手がかりがないので、どうしてよいかわからないまま、いろいろ試してみること。
+To try various things without any secure approach to a solution, being puzzled and confused.
+事件は犯人の遺留品が何も見つからず、暗中模索の中で捜査が開始された。
+The criminal left nothing behind. The police started a search but they are groping in the dark.
+ 
+●難攻不落　なんこうふらく
+To be impregnable
+攻撃するのに非常に困難で、なかなか攻め落とせないこと。
+Something that is difficult to attack/Someplace that is difficult for an opponent to invade
+あのチームはセンターバックが難攻不落だが、もしそこを突破出来ればこちらにも勝機がみえてくるぞ。
+The center back of that team is so impregnable, but if we break through, we may have a chance of victory.
+
+ 
+●自由自在　じゆうじざい
+In complete control
+思いのままできるようす。
+To be able to control something freely and easily
+このリモコンがあれば、ロボットを自由自在に操ることが出来るんだよ。
+With this remote-control device, you will be in complete control of the robot.
+
+ 
+●風光明媚　ふうこうめいび
+To be scenic
+自然の景色が清らかで美しいこと。
+A place having beautiful and attractive views
+日本各地いろいろなところを旅しましたが、こんなに風光明媚なところは初めてです。
+I have traveled throughout Japan. This is the most scenic place that I have ever visited.
+
+ 
+●試行錯誤　しこうさくご
+(By) trial and error
+いろいろと試みて、失敗を繰り返しながら目標に近づくこと。
+To approach success after learning from a lot of failures
+この新製品は、試行錯誤を重ねながらやっと出来上がりました。
+Through the process of trial and error this new product has at last been developed.
+
+ 
+●馬耳東風　ばじとうふう
+To turn a deaf ear to something
+他人の意見や批評を聞き流して気にとめないこと。
+To not take somebody's opinions or criticism seriously, and to pay no attention to them
+あなたが同じミスを何度も繰り返すのは、私の話を馬耳東風と聞き流しているからです。
+You are always deaf to my advice, so it's natural that you keep repeating the same mistakes.
+
+ 
+●自業自得 じごうじとく 
+To lie in the bed one has made
+自分のした悪行の報いが自分自身にめぐり来ること。
+One gets what one deserves. One has to face a crisis that was brought from one's wrong acts.
+妻から離婚されても、自業自得だから仕方ないと思っているんだ。
+If my wife wants to divorce me, I have it coming. I have to lie in the bed I have made.
+
+ 
+●切磋琢磨 せっさたくま 
+Learning from each other
+学問や技芸を練り磨くこと。
+To study and work hard to make progress, learning from each other in friendly rivalry
+あの二人は、これからも切磋琢磨して伸びていく事だろう。
+The two of them will make progress, learning from each other.
+
+ 
+●奇想天外 きそうてんがい
+To be completely novel
+普通では思いつかない変わった考え方。
+Peculiar ways of thinking that ordinary people would not expect
+彼の奇想天外には驚かされる。
+We are amazed at his completely novel approach.
+
+ 
+●空前絶後 くうぜんぜつご
+The first and probably the last thing in history
+以前にもそれに類する物事がなく、将来にもないと思われること。
+Things or happenings that you have never experienced and will never encounter again in your lifetime
+あの空前絶後な大プロジェクトに、是非我が社も参画しなければならない。
+We have to participate in the great project. It will be the first and probably the last such project in history.
+
+ 
+●疑心暗鬼 ぎしんあんき
+To be gnawed by doubt
+疑い出すと何でもない事まで疑わしくなってくるということ。
+If you start doubting one thing, any other insignificant thing can seem doubtful and fearful.
+夫の浮気を知ってから、すべてが疑心暗鬼で夫婦間がギクシャクしているの。
+Since I found out that my husband has had extramarital affairs, I've begun to be gnawed by doubt. Things aren't going smoothly between us.
+
+ 
+●森羅万象 しんらばんしょう 
+All of creation
+宇宙間に存在するすべてのもの。
+The sum of things existing in the universe
+私は恋をすると、森羅万象ことごとくが必然に思えてならないの。
+When I fall in love with somebody, all of creation seems to have been prepared for me.
+
+ 
+●起死回生 きしかいせい
+To be back from the brink/to pull something out of the fire
+見込みのないと思われたものが再び力を盛り返すこと。
+Something in an extremely precarious position miraculously comes back from the crisis and re-gathers its strength
+九回裏、起死回生のホームランで優勝することが出来た。
+A homer in the bottom of the ninth inning pulled the game out of the fire and that gave us the championship.
+
+ 
+●用意周到 よういしゅうとう
+To be meticulous in everything 
+準備、心掛けが万全なこと。
+Everything is thoroughly prepared and considered. To be very tidy and orderly
+彼女の事だから、出産準備は用意周到のはずよ。
+I'm sure she is meticulous in her childbirth preparations.
+
+ 
+●危機一髪 ききいっぱつ
+To come within a hair's breadth of something
+もう少しで、危険な状態になるところであること。
+To be in imminent danger/to barely avoid a critical situation
+思いがけない雪で車がスリップし、危機一髪でガードレールの激突を免れた。
+We had an unexpected snowfall and my car went into a slide on the snow. I came within a hair's breadth of bumping into the guardrail.
+
+ 
+●針小棒大 しんしょうぼうだい 
+To make a mountain out of a molehill
+ちょっとしたことを大げさに言うこと。
+To take the slightest event and blow it all out of proportion
+週刊誌は針小棒大な記事が多くて信用出来ない。
+Weekly magazines always make a mountain out of a molehill. We can't believe what they say.
+
+ 
+●諸行無常 しょぎょうむじょう 
+Everything is transient
+この世にあるすべてのものは、絶え間なく移り変わっていて不変なものはないということ。
+Everything on the earth changes continuously. Nothing can remain the same.
+従兄弟は、二人目の子供が産まれて、あんなに喜んでいたのに急死するなんて諸行無常だな。
+My cousin and his wife were overjoyed when they had their second child, but the baby unexpectedly died. It's a hard thing for us to discover that everything is subject to decay or ...everything is transient.
+
+ 
+●満身創痍 まんしんそうい
+To be covered with cuts and bruises
+体中が傷だらけであること。非難を集中的に浴びたりして、手ひどくやっつけられていること。
+To be covered all over with wounds. To be beaten up on as a target of flaming criticism.
+離婚で私よりも、子供達が満身創痍なのかもしれません。
+My children suffered from our divorce more seriously than I.. I'm afraid that they are covered with cuts and bruises.
+
+ 
+●因果応報 いんがおうほう 
+To reap what you sow
+過去の因縁に応じて、報いがあるということ。
+What one faces now arises from past actions.
+娘の男運の悪さは、祖父が昔、相当女癖が悪かった話を聞いているだけに因果応報に思えてならない。
+My daughter has not been acquainted with desirable young men. It must be an example of retributive justice, as I've heard that my grandfather had inappropriate relationships with a lot of women.
+
+ 
+●純真無垢 じゅんしんむく
+To be innocent
+心に汚れがなく、清らかなようす。
+To be undefiled and pure in heart
+赤ん坊は純真無垢で天使のようだね。
+Babies are as innocent as angels.
+
+ 
+●一得一失 いっとくいっしつ 
+Losses and gains
+利益にもなるが、その一方、損失もあること。
+Something that has both profitable and unprofitable aspects
+この合併話は一得一失だな。
+This merger plan will bring some gains but at the same time we have to expect some losses.
+
+ 
+●単刀直入 たんとうちょくにゅう
+To cut to the chase
+遠回しの言い方をしないで、いきなり本題に入ること。
+To get straight to the point without any preliminaries
+単刀直入に言わせてもらうが、君を娘の婿には出来ないね。
+I'll cut to the chase. We can't accept you as our daughter's husband.
+
+ 
+●茫然自失 ぼうぜんじしつ
+Petrifaction/To be petrified
+驚いたりあきれたりして、気が抜けてぼんやりとしてしまうようす。
+The feeling of being stunned by something surprising
+仕事から戻ると、アパートが焼失していて、しばらくは茫然自失の状態だった。
+When I came back from work, my apartment had been destroyed in a fire. I was petrified with surprise for a while.
+
+ 
+●本末転倒 ほんまつてんとう 
+To turn the issue on its head
+物事の根本的なことと、そうでないこととを取り違えること。
+To mix up essential and unessential things
+役員も出席している会議で、本末転倒した意見を言ってるようじゃアイツもここまでだな。
+At the conference with the directors, he made such a remark, turning the issue on its head. His position is quite unstable.
+
+ 
+●傍若無人 ぼうじゃくぶじん 
+To be insolent and outrageous
+他人にかまわず自分勝手にふるまうこと。
+To behave outrageously as if there were nobody else around
+公共の場での若者の傍若無人な振る舞いには困ったもんだ。
+I am annoyed at young people who behave outrageously and insolently in public places.
+
+ 
+●画竜点睛 がりょうてんせい 
+the finishing touch (es)
+ものごとを完成させるため、最後の重要な部分を付け加えること。
+If you want to complete something, you have to nail down the details carefully in the end.
+この作業も画竜点睛を欠くことのないよう、最後まで気を抜かないように。
+Pay attention to this work until the end, or it may end up lacking the finishing touch.
+
+＊ end up Ving （結局はＶすることになる）
+
+ 
+●自由奔放 じゆうほんぽう 
+Freewheeling
+何の気がねなしに、自分のおもうままにふるまうこと。
+To behave with abandon, not caring about what other people may say about one's behavior
+彼女の自由奔放な生き方が羨ましいわ。
+She is enjoying a freewheeling life. I wish I could live like her.
+
+ 
+●効果覿面 こうかてきめん 
+Having an immediate effect
+効き目がすぐにあらわれるようす。
+Effects will be noticed immediately.
+シミの部分にこの美容液を一ヶ月つけて頂くと、効果覿面にシミは消えます。
+This essence has an instant effect on blotches. They will disappear in a month.
+
+ 
+●我田引水 がでんいんすい
+To draw water to one's mill
+自分に都合がよいように考えたり、ものごとを進めたりすること。
+To think selfishly or make arrangements in one's favor
+彼が地域の為に無償で働いてくれていたことに感謝していたが、我田引水であった事が分かりガッカリした。
+I thanked him for doing volunteer work for the community, but I am disappointed now. He has just been drawing water to his mill.
+
+ 
+●言行一致 げんこういっち
+To be a man of his word
+言っていることと、行っていることが一致していること。
+To behave in consonance with one's words/To act on what one says
+常に言行一致を心がけていないと、部下はついてきてくれないよ。
+Be a man of your word, or you can't lead your subordinates.
+
+ 
+●品行方正 ひんこうほうせい
+To be well conducted
+行いがきちんとしていて正しいこと。
+To be a person of good conduct and moral purity
+君の友人は皆、品行方正だね。
+All of your friends are well conducted.
+
+ 
+●叱咤激励　しったげきれい
+To give a pep talk　
+大声で強く励ますこと。
+To encourage somebody strongly, saying something stimulating in a loud voice
+校長先生は、全国大会に出場する生徒へ叱咤激励されました。
+The schoolmaster gave a pep talk to the children who are going to participate in the national competition.
+
+ 
+●即断即決　そくだんそっけつ 　
+To make snap decisions
+その場で決断すること。
+To make immediate decisions and judgements on matters presented 
+私のビジネスは、常に即断即決が大事なんです。
+It is important for my business to be able to make snap decisions.
+
+ 
+●四面楚歌　しめんそか
+To be forsaken or: a no-win situation
+周りが全部敵や反対する者ばかりで、誰からも援助のない状態のこと。
+Circumstances in which one is surrounded by enemies and opponents, with nobody providing any support
+あれだけやりたい放題すれば、四面楚歌にもなるよ。
+It is quite natural that he is completely outcast, because he did so many selfish things.
+
+ 
+●一病息災　いちびょうそくさい 
+To be healthy while carefully nursing one chronic* ailment
+全く病気をしないよりも、一つぐらい持病があったほうが、かえって健康に注意するので長生きするということ。
+Someone who has a chronic disease may live longer than those who have suffered no illness because they take care of their health.
+祖父は若い頃から、一病息災であったお陰で、95歳の誕生日を迎えることが出来たんです。
+My grandfather is alive and well on his 95th birthday, in spite of a chronic disease, because he has taken care of his health since his youth.
+
+ 
+●時代錯誤　じだいさくご
+To be anachronistic/an anachronism
+時代を取り違えて理解していること。時代遅れの考えや言動。
+To have an outdated view of current trends or an out-of-date way of thinking or behaving
+彼の話は時代錯誤も甚だしい。
+His speech is blatantly anachronistic.
+
+ 
+●事実無根　じじつむこん
+To be groundless
+事実として根拠がないこと。全くでたらめなこと。
+Something that is factually groundless and absolutely inaccurate.
+この噂は事実無根であり、誰かが私をおとしめる為に流したものです。
+This rumor is groundless. Somebody has spread it to discredit me.
+
+ 
+●順風満帆　じゅんぷうまんぱん 
+Smooth sailing
+物事が全て都合の良いように進みはかどること
+Everything is going well, like a boat sailing smoothly in a favorable wind.
+会社の経営があまりに順風満帆で、恐いぐらいだ
+The management of the company is going well, like a boat under full sail in a favorable wind. Yet, I feel uneasy.
+
+ 
+●一蓮托生 　いちれんたくしょう
+To be in the same boat
+他人と行動、運命をともにすること。
+To join forces with somebody and act together 
+彼と私は一蓮托生の契りを結びました。
+He and I entered into a binding agreement. We are now in the same boat.
+
+ 
+
+
+【CONTENTS】 
+--------------------------------------------------------------------------------
+← トップページに戻る| このサイトについて｜ 英語学習法 | 英文法と語法 | 英語の表現 |英語の冠詞 | 英語学習コラム| 英語学習Q&Aメルマガ | 英語無料テスト | 英語学習教材| 英単語・英熟語・英文法の教材| 速読用リーディング教材| 四字熟語の英語翻訳辞典 | 和製英語の英語翻訳辞典| TOEIC, 英検, 受験英語情報 | 現代英語の基本英単語2000 | TOEIC でよく出る英単語 | 受験英語でよく出る英単語| 受験英語でよく出る英熟語・構文 | 東京大学でよく出る英単語| TOEIC と 英検の相関関係| 英検２級二次合格の心構え| 英検準１級二次合格の心構え| 試験によく出る不可算名詞| ビジネス英語&TOEICの必須英単語| 英語の例文集 | TOEICサイト| TOEFLサイト| 英検（２級、準１級）サイト | 国連英検サイト| 英会話学習サイト| 英文法サイト| 受験英語サイト| 英語学習全般サイト| 英語のニュース | 英語学習コミュニティサイト| 英会話スクール| 通訳 & 翻訳スクール|｜ 通訳ガイド & スクール| 英語学習用ソフト| 英語学習メルマガ|英語のリスニング
+
+--------------------------------------------------------------------------------
+ 
+ 
