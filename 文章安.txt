@@ -1,0 +1,3589 @@
+
+Level 1
+
+This is a pen.
+
+
+Level 2
+
+
+Level 3
+
+
+Level 4
+
+
+
+Level 5
+
+
+Label label = new Label(); 6
+
+
+
+
+
+2段熟カレェエー
+
+●流言飛語　りゅうげんひご
+False rumors
+世間に流れている、根拠のないうわさ。デマ。
+Groundless or demagogic rumors spread around town
+流言飛語に惑わされず、みんなで力を合わせて頑張ろう。
+We have to join hands and do the best we can, without being bewildered by false rumors.
+
+ 
+●無味乾燥　むみかんそう
+To be very boring/To be dry-as-dust
+内容におもしろみも味わいもないこと。
+Something containing no fascinating or meaningful aspects
+昨日のパーティは無味乾燥としていて盛り上がらなかったね。
+The party last night was so boring that we didn't enjoy it at all.
+
+ 
+●大言壮語　たいげんそうご
+To be bombastic and boastful
+できもしない大きな事を、大いばりで言うこと。
+To talk boastfully about things that one will never achieve
+アイツは大言壮語の癖があるから本気にしない方がいいよ。
+He is always bombastic and boastful. Don't take his words seriously.
+
+ 
+●侃々諤々　かんかんがくがく
+To go at each other tooth and nail
+自分の思っていることを遠慮しないで主張すること。
+To insist on something without restraint 
+侃々諤々と部長に意見を伝えたので、すっきりしたよ。
+The section chief and I went at each other tooth and nail. But that was a good opportunity to speak my mind to him. Now, I'm feeling very good.
+
+ 
+●一刀両断　いっとうりょうだん
+To take drastic measures
+物事を思い切って、決断して処理することのたとえ。
+To make decisions promptly and confidently solve problems
+行政改革は一刀両断に行わないと進まない。
+We have to take drastic measures to promote the reform of the administrative structure.
+
+ 
+●行雲流水　こううんりゅうすい
+A cloud moving across the sky and a river running through the land
+物事に執着しないで自由な気持ちでいるようす。
+Being unconfined, not clinging to anything
+これからは行雲流水のように暮らしていきたいんです。
+I want to live like a cloud moving across the sky and a river running through the land.
+
+ 
+●外柔内剛　がいじゅうないごう
+To be gentle on the outside but tough on the inside
+外見はもの柔らかに見えるが、内面はしっかりしていて、芯が強いこと。
+A person who is soft and gentle in appearance while at the same time having a tough, strong-minded side
+彼女は外柔内剛で奥さんにするには、ぴったりの人だと思います。
+She is gentle on the outside but tough on the inside. I'm sure she will make a suitable wife for you.
+
+ 
+●山紫水明　さんしすいめい
+To be famous for scenic beauty
+山や川のある自然の光景が美しく清らかなようす。
+An area that is famous for its beautiful scenery of mountains and rivers.
+山紫水明とは、まさにこの景色のことですね。
+The term "Place of scenic beauty" is true to this place.
+
+ 
+●多情多恨　たじょうたこん
+To be full of tears and regrets
+物事に感じやすく、恨んだり、悔やんだりする気持ちが多いこと。
+To be overly sensitive, and filled with regretful and resentful feelings
+多情多恨であるよりも、明るく前向きに生きてみませんか。
+You don't have to live a life full of tears and regrets. You should think positive thoughts and live happily.
+
+ 
+●和気藹々　わきあいあい
+To be in happy harmony
+和やかな気分が人々の間に満ちあふれているようす。
+There is a peaceful and enjoyable atmosphere among the people.
+お隣の家族はいつも和気藹々として、楽しそうだわ。
+Our next-door neighbors are always in happy harmony. They're enjoying themselves.
+
+ 
+●自給自足　じきゅうじそく
+To be self-sufficient
+自分に必要なものをすべて、自分が生産することでまかなうこと。
+To provide for oneself sufficiently by producing everything one needs
+我が家では野菜はすべて自給自足なんですよ。
+My family is self-sufficient in vegetables.
+
+ 
+●盛者必衰　じょうしゃひっすい
+Golden days are destined to come to an end.
+現在勢いが盛んな者でも必ず衰えるときがくるものだということ。
+Anyone who is intoxicated by success is destined to experience a decline.
+バブルの時にベンツを乗り回していた彼が、金策に走ってるのは盛者必衰の見本だね。
+He was driving a Mercedes Benz in the bubble era, but now he has difficulty raising money. Anyone's golden days are destined to come to an end.
+
+ 
+●独立自尊　どくりつじそん
+To be independent and self-sufficient
+他人の言動に惑わされず、自分自身に誇りをもって自力で生きること。
+To live independently, taking pride in oneself and being undisturbed by others
+子供達には独立自尊の精神を学ばせたいと思います。
+We want our children to learn the spirit of independence and self-sufficiency.
+
+ 
+●波瀾万丈　はらんばんじょう
+be full of ups and downs
+物事の進行に変化、起伏が激しいことのたとえ。
+There are a lot of drastic changes in the course of events.
+是非あなたの波瀾万丈の半生を小説にさせて下さい。
+We really want to novelize the part of your life that was full of ups and downs.
+
+ 
+●純情可憐　じゅんじょうかれん
+To be pretty and pure in heart, naive/A pretty ingenue
+素直な心で邪心がなく、いたわりたくなるような気持ちを起こさせるようす。
+A girl who is so innocent and pure in heart that you want to take care of her
+純情可憐な少女の役が私にまわってくるなんて、驚きだわ。
+It's amazing that I was cast as a pretty ingenue.
+
+ 
+●天変地異　てんぺんちい
+Extraordinary natural phenomena
+自然界に起こる異変のこと。台風、雷雨、地震、大雨など。
+Unusual phenomena in the natural world such as typhoons, thunderstorms, earthquakes, or floods
+天変地異の繰り返しで、この辺りの地形も変化してきたようだ。
+The many extraordinary natural phenomena that we have experienced in this area seem to have changed the topographic features.
+
+ 
+●先手必勝　せんてひっしょう
+Victory goes to the swiftest.
+人より先に行動を起こせば、必ず優位に立てるということ。
+If you are quicker to take action than others, you will gain an advantage over them.
+商品開発は先手必勝だ。
+Victory goes to the swiftest. That's how it is in product development.
+
+ 
+●大胆不敵　だいたんふてき
+To be fearless
+度胸があって、敵を敵とも思わないようす。
+To have a lot of guts and not be afraid of your enemies
+彼の大胆不敵な笑みに背筋がぞっとしたよ。
+We were frightened to see him with a fearless smile on his lips.
+
+ 
+●絶体絶命　ぜったいぜつめい
+To have one's back against the wall
+切り抜ける方法が全く見当たらないほどの窮地に追い込まれた状態のこと。
+To be in a critical situation from which there seems to be no way out
+会社が絶体絶命の時に助けて頂いたご恩は忘れません。
+It was very kind of you to help us when we had our backs against the wall. We won't forget it.
+
+ 
+●多事多難　たじたなん
+To have a lot going on in one's life
+事件や困難が多くて、苦労がたえないこと。
+To suffer one hardship after another/To be surrounded by accidents and troubles.
+彼女は結婚してから多事多難だが、前向きに頑張っている。
+She has had a lot going on in her life since she got married, but she is forward-looking and doing everything energetically.
+
+ 
+●人跡未踏　じんせきみとう
+To be trackless/unexplored
+人間が今までに一度も足を踏み入れたことがないこと。
+Conditions of a region where no human being has ever set foot
+世界には人跡未踏の地はまだまだあるんでしょうね。
+I think that there are still a lot of unexplored lands in the world.
+
+ 
+●意味深長　いみしんちょう
+To be suggestive
+ことばや文章、態度などに含蓄のある意味が隠されているようす。
+There is something significant hidden behind someone's attitude and utterances.
+昨日の伯父は意味深長で、まだ気になっているんだ。
+My uncle said something so suggestive yesterday. I'm still wondering what he really wanted to say.
+
+ 
+●荒唐無稽　こうとうむけい
+To be complete nonsense
+言うことに根拠がなく、でたらめなこと。
+Someone's sayings are groundless and irresponsible.
+彼はいつも荒唐無稽で信用出来ない。
+His remarks are always nonsense. We can't believe what he says.
+
+ 
+●異口同音　いくどうおん
+Unanimously
+大勢の人が同じことを口をそろえて言うこと。
+Many people say the same thing, even if the words are different.
+会議では異口同音に社長退任の意見が出された。
+At the meeting, the participants unanimously insisted that the president should resign.
+
+ 
+●時期尚早　じきしょうそう
+To be premature
+あるものごとをするのに、まだ早すぎること。
+Something comes too early. You need more time before you start something.
+君が起業するのはまだ時期尚早だろう。
+I'm afraid that it's still premature to start your own business.
+
+ 
+●勧善懲悪　かんぜんちょうあく
+To be moralistic
+善行を勧め、悪行を懲らしめること。
+To encourage good behavior and censure wrongdoing
+部長は勧善懲悪を気取っているが、単に独善的なだけだよ。
+Our boss is trying to be moralistic, but he is just self-righteous.
+
+ 
+●暗中模索 あんちゅうもさく
+To grope in the dark
+手がかりがないので、どうしてよいかわからないまま、いろいろ試してみること。
+To try various things without any secure approach to a solution, being puzzled and confused.
+事件は犯人の遺留品が何も見つからず、暗中模索の中で捜査が開始された。
+The criminal left nothing behind. The police started a search but they are groping in the dark.
+ 
+●難攻不落　なんこうふらく
+To be impregnable
+攻撃するのに非常に困難で、なかなか攻め落とせないこと。
+Something that is difficult to attack/Someplace that is difficult for an opponent to invade
+あのチームはセンターバックが難攻不落だが、もしそこを突破出来ればこちらにも勝機がみえてくるぞ。
+The center back of that team is so impregnable, but if we break through, we may have a chance of victory.
+
+ 
+●自由自在　じゆうじざい
+In complete control
+思いのままできるようす。
+To be able to control something freely and easily
+このリモコンがあれば、ロボットを自由自在に操ることが出来るんだよ。
+With this remote-control device, you will be in complete control of the robot.
+
+ 
+●風光明媚　ふうこうめいび
+To be scenic
+自然の景色が清らかで美しいこと。
+A place having beautiful and attractive views
+日本各地いろいろなところを旅しましたが、こんなに風光明媚なところは初めてです。
+I have traveled throughout Japan. This is the most scenic place that I have ever visited.
+
+ 
+●試行錯誤　しこうさくご
+(By) trial and error
+いろいろと試みて、失敗を繰り返しながら目標に近づくこと。
+To approach success after learning from a lot of failures
+この新製品は、試行錯誤を重ねながらやっと出来上がりました。
+Through the process of trial and error this new product has at last been developed.
+
+ 
+●馬耳東風　ばじとうふう
+To turn a deaf ear to something
+他人の意見や批評を聞き流して気にとめないこと。
+To not take somebody's opinions or criticism seriously, and to pay no attention to them
+あなたが同じミスを何度も繰り返すのは、私の話を馬耳東風と聞き流しているからです。
+You are always deaf to my advice, so it's natural that you keep repeating the same mistakes.
+
+ 
+●自業自得 じごうじとく 
+To lie in the bed one has made
+自分のした悪行の報いが自分自身にめぐり来ること。
+One gets what one deserves. One has to face a crisis that was brought from one's wrong acts.
+妻から離婚されても、自業自得だから仕方ないと思っているんだ。
+If my wife wants to divorce me, I have it coming. I have to lie in the bed I have made.
+
+ 
+●切磋琢磨 せっさたくま 
+Learning from each other
+学問や技芸を練り磨くこと。
+To study and work hard to make progress, learning from each other in friendly rivalry
+あの二人は、これからも切磋琢磨して伸びていく事だろう。
+The two of them will make progress, learning from each other.
+
+ 
+●奇想天外 きそうてんがい
+To be completely novel
+普通では思いつかない変わった考え方。
+Peculiar ways of thinking that ordinary people would not expect
+彼の奇想天外には驚かされる。
+We are amazed at his completely novel approach.
+
+ 
+●空前絶後 くうぜんぜつご
+The first and probably the last thing in history
+以前にもそれに類する物事がなく、将来にもないと思われること。
+Things or happenings that you have never experienced and will never encounter again in your lifetime
+あの空前絶後な大プロジェクトに、是非我が社も参画しなければならない。
+We have to participate in the great project. It will be the first and probably the last such project in history.
+
+ 
+●疑心暗鬼 ぎしんあんき
+To be gnawed by doubt
+疑い出すと何でもない事まで疑わしくなってくるということ。
+If you start doubting one thing, any other insignificant thing can seem doubtful and fearful.
+夫の浮気を知ってから、すべてが疑心暗鬼で夫婦間がギクシャクしているの。
+Since I found out that my husband has had extramarital affairs, I've begun to be gnawed by doubt. Things aren't going smoothly between us.
+
+ 
+●森羅万象 しんらばんしょう 
+All of creation
+宇宙間に存在するすべてのもの。
+The sum of things existing in the universe
+私は恋をすると、森羅万象ことごとくが必然に思えてならないの。
+When I fall in love with somebody, all of creation seems to have been prepared for me.
+
+ 
+●起死回生 きしかいせい
+To be back from the brink/to pull something out of the fire
+見込みのないと思われたものが再び力を盛り返すこと。
+Something in an extremely precarious position miraculously comes back from the crisis and re-gathers its strength
+九回裏、起死回生のホームランで優勝することが出来た。
+A homer in the bottom of the ninth inning pulled the game out of the fire and that gave us the championship.
+
+ 
+●用意周到 よういしゅうとう
+To be meticulous in everything 
+準備、心掛けが万全なこと。
+Everything is thoroughly prepared and considered. To be very tidy and orderly
+彼女の事だから、出産準備は用意周到のはずよ。
+I'm sure she is meticulous in her childbirth preparations.
+
+ 
+●危機一髪 ききいっぱつ
+To come within a hair's breadth of something
+もう少しで、危険な状態になるところであること。
+To be in imminent danger/to barely avoid a critical situation
+思いがけない雪で車がスリップし、危機一髪でガードレールの激突を免れた。
+We had an unexpected snowfall and my car went into a slide on the snow. I came within a hair's breadth of bumping into the guardrail.
+
+ 
+●針小棒大 しんしょうぼうだい 
+To make a mountain out of a molehill
+ちょっとしたことを大げさに言うこと。
+To take the slightest event and blow it all out of proportion
+週刊誌は針小棒大な記事が多くて信用出来ない。
+Weekly magazines always make a mountain out of a molehill. We can't believe what they say.
+
+ 
+●諸行無常 しょぎょうむじょう 
+Everything is transient
+この世にあるすべてのものは、絶え間なく移り変わっていて不変なものはないということ。
+Everything on the earth changes continuously. Nothing can remain the same.
+従兄弟は、二人目の子供が産まれて、あんなに喜んでいたのに急死するなんて諸行無常だな。
+My cousin and his wife were overjoyed when they had their second child, but the baby unexpectedly died. It's a hard thing for us to discover that everything is subject to decay or ...everything is transient.
+
+ 
+●満身創痍 まんしんそうい
+To be covered with cuts and bruises
+体中が傷だらけであること。非難を集中的に浴びたりして、手ひどくやっつけられていること。
+To be covered all over with wounds. To be beaten up on as a target of flaming criticism.
+離婚で私よりも、子供達が満身創痍なのかもしれません。
+My children suffered from our divorce more seriously than I.. I'm afraid that they are covered with cuts and bruises.
+
+ 
+●因果応報 いんがおうほう 
+To reap what you sow
+過去の因縁に応じて、報いがあるということ。
+What one faces now arises from past actions.
+娘の男運の悪さは、祖父が昔、相当女癖が悪かった話を聞いているだけに因果応報に思えてならない。
+My daughter has not been acquainted with desirable young men. It must be an example of retributive justice, as I've heard that my grandfather had inappropriate relationships with a lot of women.
+
+ 
+●純真無垢 じゅんしんむく
+To be innocent
+心に汚れがなく、清らかなようす。
+To be undefiled and pure in heart
+赤ん坊は純真無垢で天使のようだね。
+Babies are as innocent as angels.
+
+ 
+●一得一失 いっとくいっしつ 
+Losses and gains
+利益にもなるが、その一方、損失もあること。
+Something that has both profitable and unprofitable aspects
+この合併話は一得一失だな。
+This merger plan will bring some gains but at the same time we have to expect some losses.
+
+ 
+●単刀直入 たんとうちょくにゅう
+To cut to the chase
+遠回しの言い方をしないで、いきなり本題に入ること。
+To get straight to the point without any preliminaries
+単刀直入に言わせてもらうが、君を娘の婿には出来ないね。
+I'll cut to the chase. We can't accept you as our daughter's husband.
+
+ 
+●茫然自失 ぼうぜんじしつ
+Petrifaction/To be petrified
+驚いたりあきれたりして、気が抜けてぼんやりとしてしまうようす。
+The feeling of being stunned by something surprising
+仕事から戻ると、アパートが焼失していて、しばらくは茫然自失の状態だった。
+When I came back from work, my apartment had been destroyed in a fire. I was petrified with surprise for a while.
+
+ 
+●本末転倒 ほんまつてんとう 
+To turn the issue on its head
+物事の根本的なことと、そうでないこととを取り違えること。
+To mix up essential and unessential things
+役員も出席している会議で、本末転倒した意見を言ってるようじゃアイツもここまでだな。
+At the conference with the directors, he made such a remark, turning the issue on its head. His position is quite unstable.
+
+ 
+●傍若無人 ぼうじゃくぶじん 
+To be insolent and outrageous
+他人にかまわず自分勝手にふるまうこと。
+To behave outrageously as if there were nobody else around
+公共の場での若者の傍若無人な振る舞いには困ったもんだ。
+I am annoyed at young people who behave outrageously and insolently in public places.
+
+ 
+●画竜点睛 がりょうてんせい 
+the finishing touch (es)
+ものごとを完成させるため、最後の重要な部分を付け加えること。
+If you want to complete something, you have to nail down the details carefully in the end.
+この作業も画竜点睛を欠くことのないよう、最後まで気を抜かないように。
+Pay attention to this work until the end, or it may end up lacking the finishing touch.
+
+＊ end up Ving （結局はＶすることになる）
+
+ 
+●自由奔放 じゆうほんぽう 
+Freewheeling
+何の気がねなしに、自分のおもうままにふるまうこと。
+To behave with abandon, not caring about what other people may say about one's behavior
+彼女の自由奔放な生き方が羨ましいわ。
+She is enjoying a freewheeling life. I wish I could live like her.
+
+ 
+●効果覿面 こうかてきめん 
+Having an immediate effect
+効き目がすぐにあらわれるようす。
+Effects will be noticed immediately.
+シミの部分にこの美容液を一ヶ月つけて頂くと、効果覿面にシミは消えます。
+This essence has an instant effect on blotches. They will disappear in a month.
+
+ 
+●我田引水 がでんいんすい
+To draw water to one's mill
+自分に都合がよいように考えたり、ものごとを進めたりすること。
+To think selfishly or make arrangements in one's favor
+彼が地域の為に無償で働いてくれていたことに感謝していたが、我田引水であった事が分かりガッカリした。
+I thanked him for doing volunteer work for the community, but I am disappointed now. He has just been drawing water to his mill.
+
+ 
+●言行一致 げんこういっち
+To be a man of his word
+言っていることと、行っていることが一致していること。
+To behave in consonance with one's words/To act on what one says
+常に言行一致を心がけていないと、部下はついてきてくれないよ。
+Be a man of your word, or you can't lead your subordinates.
+
+ 
+●品行方正 ひんこうほうせい
+To be well conducted
+行いがきちんとしていて正しいこと。
+To be a person of good conduct and moral purity
+君の友人は皆、品行方正だね。
+All of your friends are well conducted.
+
+ 
+●叱咤激励　しったげきれい
+To give a pep talk　
+大声で強く励ますこと。
+To encourage somebody strongly, saying something stimulating in a loud voice
+校長先生は、全国大会に出場する生徒へ叱咤激励されました。
+The schoolmaster gave a pep talk to the children who are going to participate in the national competition.
+
+ 
+●即断即決　そくだんそっけつ 　
+To make snap decisions
+その場で決断すること。
+To make immediate decisions and judgements on matters presented 
+私のビジネスは、常に即断即決が大事なんです。
+It is important for my business to be able to make snap decisions.
+
+ 
+●四面楚歌　しめんそか
+To be forsaken or: a no-win situation
+周りが全部敵や反対する者ばかりで、誰からも援助のない状態のこと。
+Circumstances in which one is surrounded by enemies and opponents, with nobody providing any support
+あれだけやりたい放題すれば、四面楚歌にもなるよ。
+It is quite natural that he is completely outcast, because he did so many selfish things.
+
+ 
+●一病息災　いちびょうそくさい 
+To be healthy while carefully nursing one chronic* ailment
+全く病気をしないよりも、一つぐらい持病があったほうが、かえって健康に注意するので長生きするということ。
+Someone who has a chronic disease may live longer than those who have suffered no illness because they take care of their health.
+祖父は若い頃から、一病息災であったお陰で、95歳の誕生日を迎えることが出来たんです。
+My grandfather is alive and well on his 95th birthday, in spite of a chronic disease, because he has taken care of his health since his youth.
+
+ 
+●時代錯誤　じだいさくご
+To be anachronistic/an anachronism
+時代を取り違えて理解していること。時代遅れの考えや言動。
+To have an outdated view of current trends or an out-of-date way of thinking or behaving
+彼の話は時代錯誤も甚だしい。
+His speech is blatantly anachronistic.
+
+ 
+●事実無根　じじつむこん
+To be groundless
+事実として根拠がないこと。全くでたらめなこと。
+Something that is factually groundless and absolutely inaccurate.
+この噂は事実無根であり、誰かが私をおとしめる為に流したものです。
+This rumor is groundless. Somebody has spread it to discredit me.
+
+ 
+●順風満帆　じゅんぷうまんぱん 
+Smooth sailing
+物事が全て都合の良いように進みはかどること
+Everything is going well, like a boat sailing smoothly in a favorable wind.
+会社の経営があまりに順風満帆で、恐いぐらいだ
+The management of the company is going well, like a boat under full sail in a favorable wind. Yet, I feel uneasy.
+
+ 
+●一蓮托生 　いちれんたくしょう
+To be in the same boat
+他人と行動、運命をともにすること。
+To join forces with somebody and act together 
+彼と私は一蓮托生の契りを結びました。
+He and I entered into a binding agreement. We are now in the same boat.
+
+ 
+
+
+【CONTENTS】 
+--------------------------------------------------------------------------------
+← トップページに戻る| このサイトについて｜ 英語学習法 | 英文法と語法 | 英語の表現 |英語の冠詞 | 英語学習コラム| 英語学習Q&Aメルマガ | 英語無料テスト | 英語学習教材| 英単語・英熟語・英文法の教材| 速読用リーディング教材| 四字熟語の英語翻訳辞典 | 和製英語の英語翻訳辞典| TOEIC, 英検, 受験英語情報 | 現代英語の基本英単語2000 | TOEIC でよく出る英単語 | 受験英語でよく出る英単語| 受験英語でよく出る英熟語・構文 | 東京大学でよく出る英単語| TOEIC と 英検の相関関係| 英検２級二次合格の心構え| 英検準１級二次合格の心構え| 試験によく出る不可算名詞| ビジネス英語&TOEICの必須英単語| 英語の例文集 | TOEICサイト| TOEFLサイト| 英検（２級、準１級）サイト | 国連英検サイト| 英会話学習サイト| 英文法サイト| 受験英語サイト| 英語学習全般サイト| 英語のニュース | 英語学習コミュニティサイト| 英会話スクール| 通訳 & 翻訳スクール|｜ 通訳ガイド & スクール| 英語学習用ソフト| 英語学習メルマガ|英語のリスニング
+
+--------------------------------------------------------------------------------
+ 
+ 
+はやし浩司
+
+
+英語の格言（Englishi　Proverbs)
+
+目次に戻る トップページに戻る 
+
+はやし浩司
+
+
+●世界の格言
+
+　　イギリスのフリーの掲示板に寄せられた、著名人の言葉（格言）の中から、
+日本でもよく知られた人たちの言葉を集めて、翻訳してみました。
+
+
+
+
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+
+
+世界のことわざ、格言を集めてみました。
+
+出典は、イギリスのフリー掲示板。
+
+日本のもあって、おもしろいですよ。
+
+
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+
+
+★Four things come not back -- the spoken word, the sped arrow, the past life, and the 
+neglected opportunity. 
+
+４つのものは、帰ってこない。口から出た言葉、放たれた矢、過去の生活、そして、失った機
+会。（アラビアのことわざ）
+
+
+
+★Free speech is the right to shout 'theater' in a crowded fire. 
+
+言論の自由というのは、火事場の混雑の中で、「これは見ものだ」と叫ぶ権利をいう。（イッピー
+の格言）
+
+
+
+★When two elephants fight it is the grass that suffers. 
+
+２頭の像が戦えば、草が傷（いた）む。（アフリカのことわざ）
+
+
+
+★Until lions have their historians, tales of the hunt shall always glorify the hunter. 
+
+ライオンの世界に歴史家が現れるまで、狩の物語は、常に狩人に栄誉を与えるだろう。（アフリ
+カのことわざ）
+
+　
+
+★If the enemy within cannot kill us, then the enemy without can do us no harm 
+
+- African Prove
+
+　内部の敵が、われわれを殺すことができないなら、外部の敵は、害はない。（アラビアのこと
+わざ）
+
+
+
+★The enemy of my enemy is my friend. 
+
+Fuck it. Let's do it. 
+
+　敵の敵は、私の友。くそくらえ。させたいようにさせとけ。（オーストラリアの格言。）
+
+
+
+★Enough is a feast 
+
+　充足こそが、ごちそう。（日本のことわざ）
+
+
+
+★If you want happiness for a lifetime - help the next generation. 
+
+　生涯の幸福を願うなら、次の世代を助けろ。（中国の格言）
+
+
+
+★…a thousand paths and an infinity of dreams. Hopeful, we are halfway to where we want 
+to go hopeless, we are lost forever. 
+
+　１０００の道と、無限の夢。希望もなく、行きたいところに半分来たということは、われわれは
+道に迷ったということ。（中国のことわざ）
+
+
+
+★That the birds of worry and care fly above your head, this you cannot change,　but that 
+they build nests in your hair,　this you can prevent. 
+
+　悩みごとのある鳥は、あなたの頭の上を飛ぶ。それをあなたは変えることはできない。しかし
+あなたの髪の毛の中で巣をつくったとき、あなたはそれを防ぐことができる。（中国のことわざ）
+
+
+
+★If you stand in one place long enough, the world will come to you. 
+
+　あなたの場所に、長く立てば、世界は、あなたに向かってやってくるだろう。（中国の格言）
+
+
+
+★Only after the last tree has been cut down; Only after the last fish has been caught; Only 
+after the last river has been poisoned; Only then will you realize that money cannot be 
+eaten. 
+
+最後の木が切られたとき、最後の魚が釣られたとき、最後の川が毒されたとき、あなたは、お
+金を食べることができないということを悟るだろう。（インドのことわざ）
+
+
+
+★Coffee has two virtues: it is wet and warm. 
+
+　コーヒーには２つの美徳がある。ひとつは濡れていること。もうひとつは暖かいこと。（オラン
+ダの格言）
+
+
+
+★We never know the worth of water till the well is dry. 
+
+　井戸の水がかれるまで、水の価値はわからないもの。（イギリスの格言）
+
+
+
+★When spiders unite, they can tie down a lion. 
+
+　蜘蛛も団結すれば、ライオンをしばりあげることもできる。（エチオピアの格言。）
+
+
+
+★Love is friendship set on fire. 
+
+　愛は、火がついた友情。（フランスの格言）
+
+
+
+★What! 　No star, and you are going out to sea? Marching, and you have no music? 
+Traveling, and you have no book? What! 　No love, and you are going out to live? 
+
+　何だって！　星もなしで、海に出るんだって？　音楽もなしに、行進するんだって？　ガイドブ
+ックもなしに旅に出るんだって？　何だって！　愛もなしに、生きるんだって？　（フランスのこと
+わざ）
+
+
+
+★The death of a friend is equivalent to the loss of a limb. 
+
+　友の死は、手足をなくすようなもの。（ドイツの格言）
+
+
+
+★Man has himself as his only friend and his only enemy. 
+
+人は、ゆいいつの友としての自分と、ゆいいつの敵としての自分をもつ。（インドの格言）
+
+
+
+★The frog does not drink up the pond in which it lives 
+
+　カエルは、自分が住む池の水をのみほさないもの。（インドの格言）
+
+
+
+
+
+★An Irishman is never drunk as long as he can hold onto a blade of grass and not fall off 
+the earth. 
+
+　アイルランド人というのは、草をつかんで、地面に倒れるまでは、酒を飲まないもの。（アイル
+ランドの格言）
+
+
+
+★Dance as if no one's watching, sing as if no one's listening, and live everyday as if it were 
+your last. 
+
+　だれも見ていないと思って踊れ。だれも聞いていないと思って歌え。あなたが最後の人だと思
+って、生きろ。（アイルランドの格言）
+
+
+
+★At the end of the game, The king and the pawn go back in the same box. 
+
+　ゲームの終わりには、王も道化師も、同じ箱にもどる。（イタリアの格言）。
+
+
+
+★Not everything which is bad comes to hurt us. 
+
+　悪いものだけが、あなたを傷つけるためにやってくるのではない。（イタリアの格言）
+
+　
+
+★If you stand up like a nail you will get hammered down. 
+
+　釘のように立てば、あなたはハンマーで叩かれる。（日本の格言）
+
+
+
+★the reverse side also has a reverse side 
+
+　ものごとの裏には、いつも裏がある。（日本の格言）
+
+
+
+★Vision without action is daydream. Action without vision is nightmare. 
+
+　行動のともなわないビジョンは、ただの白日夢。ビジョンのない行動は、ただの悪夢。（日本
+のことわざ）
+
+
+
+★Fear is only as deep as the mind allows 
+
+　恐れは、心の許すかぎり深い。（日本の格言）
+
+
+
+★If God lived on earth, people would break his windows. 
+
+　もし神がこの世にいたならば、人々は、神の家の窓を押し破って入っていくだろう。（ユダヤの
+ことわざ）
+
+
+
+★Turn your face to the sun and the shadows fall behind you 
+
+　太陽のほうに顔を向けろ。そうすれば、あなたのうしろに影ができる。（マオリのことわざ）
+
+
+
+★It is better to live one day as a lion, than a thousand days as a lamb. 
+
+　子ヒツジのように１０００日生きるよりも、ライオンのように１日を生きるのが、よい。（ローマの
+ことわざ）
+
+
+
+★He who doesn't risk never gets to drink champagne. 
+
+　危険をおかさないものは、シャンペーンを飲むことはできない。（ロシアの格言）
+
+
+
+★The church is close, but the road is icey. The bar is far, but I will walk carefully. 
+
+　教会は近い。しかし道路は、凍っている。酒場は遠い。しかし私は、注意深く歩く。（ロシアの
+格言）
+
+
+
+★He who allows his day to pass by without practicing generosity and enjoying life's 
+pleasures is like a blacksmith's bellows -- he breathes but does not live. 
+
+修行もせず、人生の楽しみも楽しまず、ただ日々を過ごすものは、鍛冶屋のふいごのようなも
+の。ただ生きるために呼吸をしているだけ。（サンスクリットのことわざ）
+
+
+
+★They talk of my drinking but never my thirst 
+
+　彼らは、私の飲酒のことを話す。しかし私の渇きについては、話さない。（スコットランドの格
+言。）
+
+
+
+★Don't speak unless you can improve upon the silence 
+
+　それが沈黙から進歩したものでなければ、話すな。（スペインの格言）
+
+
+
+★I don't want the cheese, I just want out of the trap. 
+
+私はチーズがほしいのではない。ワナから抜け出たいだけ。（スペインのことわざ）
+
+
+
+★Whoever gossips to you will gossip about you. 
+
+あなたにゴシップを伝える人は、あなたについてのゴシップを流す。（スペインの格言）
+
+
+
+★Shared joy is a double joy; shared sorrow is half a sorrow. 
+
+　喜びを分けもつことは、２倍の喜び。悲しみを分けもつことは、半分の悲しみ。（スウェーデン
+のことわざ）
+
+
+
+★Fear less, hope more; Wine less, breathe more; Talk less, say more; Hate less, love more; 
+And all good things are yours. 
+
+　恐れを少なく、希望を多く。酒は少なく、呼吸は多く。おしゃべりは少なく、もっと話す。憎しみ
+は少なく、愛を多く。そうすれば、よいことは、あなたのもの。（スウェーデンのことわざ）
+
+
+
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+
+
+●人生論
+
+As long as a man stands in his own way, everything seems to be in his way: government, 
+society, and even the sun, moon and stars. - Henry David Thoreau
+人が、その本文を忘れないかぎり、すべてのものは、うまくいく。政府にせよ、社会にせよ、太
+陽や月や星にせよ。（ソロー）
+
+Disobedience is the true foundation of liberty. The obedient must be slaves. - Henry David 
+Thoreau
+不服従は、自由の源泉である。服従的な人は、奴隷でしかない。（ソロー）
+
+If I have got false teeth, I trust that I have not got a false conscience. It is safer to employ 
+the dentist than the priest to repair the deficiencies of nature. - Henry David Thoreau
+もし私が入れ歯をしたとしても、私は、ニセの意識をもったとは思わない。自然の欠陥をなおす
+ために牧師を雇うよりも、歯医者を雇ったほうが、安全だ。（ソロー）
+
+Obstacles are those frightful things we see when we take our eyes off our goal. - Henry Ford
+障害なんてものはね、目標から目をそらしたときに見る、恐ろしいもののことだ。（＝目標から、
+目をそらすまで、障害はない。）（ヘンリー・フォード）
+
+Don't do anything by half. If you love someone, love them with all your soul. When you go to 
+work, work your ass off. When you hate someone, hate them until it hurts. - Henry Rollins
+何でも中途半端なことをするな。だれかを愛するなら、心底、徹底的に愛せよ。仕事をするな
+ら、ケツの穴が抜けるほどせよ。だれかを憎むなら、それで自分の心が痛むまで、徹底的に憎
+め。（ヘンリー・ロリンズ）
+
+Never let your sense of morals keep you from doing what is right. - Isaac Asimov
+正しいことをするために、あなたの道徳を眠らせてはいけない。
+
+For every problem, there exists a simple and elegant solution which is absolutely wrong. - J. 
+Wagoner, U.C.B. Mathematics
+どんな問題にも、それを快活するためにの、完ぺきにまちがっているところの、簡単で、魅惑
+的な方法がある。
+
+If something is boring after two minutes, try it for four. If still boring, then eight. Then 
+sixteen. Then thirty-two. Eventually one discovers that it is not boring at all. - John Cage
+二分間してみて、退屈に感じたら、四分間してみろ。それでだめなら八分間してみろ。さらに一
+六分間してみろ。つぎに三二分間だ。そうすれば結果的に、あなたはそれが退屈でないと、知
+るだろう。（Ｊ・ケイジ）
+
+Man will often act and live as though he were apart from his body, as if improving it from 
+the outside. - Karl Marx
+男というのは、しばしば彼の肉体を離れているかのように行動し、生きるもの。あたかも肉体を
+外から改善するかにように。（カール・マルクス）
+
+When you are content to be simply yourself and don't compare or compete, everybody will 
+respect you - Lao-Tzu
+ただ自分に満足すればよい。戦うために比較するな。そうすれば皆があなたを尊敬するだろ
+う。（ラオ・ツ）
+
+The real question of life after death isn't whether or not it exists, but even if it does, what 
+problems this really solves. - Ludwig Wittgenstein
+死後の世界があるかどうかは、問題ではない。仮に存在したとしても、それがどんな問題を解
+決するというのか。（Ｌ・ウィッチンゲンスタイン）
+
+If the brain were so simple we could understand it, we would be so simple we couldn't. - 
+Lyall Watson
+脳ミソがそんなにも単純で、それを理解したとしても、我々は、そんなふうに理解できるほど、
+単純ではない。
+
+First they ignore you, then they laugh at you, then they fight you, then you win. - Mahatma 
+Ghandi
+最初は彼らがあなたを無視する。つぎに、あざ笑い、それからあなたに戦いをいどんでくる。そ
+のとき、あなたは勝つ。（マハトマ・ガンジー）
+
+In the end, we will remember not the words of our enemies, but the silence of our friends. - 
+Martin Luther King Jr.
+最後には、あなたは敵の言葉ではなく、友の沈黙のほうを覚えているだろう。（マーティンルー
+サー・キング・Ｊｒ）
+
+If a man hasn't discovered something that he will die for, he isn't fit to live. - Martin Luther 
+King Jr.
+死ぬための何かを発見することに失敗した人は、生きるのに適していないということ。（マーティ
+ンルーサー・キング・Ｊｒ）
+
+Where there is sorrow, there is holy ground.－Ｏｓｃａｒ　Ｗｉｌｄｅ
+悲しみのあるところに、神聖な土壌がある。（オスカー・ワイルド）
+
+"According to the Buddha, these are all signs of a false identity: fear, attachment, shame, 
+compulsion and rigidity. Hmmm. I feel like if I didn't have these things, I'd never clean my 
+house. What's up with that?" - Nerissa Nields
+「ブッダによれば、恐れ、依存、恥、強制、がんこ。これらはすべて偽の自分自身の兆候だそう
+ね。ウム。もし私に、そういうものがないなら、私の家は、掃除しないでしょうね。それがどうした
+というの？」（Ｎ・ニールズ）
+
+I hate quotations. Tell me what you know. - Ralph Waldo Emerson
+引用は嫌いだ。あんたの言葉で言え。（Ｒ・Ｗ・エマーソン）
+
+Do not go where the path may lead instead go where there is no path and leave a trail. - 
+Ralph Waldo Emerson
+
+道があるところを行ってはいけないよ。足跡が残るような、道のないところを行きなよ。（Ｒ・Ｗ・
+エマーソン）
+
+A day without sunshine is, you know, night. - Shannon
+サンシャインのない日というのはね、夜だよ。（シャノン）
+
+My advice to you is to get married: if you find a good wife you'll be happy: if not, you'll 
+become a philosopher - Socrates
+私からあなたへのアドバイスはね、結婚することだよ。よい妻を見つければ、あんたは幸福に
+なるだろう。そうでなければ、あんたは哲学者になるだろう。（ソクラテス）
+
+The unexamined life is not worth living. - Socrates
+吟味されない人生は、生きる価値はない。（ソクラテス）
+
+
+●運命論
+
+　「私は孤独だ」と言えば、「それ、みろ。わかりきったことではないか」と言う人がいるかもしれ
+ない。私のような、どこかゆがんだ性格をもった人間は、人に相手にされなくて、当然。つまり、
+その分、孤独になる。
+
+　だから私のような人間は、あえて最下層を、静かに生きるしかない。音も立てず、人知れず、
+おだやかに……。
+
+　しかし私には、どうしてもそれができない。何かあると、すぐワーッと声をあげてしまう。そして
+あちこちに、敵をつくってしまう。バカなのか。それとも、アホなのか。
+
+　ほどほどのところで、ほどほどの人生を歩むほうが、よほど、楽。そう割り切って生きている
+人は、五万といる。いや、ほとんどの人が、そうではないか。またそういう人ほど、友人も多く、
+家族のきずなも、太い。
+
+　私がかかえている問題のほとんどは、他人からもたらされたものというよりは、自分でもちこ
+んだもの。それが一つずつ、よくわかるようになった。これも年の功。あるいは、少しは自分に
+謙虚になったためか。
+
+　たとえば一人の女性がいる。夫とは、結婚後半年で離婚。今は、四歳になっている一人娘を
+育てている。
+
+　その女性のホームページをのぞく。「いやし系ホームページ」と歌っているが、実は、はげしい
+不平、不満の嵐。あっちに不平をぶつけ、こっちに不満をぶつけている。「あれが悪い！」「こ
+れがなっていない！」と。
+
+　その女性のホームページを読んでいると、何のことはない。私のしていることは、その女性の
+していることと同じ。あるいは、どこが違うのか。そのはげしさゆえに、私でも、仮にその女性と
+結婚したとしたら、半年どころか、一か月で離婚するだろう。
+
+　実のところ、ワイフもときどき、こう言う。「私だから、あんたと結婚できたのよ」と。多分に恩
+着せがましい言い方だが、このところ、「うん、そうだな」と答えることが多くなった。自分がわか
+ればわかるほど、ワイフの言うことが正しいと思うようになった。
+
+　運命というものはあるのか。それともないのか。それは私にもわからないが、しかしこれだけ
+は言える。
+
+　自分の進むべき道は、無数の要素（ファクター）が、無数に組みあわさって決まるということ。
+あとは確率の問題。もちろんその無数の要素の一つずつを知ることは、不可能。だから結局
+は、成りゆきのなかで、進むべき道は決まっていく。
+
+　先の女性にしても、こう書くのは、たいへん失礼なこととは思うが、しかし、なるべくして、そう
+なったのではないのか？　ただその女性は、まだ若いから、自分の中の自分に気づいていな
+い？　だから世間を攻撃し、社会を攻撃している。はては、「女一人で生きていく、つらさや、き
+びしさが、そこらの人間にわかってたまるか！」（投稿コーナー）と書いている。
+
+　もちろんだからといって、私は、その女性を批判しているのではない。私も、若いときは、そう
+だった。自分の姿が見えなかった分だけ、世間を攻撃し、社会を攻撃した。しかし、今は、そう
+いう「甘え」は消えた。
+
+　今の私が、今の私なのは、すべて私の責任である。すべて私の中の私が、今の私をつくっ
+た。それは世間の責任でもないし、社会の責任でもない。それは近所のゴミ拾いとよく似てい
+る。
+
+　近所の空き地には、いつも無数のゴミが散乱している。そういうゴミを見ると、「地主が悪い」
+「市役所が悪い」と思うかもしれない。しかし、もしそういうゴミが気になったら、自分で拾えばよ
+い。つまり空き地にゴミが散乱しているのは、それを気にした、その人の責任ということにな
+る。
+
+　それにかわって、このところ、ほんの少しずつだが、私は生きていることの美しさを感ずるよ
+うになった。苦しみも、悲しみも、そういったものが、渾然（こんぜん）一体となって、「美しさ」を
+つくりあげている、と。もっと言えば、それぞれの人が、それぞれの立場で、懸命に生きてい
+る。そういう無数のドラマが、全体として、「美しさ」をつくりあげている、と。
+
+　そういう視点で、自分自身を振りかえってみる。私も、不完全で、ボロボロの人間だ。「何かを
+した」という充足感は、ほとんどない。毎日が、後悔の連続。決して居なおっているわけではな
+い。自分自身の限界がわかるようになった。そういう自分が、今、ここで懸命に生きている。
+
+　そういう自分に、「美しさ」の連帯感を覚えるようになった。「孤独？」……よいじゃないの、と。
+「失敗ばかり？」……よいじゃないの、と。「敵をつくる？」……よいじゃないの、と。
+
+　この先のことは、まだよくわからない。このまま世間や社会に押しつぶされてしまうかもしれな
+い。それとも、何かまた新しいことを発見するかもしれない。どうなるかわからないが、ともかく
+も、がんばって生きていくしかない。
+（０３０９１９）
+
+【約束】
+マガジンの読者の方には、お約束します。もし何か、新しいこと発見したら、一番にお知らせし
+ます。
+
+It was previously a question of finding out whether or not life had to have a meaning to be 
+lived. It now becomes clear, on the contrary, that it will be lived all the better if it has no 
+meaning. - Albert Camus
+人生には生きる意味があるのか。それを疑問に思ってきた。しかし今、それとは対照的に、つ
+ぎのことがはっきりとしてきた。つまり意味がなくても、まったく問題なく生きられるということが。
+（Ａ・カムス）
+
+Few are those who can see with their own eyes and hear with their own hearts. - Albert 
+Einstein
+自分の目でものを見ることができる人は、ほとんど、いない。自分の心で聞くことができる人
+も、ほとんど、いない。（Ａ・アインスタイン）
+
+To be ignorant of one's ignorance is the malady of the ignorant. - Amos Bronson Alcolt
+自分の無知に無知なのは、無知な人の病気だ。（Ａ・Ｂ・アルコット）
+
+Another way in is the other way out; Never doubt where to exit; it is another entrance out. 
+- Andrew S. Pudliner
+入り口は、出口。どこから出ようと思うな。それは入り口がもう一つの出口。（Ａ・Ｓ・パドライナ
+ー）
+
+We are what we repeatedly do. - Aristotle
+我々というのは、我々が繰りかえすところのもの。（アリストテレス）
+
+Happiness is something final and complete in itself, as being the aim and end of all practical 
+activities whatever.... Happiness then we define as the active exercise of the mind in 
+conformity with perfect goodness or virtue. - Aristotle
+幸福というのは、それ自体が、最終的かつ完ぺきなもの。そしてそれが何であれ、すべての活
+動の目的である。それゆえに、幸福を、私たちは、完ぺきな善と美徳と、心の調和と定義す
+る。（アリストテレス）
+
+For example, justice is considered to mean equality, It does mean equality- but equality for 
+those who are equal, and not for all. - Aristotle
+たとえば正義は、平等を意味する。それはたしかに平等を意味するが、それは平等な人にとっ
+ての、平等。すべての人には、そうではない。（アリストテレス）
+
+It's like a finger, pointing at the moon. If you stare at the finger, you miss all the heavenly 
+glory - Bruce Lee "Enter The Dragon"
+それは月を指さす、月のようなもの。もし指を見つめるなら、あなたは天の栄華を見逃すことに
+なるだろう。（ブルース・リー「エンター・ザ・ドラゴン」）
+
+Nothing is ever accomplished by a reasonable man. - Bucy's Law
+道理のわかる男によって完成されたものは、何もない。
+
+You have two ears and only one mouth for a reason - Buddhist Belief
+あなたには二つの耳がある。しかし道理を語る口は、ただ一つ。（仏教）
+
+To be is to do. - Descartes
+生きることは、行動することである。（デカルト）
+
+I think therefore I am. - Descartes
+我、思う。ゆえに我、あり。（デカルト）
+
+Learning how to stand up is easy. Learning how to stand up after you've fallen down, that is 
+tough. - Dican
+立つことを学ぶことは、簡単なこと。ころんだあとに、立つことを学ぶのは、つらいことだ。（ダイ
+カン）
+
+You can never lose what you never had. - Dican
+もったことがないものを、なくすことはない。（ダイカン）
+
+It is not the brains that matter most, but that which guides them---the character, the 
+heart, generous qualities, progressive ideas. - Dostoyevsky
+問題は、脳ではない。問題は、何が脳をガイドするか、だ。性格、心情、性質、思想など。（ドス
+トエフスキー）
+
+I don't suffer from insanity but enjoy every minute of it - Edgar Allan Poe
+私は狂気に苦しまない。私はその瞬間、瞬間を楽しむだけ。（Ｅ・Ａ・ポー）
+
+Everything is but a dream within a dream." - Edgar Allen Poe
+すべてのものは、夢の中の夢。（Ｅ・Ａ・ポー）
+Growth for the sake of growth is the ideology of the cancer cell. - Edward Abbey
+成長のための成長というのは、ガン細胞のイデオロギーだ。（Ｅ・アビー）
+
+There's a part of every living thing that wants to become itself: the tadpole into the frog, 
+the chrysalis into the butterfly, a damaged human being into a whole one. That is spirituality 
+- Ellen Bass
+その範囲で生きるのは、簡単なこと。おたまじゃくしは、カエルになる。毛虫は、蝶になる。そし
+てキズついた人は、完成される。それが精神だ。（Ｅ・バス）
+
+In a real dark night of the soul, it is always three o'clock in the morning, day after day. - F. 
+Scott Fitzgerald
+魂の真夜中。それはいつも朝の三時。来る日も、来る日も、（Ｆ・Ｓ・フィッツゲラルド）
+
+If you want to have clean ideas, change them as often as you change your shirts. - Francis 
+Picabia
+きれいな考えをもとうとするなら、シャツを替えるように、しばしば考えを変えることだ。（Ｆ・ピカ
+ビア）
+
+Do be do be do. - Frank Sinatra
+生きて、すべきことをせよ（？）（フランク・シナトラ）
+
+I no longer want to walk on worn soles - Friedich Nietzsche
+もう破れた靴底の靴で歩きたくない。（Ｆ・ニーチェ）
+
+Live simply that other may simply live. - Gandhi
+ほかの人が簡単に生きられるように、簡単に生きろ。（ガンジー）
+
+Nonviolence is the greatest force at the disposal of mankind. It is mightier than the 
+mightiest weapon of destruction devised by the ingenuity of man. - Gandhi
+不服なとき、非暴力は、もっとも強い武器である。それは人間の英知によってつくられたあらゆ
+る武器よりも、強いものである。（ガンジー）
+
+If I accept you as you are, I will make you worse; however, if I treat you as though you are 
+what you are capable of becoming, I help you become that. - Goethe
+あるがままのあなたを受け入れれば、私はあなたをより悪くしていまうだろう。もし私があなた
+を、あなたがなれる人として扱うなら、私はあなたがそうなるのを助けることになる。（ゲーテ）
+
+【注釈】
+　フランク・シナトラの、「ｄｏ　ｂｅ ｄｏ ｂｅ ｄｏ」について、ヤフーで検索してみたら、こんな記事を
+ヒットした。
+
+Other than Brazilian music, though, Sinatra stayed away from developments in jazz beyond 
+swing (unless one counts a quirk like his notorious "do-be-do-be-do" scatting at the close 
+of "Strangers In the Night").
+
+しかしブラジル音楽のほかに、シナトラは、ジャズ音楽をそれ以上、することはなかった。（「真
+夜中のストレンジャー」で、歌われた、あの悪名高い「do-be-do-do」のような、意味のない単語
+を並べた気まぐれな歌を、その数に数えないならの話だが……。）
+
+つまり、「do-be-do-be-do」は、意味のない言葉だというのだ。私は「生きて、すべきことをせ
+よ」と訳すまでに、かなり考えた。時間をムダにした。
+
+
+●戦争
+
+　平和とは、戦争と戦争の間の、つかのまの休息なのか。人間というのは、本来的に、欲望か
+ら解放されることはない。その欲望が、集積されて、戦争となる。
+
+　あのＡ・リンカーンは、つぎのように書いている。
+
+Allow the President to invade a neighboring nation, whenever he shall deem it necessary to 
+repel an invasion, and you allow him to do so, whenever he may choose to say he deems it 
+necessary for such a purpose -- and you allow him to make war at pleasure. If today, he 
+should choose to say he thinks it necessary to invade Canada, to prevent the British from 
+invading us, how could you stop him? You may say to him, 'I see no probability of the British 
+invading us' but he will say to you, 'Be silent; I see it, if you don't.'" - - Abraham Lincoln
+　他国からの侵略をやり返すために、隣国を、先に侵略してもよいと、大統領がそれをするの
+を許せば、大統領はいつでも、自分が必要と思ったとき、それを口実に、戦争をするだろう。つ
+まり大統領は、思いのまま、戦争をすることができる。もし今日、英国がアメリカを侵略するの
+を防ぐため、カナダを侵略することが必要と大統領が思ったなら、だれが大統領を止めること
+ができるだろうか。あなたが、「英国が我々を侵略する可能性はないと思います」とあなたが言
+えば、大統領はこう言うだろう。「黙れ、あんたにはわからなくても、私にはわかるのだ」と。
+
+　今度のアメリカとサダム・フセイン（イラク）の戦争を見ていると、リンカーンの教訓が、まった
+く生かされていないのがわかる。どうも、あのブッシュ大統領という人は、頭が、あまりＸＸない
+ようだ（失礼！）
+
+　以下、世界の賢人たちの言葉を翻訳してみる。出典は、イギリスのフリーの投稿掲示板であ
+る。（いろいろな人が、自分の好きな言葉を、もちよっている掲示板。）
+
+なお、ざっと、目を通して読んでみて、そのあと、心のどこかに、つまりはモヤのように浮かんで
+くるものが、常識。あとは、その常識に従って、ものを考え、行動すればよい。
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+A country cannot simultaneously prepare and prevent war. - Albert Einstein
+一つの国は、戦争の準備と、防止を同時にはできない。（Ａ・アインシュタイン）
+
+The pioneers of a warless world are the youth that refuse military service. - Albert Einstein
+戦争のない世界の先駆者たちは、軍役を拒否する若者たちである。（Ａ・アインシュタイン）
+
+Never has there been a good war or a bad peace - Benjamin Franklin
+いまだかって、よい戦争も、悪い平和もない。（Ｂ・フランクリン）
+
+I may be compelled to face danger, but never fear it, and while our soldiers can stand and 
+fight, I can stand and feed and nurse them. - Clara Barton
+いかに危険に直面しようとも、私は恐れない。私たちの兵隊が立ち、戦うときは、私も立ち、彼
+らを世話し、看護する。（クラーラ・バートン）
+
+We have to face the fact that either all of us are going to die together or we are going to 
+learn to live together and if we are to live together we have to talk. - Eleanor Roosevelt
+私たちは、皆、いっしょに死に、いっしょに生き、もしいっしょに生きるなら、話さなければならな
+いという事実に、直面すべきである。（エレナー・ルーズベルト）
+
+All men are brothers, like the seas throughout the world; So why do winds and waves clash 
+so fiercely everywhere? - Emperor Hirohito
+すべての人は、世界の海のように兄弟である。なのになぜ、風や波は、ひどくあちこちで衝突
+するのか。（日本国・天皇）
+
+Never think that war, no matter how necessary, nor how justified, is not a crime. - Ernest 
+Hemingway 
+いかに必要でも、いかに正当化されても、戦争は罪でないと考えるな。（Ｅ・ヘミングウェイ）
+
+They wrote in the old days that it is sweet and fitting to die for one's country. But in 
+modern war, there is nothing neither sweet nor fitting in your dying. You will die like a dog for 
+no good reason. - Ernest Hemmingway
+彼らはかつて、古い時代に、国のために死ぬのは、すばらしいことだと言った。しかし近代戦に
+おいては、死ぬことは、すばらしいことでも何でもない。あなたは理由もなく、犬のように死ぬの
+だ。（Ｅ・ヘミングウェイ）
+
+What difference does it make to the dead, the orphans, and the homeless, whether the mad 
+destruction is wrought under the name of totalitarianism or the holy name of liberty and 
+democracy? - Gandhi
+狂った破壊が、全体主義の名のもとでなされようが、はたまた自由や民主主義などの神聖な
+名前でなされようが、死人をつくり、孤児をつくり、ホームレスをつくることに、どんな違いがある
+だろうか。（ガンジー）
+
+Vietnam was the first war ever fought without any censorship. Without censorship, things 
+can get terribly confused in the public mind. - General William Westmoreland
+ベトナム戦争は、検閲なしでなされた最初の戦争である。検閲のない戦争では、民心の心が混
+乱するだけだ。（Ｗ・ウェストモーランド将軍）
+
+Older men declare war. But it's the youth who must fight and die! - Herbert Hoover
+老人は、戦争を宣言する。しかし実際に戦って死ぬのは、若者たちだ。（ハーバート・フーバー）
+
+Violence is the first refuge of the incompetent - Isaac Asimov
+暴力は、無能な人間がする最初の逃げ場だ。（アイザック・アシモフ）
+
+You know the real meaning of PEACE only if you have been through the war - Kosovar
+戦争になってはじめて、君は、「平和」の本当の意味がわかるのさ。（Ｋｏｓｏｖａｒ）
+
+Anyone, who truly wants to go to war, has never truly been there before! - Larry Reeves
+本当に戦争に行きたがる人間というのはね、戦争に行ったことがない連中だよ。（Ｌ・リーブズ）
+
+Only the dead have seen the end of war - Plato
+死人のみが、戦争の終わりを知る。（プラト）
+
+Today we did what we had to do. They counted on America to be passive. They counted 
+wrong. - Ronald Reagan
+今日、我々はしなければならないことをした。彼らはアメリカが保守的であることを、あてにし
+た。しかし彼らはまちがっていた。（Ｒ・レーガン）
+
+History teaches that war begins when governments believe the price of aggression is cheap. 
+- Ronald Reagan
+歴史は、つぎのことを教える。つまり戦争は、一国の政府が、侵略が安くできると信じたときに
+始まる、と。
+
+I think that technologies are morally neutral until we apply them. It's only when we use them 
+for good or for evil that they become good or evil - William Gibson
+技術というものは、それが応用されるまで、道徳的に中立であるべきと思う。よい目的であるに
+せよ、悪い目的であるにせよ、それが使われたとき、よいものになり、悪いものになる。（Ｗ・ギ
+ブソン）
+
+The United States is like giant boiler. Once the fire is lighted under it, there is no limit to the 
+power it can generate. - Winston Churchil
+アメリカが週国は、巨大なボイラーのようなもの。その下で火が一度入れられると、それが発
+電するエネルギーは、制限なし。（Ｗ・チャーチル）
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+【追記】
+
+　世界の賢者の言葉を、さらっと読んでみると、そこから一つの思想のようなものが浮かびあ
+がってくる。思想といえるほど、形はないかもしれない。ばくぜんとした、モヤのようなものだ。し
+かしそれが、私がいう、「常識」である。
+
+　平和を考えるにしても、それを煮詰めて、平和論を説くにしても、大切なことは、偏屈にならな
+いこと。片よらないこと。常識で考えること。勇ましい好戦論も、極端な平和主義に、まどわされ
+てはいけない。「おかしいものは、おかしい」と、率直に思えばよい。言えばよい。そしてあと
+は、自分自身の常識を信じて、それにそって、ものを考えていく。生きていく。
+
+　むずかしいことではない。人間は、過去数十万年という長い年月を、それで生きてきた。今も
+生きている。これからも生きていく。ただ忘れてならないことは、いつもその常識をみがくこと。
+その努力だけは、怠（おこた）ってはいけない。怠ったとたん、その人の常識は、常識でなくな
+る。
+（０３０８２９）
+
+●愛について
+
+愛についての名言は、多い。それだけ関心が高いということ。当然だ。人間が、生きている目
+的の一つが、「愛」である。
+
+　人恋しい季節。たとえ結婚していても、人を恋すること、人を愛することを、ためらってはいけ
+ない。それが不倫であるとか、不道徳であるとか、夫や妻に対する背信であるとか、そんなふう
+に、自分を責めてはいけない。
+
+　愛は、もっと自然なもの。青い空を白い雲が漂うように、あなたの心も自然に任せたらよい。
+それが生きるということ。それが、あなたがあなたであるということ。
+
+　しかしここで大切なことは、そういった感情を相手に伝えてはいけないということ。いくらあな
+たが相手を愛しても、その心は、あなたの心の奥深くに秘めておく。それはあなた自身のため
+でもあるが、同時に、あなたの夫や妻のため。そして愛する相手のためでもある。
+
+　あなたがなすべきことは、ただ一つ。相手の幸福を、乱さない。その一語につきる。自己犠牲
+を伴わない愛は、そもそも愛ではない。
+
+　しかし……。恋は切ない。愛はもっと切ない。その切なさを感じながら、生きるのも、これまた
+人生。その切なさを、チビリチビリと味わいながら生きていくのも、そんなに悪いものではない。
+
+　できれば、明るい日差しがさんさんと輝く太陽のもと。男も女も、素っ裸で、好き勝手なことが
+できればよい。しかしそれには同時に、あなたの夫や妻にも、それを許すという前提がなけれ
+ばならない。あなただけが、好き勝手なことをし、夫や妻には、それを許さないというのであれ
+ば、それこそそれは、身勝手な愛ということになる。
+
+　夫でありながら、妻でありながら、人知れず、愛に苦しんでいる人は多い。そういう人たちの
+参考になればと思い、世界の賢者の言葉を訳してみた。
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+★Peggy- "Tell me you love me, Al" Al-"I love football, I love beer, let's not cheapen the 
+meaning of the word." - Al Bundy
+ペギー「私を愛していると、言ってちょうだい」
+アル「フォットボールを愛している。ビールを愛している。そういうふうに、その言葉を安っぽく使
+いたくないよ」（アル・バンディ）
+
+★There isn't any formula or method. You learn to love by loving. - Aldous Huxleｙ
+愛に公式はないよ。人を愛しながら、愛を学ぶよ。（アルドス・ハクスレイ）
+
+★True love is like a butterfly. Once it is gone it has flown away it is nearly impossible to 
+recapture it. - Anonymous
+真の愛は、チョウのようなもの。一度飛び去ると、それを再び捕らえるのは、ほとんど、不可
+能。（作者不詳）
+
+★To the world you may be one person, but to one person you may be the world. - 
+Anonymous
+世界に対しては、あなたは一人の人間かもしれない。しかし一人の人に対しては、あなたはま
+さに世界かもしれない。（作者不詳）
+
+★If you love something, let it go. If it comes back, 　great. If not, it's probably having dinner 
+with someone more attractive than you - Bill Grieser
+あなたが何かを愛するなら、あるがままにしておけ。それがもどってくるなら、すばらしいこと
+だ。もどってこないなら、あなたよりすばらしいだれかと、夕食をともにしたらよい。（ビル・グリ
+ーザー）
+
+★Who needs love when you've got a gun? - Black Flag
+あなたが銃をもっているとき、だれが、愛をｇ必要とするか。
+
+★"I met a young man who was wounded in love, I met another man who was wounded in 
+hatred." - Bob Dylan
+私は愛で傷ついた若者を知っている。また私は、恨みで傷ついた若者も知っている。（ボブ・デ
+ィラン）
+
+★Born to lose, I've lived all my life in vain. All my dreams have only caused me pain. All my 
+life I've always been so blue. Born to lose and now I'm losing you - Bouncing Souls
+なくすために生まれた……私はすべての人生を、ムダに過ごした。すべての夢は、私に苦痛を
+もたらした。人生、すべてブルーだった。私はなくすために生まれた。そう、今、私はあなたをな
+くしつつある。
+
+★Friendship often ends in love; but love in friendship - never. - Charles Caleb Colton
+友情は、しばしば愛で終わる。しかし愛は、決して友情で終わらない。（Ｃ・Ｃ・コルトン）
+
+★Never close your lips to those to whom you have opened your heart. - Charles Dickens
+あなたが心を開いた人に対して、決して唇を閉じてはいけない。（Ｃ・ディキンソン）
+
+★There is a battle that goes on between men and women. Many people call it love. - 
+Edvard Munch
+男と女の間で、戦闘がつづく。多くの人は、それを愛と呼ぶ。（Ｅ・マンチ）
+
+★"if two people love each other, there can be no happy end to it" - Ernest Hemingway
+もし二人の人が、たがいを愛するなら、それには、ハッピーエンドはありえない。（アーネスト・ヘ
+ミングウェイ）
+
+★Life without love is meaningless and goodness without love is impossible. - Greg 
+Jurkiewicz, "The Neo-Reconstructionist Manifesto"
+愛のない人生は、意味がない。愛のない善は、不可能。（Ｇ・ジュルキウェイッツ）
+
+★Talk not of wasted affection; affection never was wasted. - Henry Wadsworth Longfellow
+ムダな愛を説くな。愛は決してムダにはならない。（Ｈ・ワズワース）
+
+★My night has become a sunny dawn because of you. - Inb Abbad
+私の夜は、あなたのおかげで、太陽が輝く夜明けになる。（Ｉ・アバド）
+
+★I say I'm in love with her. What does that mean? It means I review my future and my past 
+in the light of this feeling. It is as though I wrote in a foreign language that I am suddenly 
+able to read. Wordlessly, she explains me to myself. Like a genius, she is ignorant of what 
+she does. - Jeanette Winterson, "The Passion"
+私は彼女を愛しているという。それが何の意味があるのか。それはこの感覚の中で、私の未
+来と過去をもう一度、見ることを意味する、それは私が突然読むことができるようになった、外
+国語を私が書くようなもの。言葉なしで、彼女は、私自身に説明する。天才のように、彼女は、
+彼女のすることに気づかない。（Ｊ・ウィンターソン）
+
+★People think love is an emotion. Love is good sense. - Ken Kesey
+人々は、愛は感情だという。愛は、よいセンス。（Ｋ・ケッセイ）
+
+★And ever has it been known that love knows not its own depth until the hour of 
+separation. - Khalil Gibran, "The Prophet"
+別れのときまで、愛はその深さを知らないということは、よく知られたことである。（Ｋ・ギブラン）
+
+★When the heart speaks, however simple the words,　 its language is always acceptable to 
+those who have hearts. - Mary Baker Eddy
+どんな簡単な言葉でも、心が話すとき、その言葉は、心をもった人に、受け入れられる。（Ｍ・
+Ｂ・エディ）
+
+★We can do no great things; only small things with great love. - Mother Teresa
+だれもすばらしいことはできない。ただ偉大な愛をもって、小さなことをするだけ。（マザー・テレ
+サ）
+
+★"I have found the paradox, that if you love until it hurts, there can be no more hurt, only 
+more love." - Mother Theresa
+私はパラドックスを発見した。つまりあなたが、あなたを痛めるまで人を愛したなら、もう痛みは
+ない。それ以上の愛があるだけ。（マザー・テレサ）
+
+★A woman in love will do almost anything for a man, except give up the desire to improve 
+him. - Nathaniel Branden
+愛をもった女性は、一人の男のために、何でもする。ただ、彼を高めようとすることだけは、し
+ない。（Ｎ・ブランデン）
+
+★In the arithmetic of love, one plus one equals everything, and two minus one equals 
+nothing. - Ninon De L'Enclos (1616-1706)
+愛の算術においては、１たす１は、すべてに等しい。そして２ひく１は、何もない。（Ｎ・Ｄ・レンコ）
+
+★Keep love in your heart. A life without it is like a sunless garden where the flowers are 
+dead. - Oscar Wilde
+心に愛を保て。愛のない人生は、日光のない庭のようなもの。花は死んでいる。（オスカー・ワ
+イルド）
+
+★To love yourself is the beginning of a lifelong affair! - Oscar Wilde, "An Ideal Husband"
+自分を愛するということは、生涯つづく愛だ。（オスカー・ワイルド）
+
+★To be loved, be lovable. - Ovid
+愛するということは、愛くるしいということ。（オービド）
+
+★At the touch of love, everyone becomes a poet. - Plato
+愛に触れると、だれしも、詩人になる。（プラト）
+
+★Love is an irresistible desire to be irresistibly desired. - Robert Frost
+愛というのは、抵抗できないまま、求められる、抵抗できない要求。（ロバート・フロスト）
+
+★Love is the distance between reality and pain. - Robyn_hitchcock
+愛は、現実と苦痛の間のもの。（Ｒ・ヒッチコック）
+
+★If you have it [love], you don't need to have anything else, and if you don't have it, it 
+doesn't matter much what else you have. - Sir James M. Barrie 
+愛があれば、ほかに必要なものはない。もし愛がなければ、ほかにいくら多くあなたがもってい
+ても、意味がない。（サー・Ｊ・Ｍ・バリー）
+
+★It takes only a minute to get a crush on someone, an hour to like someone, and a day to 
+love someone, but it takes a lifetime to forget someone. - Unknown
+だれかに会うには、一分しか、かからない。好きになるのには、一時間。愛するには、一日。し
+かしその人を忘れるのには、一生かかる。（不明）
+
+★Somewhere there's someone who dreams of your smile, and finds in your presence that 
+life is worth while. So when you're lonely remember it's true: somebody somewhere is 
+thinking of you. - Unknown
+あなたのほほえみを夢見るだれかがいる。そしてあなたを前にすると、その人生が意味をも
+つ、人がいる。それであなたが孤独だと感じたら、このことが本当だということを思い出せ。誰
+かが、どこかで、あなたのことを思っている。
+
+★Love is eternal. The aspect of it may change, but the essence remains the same. - 
+Vincent Van Gogh
+愛は永遠。その様子は変わるかもしれないが、その枢要な部分は、同じ。（ゴッホ）
+
+★"I don't want to live...　I want to love first, and live incidentally." - Zelda Fitzgerald
+私はただ行きたくない。まず、人を愛したい。その結果として、生きたい。（Ｚ・フィッツゲラルド）
+
+
+★Love does not consist in gazing at each other, but in looking outward together in the 
+same direction. - Antoine de Saint, Exupery, In Literature/Shakespeare 
+愛というのは、たがいに見つめあうことではない。愛というのは、外に向って、同じ方向を見る
+ことである。（Ａ・Ｄ・Ｓ・エクスペリ－）
+
+★Love comes in at the eye. - W.B. Yeats, In Senses/Sight 
+愛は、まず目に出る。（Ｗ・Ｂ・イェーツ）
+
+★Love college. Hate class. - 8th Floor East, Duquesne University, In Education/College Life 
+愛大学の、憎しみ学科。 
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+【追記】
+
+　同じ「愛」でも、こんな調査結果がある。東京都における調査では、高校三年生の性体験の
+比率は、女子で、一九九〇年の１７％から、二〇〇二年に４６％、男子も２２％から３７％に急
+増しているという（産婦人科医・家坂清子氏調査・読売新聞０３・８・２７）。
+
+　わかりやすく言えば、女子の約半数は、高校三年生までに、性体験をすますということ。男子
+も、それを追いかけているということ。
+
+　そしてこれは非公式の調査だが、こうした女子高校生のうち、多くは、不特定多数の男性と、
+繰り返しセックスをしているという。中には、一年で、数十人の男性とセックスをしている女子高
+校生もいるという（週刊誌）。
+
+　一方、これまたおかしなことだが、結婚してすぐから、セックレス夫婦になるケースも多いとい
+う。たまたま今朝の読売新聞（八月二八日）の朝刊の人生相談コーナーには、こんなのがあっ
+た。
+
+　「結婚してから、ほとんどセックスがない。共働きだから、疲れているせいかもしれない。私は
+子どもがほしいが、夫が、応じてくれない。しかし友だちのような、仲のよい夫婦です」と。
+
+　ワイフは、これを読んで、「へえ、セックスなしの夫婦もいるのね」と驚いていた。
+
+　私の考えでは、つまり自分自身の体験を織りまぜるなら、「愛」と「セックス」は、分けて考えた
+ほうがよいのではないかということ。愛は、心の問題だし、セックスは、体（本能）の問題。これ
+を同一レベルで考えるから、話がおかしくなる。
+
+　愛は愛として考え、セックスはセックスとして、合理的に考える。ほかの男性や女性とセックス
+をしたから、愛が影響を受けるというものではないし、しないからといって、これまた愛が影響を
+受けるというものではない。
+
+　私のワイフなんか、若いとき、その気がないときは、私に、「ベタベタ、うるさいわねえ。あん
+た、ストリップでも見てきたら！」と言って、私を、よく家から追い出したものだ。そういう考え方
+も、ある。
+
+　……といっても、こうした意識改革をするのは、二〇年、遅かった。今さら、こと私に関して言
+うなら、意識改革しても遅いということ。愛とセックスを分けて考える必要は、もうない。だいた
+いにおいて、体がついてこない。
+
+　しかし若い人は、もう少し合理的に考えてよいのではないか。グループセックス、よし。スワッ
+ピングパーテー、よし。今はやりの、ハプニングバーで遊ぶのも、よし。私の知人の男性（六七
+歳、六七歳だぞ！）は、三七歳の人妻と、月に一、二回会って、セックスをしている。
+
+　私の考えでは、セックスを、スポーツのように楽しむ時代は、もうすぐそこまできているように
+思う。もちろん、そういう流れに対して、道徳面や倫理面で、反発する人もいる。しかし人は、そ
+れぞれ。夫婦も、それぞれ。愛に形はない。同じように、セックスにも形はない。夫婦について
+言えば、たがいに納得し、同意すれば、何をしてもかまわないのでは……？
+
+　ただ高校生のセックスについて言えば、エイズ感染や性病の問題がからんでくる。妊娠、中
+絶の問題もある。さらに早期に性体験をすると、子宮ガンになりやすいというデータもあるとい
+う（同、家坂氏）。テニスやスキーのようなスポーツと同じというわけには、いかない。
+
+　まあ、親として、あなたに息子や娘がいるなら、「うちの子はだいじょうぶ」とか、「うちの子は
+関係ない」と思っているとしたら、とんでもないまちがいだということ。それだけは覚悟しておい
+たほうがよい。この割合で増えていくと、あなたの子どもが高校生になるころには、七〇～八
+〇％の子ども（女子）が、性体験をするようになる。
+（０３０８２８）
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋はやし浩司
+
+恨（うら）み
+
+　恨みは、人間を小さくする。腐らす。そしてその恨みが多ければ多いほど、深ければ深いほ
+ど、その人の人生を、見苦しくする。
+
+　いろいろな賢者が、その「恨み」について、語っている。
+
+ 
+Hatred comes from the heart; contempt from the head; & neither feeling is quite within our 
+control. - Arthur Schoperhauer
+恨みは、心から生ずる。侮蔑は頭から生まれる。ともに、我々の意思ではコントロールできな
+い。（Ａ・ショーペンハウエル）
+
+I will permit no man to narrow and degrade my soul by making me hate him - Booker T. 
+Washington
+だれも、私をしてその人を恨ませるようなことで、私の魂を小さく、低めることはできない。（Ｂ・
+Ｔ・ワシントン）
+
+Hating people is like burning down your house to kill a rat - Henry Fosdick
+人を恨むというのは、ネズミを殺すために、家を燃やすようなものだ。（Ｈ・フォスディック）
+
+Nothing Brings People together more, then mutual hatred - Henry Rollins
+互いに恨みあうことほど、互いを近づけるものはない。（Ｈ・ロリングズ）
+
+If you hate a person, you hate something in him that is part of yourself. What isn't part of 
+ourselves doesn't disturb us. - Hermann Hesse
+あなたがだれかを恨むなら、あなた自身の中の何かを恨むということ。私たち自身の中にない
+ものであれば、それで心がわずらわせられるということはない。
+
+Don't hate, it's too big a burden to bear. - Martin Luther King, Sr.
+人を恨むな。それは耐え難いほどの重荷になる。（Ｍ・Ｌ・キング・ＳＲ）
+
+Hate and bitterness are the only weapons wielded by the blade. - Thomas Gregory
+恨みと辛苦は、剣をもって戦う、唯一の武器である。（Ｔ・グレゴリー）
+
+
+　こうして並べてみると、自然と、その答が、出てくる。人を恨むということは、短い人生の、そ
+の貴重な「時」を、ムダにするということか。では、どうするか。オーストラリアの格言に、「もうす
+べては終わった。さあ、前に向って、笑って進もう」というのがある。どうにもならない問題に、い
+つまでも引き回されていると、やがてその泥沼に引きずりこまれてしまう。
+
+　そして、Ｈ・フォスディックが言っているように、「人を恨むというのは、ネズミを殺すために（＝
+つまらない人間にかかわっていることは）、家（＝人生）を燃やす（＝ムダにする）ようなものだ」
+ということになる。「恨み」は、「ネズミ」ということか。
+
+　人間の心には、無数のゴミがある。そのゴミがあることは、しかたないことだが、できるだけ、
+そのゴミは、少ないほうがよい。ゴミが多ければ多いほど、その人の生活態度は、醜悪なもの
+になる。顔も醜悪になる。よい例が、Ｊ党の中枢部でがんばっている政治家たちである。見る
+からに醜悪な顔をしている。ああなる。
+
+　そのゴミになるものとして、邪悪な心、横しまな心、嫉妬、ねたみ、策謀、インチキなどがあ
+る。ここでいう恨みも、その一つ。
+
+　だから、あなたも、もうすべては終わった。さあ、前に向って、笑って進もう！　それですべて
+は、解決する。
+（０３０８１７）
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋はやし浩司
+
+今日で、夏休みは、終わり
+
+　八月一七日。日曜日。今日で、夏休みは終わり。
+　
+　昨夜は一晩中、はげしい雨が降っていた。私はフトンをかぶって寝た。寒かった。それにうる
+さかった。起きたのは、八時すぎ。よく寝た。今は、曇り空。あとでハナ（犬）を、海岸まで連れ
+ていくつもり。少し運動をして、体をならす。
+
+　今朝の朝食は、トウモロコシ、一本。あとはお茶。このところ、何かと、ぜいたくなものばかり
+食べている。体によくない。少し太ってきた。私の一番の適正体重は、六四キロ。六六キロにな
+ると、少し、だるくなる。
+
+　この夏休みも、だらしなく過ごしてしまった。こまごまとしたことは、いっぱいあったが、それに
+振り回されているうちに、終わってしまった。そんな感じ……。
+
+　「時」について、世界の賢者は、つぎのように考えている。
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+Nothing is a waste of time if you use the experience wisely. - Auguste Rodin 
+あなたが自分の経験を、賢く使うことほど、時をムダにすることはない。（Ａ・ロディン）
+
+Lost time is never found again. - Benjamin Franklin
+失われしときは、もどらない。（Ｂ・フランクリン）
+
+Time hasn't stopped for any troubles, heartaches, or any other malfunctions of this world, 
+so please don't tell me it will stop for you. - C.S. Lewis
+時は、この世で、どんなトラブルがあったときも、止まることはなかった。だから時があなたのた
+めに止まるだろうなどと、そんなことは言わないでほしい。（Ｃ・Ｓ・ルイス）
+
+Time flies like an arrow, fruit flies like a banana. - Groucho Marx
+時は矢のように過ぎる。フルーツは、バナナのように飛ぶ。（Ｇ・マークス）
+
+
+Time is like a drug. It kills you if you have too much of it. - Terry Pratchet, "Small Gods" In 
+History 
+時は、薬のようなもの。のみすぎると、あなたを殺す。（Ｔ・パトリック）
+
+Time takes it all, whether you want it to or not. Time takes it all, time bears it away, and in 
+the end there is only darkness. Sometimes we find others in that darkness, and sometimes 
+we lose them there again. - Stephen King, "The Green Mile", In Loneliness 
+時は、望むと望まないとにかかわらず、すべてのものを持ち去る。時は、持ち去り、時は流し去
+り、最後にやってくるのは、暗闇。私たちは時には、他人の中に、その暗闇を見、そして再び、
+時に、彼らを見失う。（Ｓ・キング「グリーンマイル」）
+
+Time: that which man is always trｙing to kill, ends in killing him - Herbert Spencer, In 
+Philosophy 
+時というのは、いつも人が、なんとかつぶそうとするもの。しかし反対に、その時に、人は殺さ
+れる。（Ｈ・ペンサー）
+
+Take death for example. A great deal of our effort goes into avoiding it. We make 
+extraordinary efforts to delay it and often consider its intrusion a tragic event. Yet we'd find 
+it hard to live without it. Death gives meaning to our lives. It gives importance and value to 
+time. Time would become meaningless if there were too much of it. If death were indefinitely 
+put off, the human psyche would end up, well, like the gambler in the "Twilight Zone" 
+episode. - Ray Kurzweil, In Death 
+「死」を例に考えてみよう。それを避けるために、多くの努力がなされる。死を遅らせるために、
+たいへんな努力をする。その死を、悲劇ととらえるからだ。しかし悲劇なしで、生きることは、む
+ずかしい。死は、我々に、生きる意味を教える。そして時の重要性と、価値を教える。もし時
+が、ありあまるほどあるとするなら、時は、意味がなくなってしまう。もし死が、永遠に延ばされ
+るなら、「ツワイライト・ゾーン」に出てくる、ギャンブラーのように、人間の魂は、終わりを迎える
+だろう。（Ｒ・クルツヴェイル）
+
+
+
+
+
+★The important thing is not to stop questioning. - Albert Einstein
+「重要なことは、問いつづけることだ」（Ａ・アインスタイン）
+
+★Those who educate children well are more to be honored than parents, for these gave 
+only life, those the art of living well. - Aristotle 
+「子どもをよく教育するものは、両親より、称えられる。なぜなら、両親は、命を与えるだけだ
+が、子どもをよく教育するものは、生きる技術を与えるから」（アリストテレス）
+
+★They were majoring in two subjects: physics and philosophy. Their choice amazed 
+everybody but me: modern thinkers considered it unnecessary to perceive reality, and 
+modern physicists considered it unnecessary to think. I knew better; what amazed me was 
+that these children knew it, too. - Ayn Rand
+「彼らは、物理学と哲学のふたつを専攻していた。その選択は、私をのぞいて、みなを驚かせ
+た。しかし近代の思想家は、現実を認知することを、不必要と考えた。そして近代の物理学者
+は、思索することを、不必要と考えた。しかし私は、私を驚かせたことは、これらの子どもたち
+も、それを知っていたということを、よりよく知っていた」（Ａ・ランド）
+
+★"Most of all, perhaps, we need an intimate knowledge of the past. Not that the past has 
+anything magical about it, but we cannot study the future." - C.S. Lewis
+「私たちのほとんどは、たぶん、過去をよくしる必要がある。それは、過去が何か神秘的である
+からということではなく、過去を知らなければ未来を学ぶことができないからである」（Ｃ・Ｓ・ル
+イス）
+
+★Frederick Douglass taught that literacy is the path from slavery to freedom. There are 
+many kinds of slavery and many kinds of freedom. But reading is still the path. - Carl Sagan
+「フレドリック・ダグラスは、読み書きの能力は、奴隷を解放する道だと教えた。いろいろな種類
+の奴隷制度があり、いろいろな種類の自由があるが、読書は、まさにその道である」（Ｃ・サガ
+ン）
+
+★I hear and I forget. I see and I remember. I do and I understand. - Confucius
+「私は聞いて、そして忘れる。私は見て、そして覚える。私は行動して、そして理解する」（孔子）
+
+★The true genius shudders at incompleteness - and usually prefers silence to saying 
+something which is not everything it should be. - Edgar Allen Poe
+「真の天才は、未完成さに、身震いする。つまり真の天才は、それがすべてでない何かを語る
+よりも、沈黙をふつう、好む」（Ｅ・Ａ・ポー）
+
+★To know what to leave out and what to put in; just where and just how, ah, THAT is to 
+have been educated in the knowledge of simplicity. - Frank Lloyd Wright
+「どこにどのように、何を捨て、何を取り入れるか……つまりそれが、単純な知識として、教育さ
+れるべきことである」（Ｆ・Ｌ・ライト）
+
+★You cannot teach a man anything; you can only help him find it within himself. - Galileo 
+Galilei
+「あなたは人に教えることなどできない。あなたはただ、人が彼の中にそれを見つけるのを、助
+けることができるだけである」（Ｇ・ガリレイ）
+
+★What office is there which involves more responsibility, which requires more qualifications, 
+and which ought, therefore, to be more honourable, than that of teaching? - Harriet 
+Martineau 
+「教育の仕事以上に、責任があり、資格を必要とし、それゆえに、名誉ある仕事が、ほかのど
+こにあるだろうか」（Ｈ・Ｍａｒｔｉｎｅａｕ）
+
+★A child's wisdom is also wisdom - Jewish Proverb
+「子どもの智慧も、これまた智慧である」（ユダヤの格言）
+
+★The teacher, if indeed wise, does not bid you to enter the house of their wisdom, but 
+leads you to the threshold of your own mind. - Kahlil Gibran
+「本当に賢い教師というのは、あなたを決して彼らの智慧の家に入れとは命令しないもの。しか
+し本当に賢い教師というのは、彼ら自身の心の入り口にあなたを導く」（Ｋ・ギブラン）
+
+★We have to continually be jumping off cliffs and developing our wings on the way down. - 
+Kurt Vonnegut
+「私たちはいつも、崖（がけ）から飛び降りる。飛び降りながら、その途中で、翼を開発する」
+（Ｋ・Ｖｏｎｎｅｇｕｔ）
+
+★Just as iron rusts from disuse, even so does inaction spoil the intellect. - Leonardo Da 
+Vinci
+「鉄がさびて使い物にならなくなるように、何もしなければ、才能をつぶす」（Ｌ・ダビンチ）
+
+★Truth is eternal. Knowledge is changeable. It is disastrous to confuse them. - Madeleine L'
+Engle
+「真実は永遠である。知識は、変化しうるもの。それらを混同するのは、たいへん危険なことで
+ある」（Ｍ・Ｌ'Ｅｎｇｌｅ）
+
+★Never let school interfere with your education. - Mark Twain
+「学校を、決して、あなたの教育に介在させてはならない」（Ｍ・トウェイン）
+
+★Education is an admirable thing, but it is well to remember from time to time that nothing 
+that is worth knowing can be taught. - Oscar Wilde
+「教育は、賞賛されるべきものだが、しかしときには、価値ある知識は教えられないということ
+も、よく覚えておくべきである」（Ｏ・ワイルド）
+
+★You must train the children to their studies in a playful manner, and without any air of 
+constraint, with the further object of discerning more readily the natural bent of their 
+respective characters. - Plato
+「あなたは子どもを、遊びを中心とした方法で指導しなければならない。強制的な雰囲気ではな
+く、彼らの好ましい性格の自然な適正を、さらに認める目的をもって、そうしなければならない」
+（プラト）
+
+★In every man there is something wherein I may learn of him, and in that I am his pupil. - 
+Ralph Waldo Emerson
+「どんな人にも、彼らの中に、私が学ぶべき何かがある。そういう点では、私は生徒である」
+（Ｒ・Ｗ・エマーソン）
+
+★We, as we read, must become Greeks, Romans, Turks, priest and king, martyr and 
+executioner, that is, must fasten these images to some reality in our secret experience, or 
+we shall see nothing, learn nothing, keep nothing. - Ralph Waldo Emerson
+「読書することによって、私たちは、ギリシア人にも、ローマ人にも、トルコ人にも、王にも、殉教
+者にも、死刑執行人にも、なることができる。つまり読書によって、こうした人たちのイメージ
+を、私たちの密かな経験として、現実味をもたせることができる。読書をしなけば、何も見るこ
+とはないだろうし、何も学ぶことはないだろうし、何も保持することはないだろう」（Ｒ・Ｗ・エマー
+ソン）
+
+★Education is a sexual disease, IT makes you unsuitable for a lot of jobs and then you have 
+the urge to pass it on. - Terry Pratchett
+「教育は、性病だ。つまり教育によって、ジョークがわからなくなり、そのためそれをつぎつぎ
+と、人にうつしてしまう」（Ｔ・プラシェ）
+
+★I am always doing what I cannot do yet, in order to learn how to do it - Vincent Van Gogh 
+「私はいつも、まだ私ができないことをする。それをいかにすべきかを学ぶために」（Ｖ・Ｖ・ゴッ
+フォ）
+（０３０７２０）
+
+【追記】
+●これらの教育格言の中で、とくにハッと思ったのが、エドガー・アラン・ポーの「真の天才は、
+未完成さに、身震いする。つまり真の天才は、それがすべてでない何かを語るよりも、沈黙を
+ふつう、好む」という言葉である。
+
+　わかりやすく言えば、「ものごとを知り尽くした天才は、自分の未熟さや、未完成さを熟知して
+いる。だから未熟なことや、未完成なことを人に語るよりも、沈黙を守るほうを選ぶ」と。私は天
+才ではないが、こうした経験は、日常的によくする。
+
+　私のばあい、親と私の間に、どうしようもない「隔たり」を感じたときには、もう何も言わない。
+たとえば先日も、こんなことを言ってきた母親がいた。
+
+　「先祖を粗末にする親からは、立派な子どもは生まれません。教育者としても失格です」と。
+
+　三〇歳そこそこの若い母親が、こういう言葉を口にするから、恐ろしい。何をどこから説明し
+たらよいかと思い悩んでいると、そのうち私の脳の回路がショートしてしまった。火花がバチバ
+チと飛んでいるのがわかった。だから私は、「ハア～？」と言ったまま、おし黙ってしまった。
+
+●つぎに「私たちはいつも、崖（がけ）から飛び降りる。飛び降りながら、その途中で、翼を開発
+する」と言った、Ｋ・Ｖｏｎｎｅｇｕｔ。英語では、何と読むのだろうか。それはともかくも、これは私の
+持論でもある。以前私は、「人間の創意工夫は、絶壁に立たされて、はじめて生まれる」と書い
+た。
+
+　少し前だが、ある教育審議会のメンバーのＴ氏から、相談を受けた。「学校教育に蔓延（まん
+えん）している沈滞感は、どうしたら克服できるか」と。
+
+　それに対して私は、「教師を絶壁に立たせないと、ダメです」と。
+
+　こう書くと学校の先生は、不愉快に思うかもしれないが、ここは怒らないで聞いてほしい。
+
+　学校の先生たちは、たしかに忙しい。同じ公務員でも、給料が二〇％増しという理由も、そこ
+にある。納得できる。しかしそれでも、一般世間の、つまりは民間企業に働く労働者とは、待遇
+や職場環境が、基本的に違う。
+
+　たとえば私立幼稚園にしても、今、少子化の波をもろにかぶり、どこも四苦八苦している。経
+営のボーダーラインといわれている、二〇〇人（園児数）を割っている幼稚園は、いくらでもあ
+る。もっとも経営者自身は、それほど深刻ではない。すでにじゅうぶんすぎるほどの財力を蓄え
+ている。悲惨なのは、そこで働く保育士の先生たちである。安い給料の上、いつリストラされる
+かと、ビクビクしている。中には、園児獲得のノルマを、先生たちに課している幼稚園もある。
+（ほとんどの幼稚園が、そうではないか？）
+
+　だから毎年、一〇月前後になると、先生たちは、案内書や簡単なみやげをもって、幼児のい
+る家を、一軒ずつ回っている。「教える」だけではなく、生徒集めにまで、神経をつかっている。
+しかも、その先は、まさに絶壁！
+
+　こうした危機感があるから、当然のことながら、教えることについても、ある種の緊張感が生
+まれる。その緊張感が、教育の質を高める。もし本当に、教育の質を高めようと思うなら、こう
+した緊張感を、人為的につくるしかない。
+
+　残念ながら、それから先の方法については、私もわからない。しかしこれだけは言える。学校
+の先生たちも、勇気を出して、崖から飛び降りてみてほしい。翼、つまり創意工夫は、飛び降り
+ている間に生まれる。
+
+●三つ目に、アリストテレスの、「子どもをよく教育するものは、両親より、称えられる。なぜな
+ら、両親は、命を与えるだけだが、子どもをよく教育するものは、生きる技術を与えるから」とい
+う言葉。
+
+この訳は正確ではないと思う。思うのは、冒頭の「Ｔｈｏｓｅ」を、「親」と訳すべきか、「教師」と訳
+すべきかで、意味がまるで変わってくる。
+
+「親」とみると、「だれでも子どもを産めば親になるが、生きる技術を与えて、親は、真の親とな
+る」と解釈できる。
+
+　一方「教師」とみると、「生きる技術を与える教師は、親よりすばらしい」と訳せる。どちらが正
+しいかわからないという意味で、「この訳は正確ではないと思う」と書いた。
+
+　一般論として、欧米の教育の「柱」は、ここにある。どの人に会っても、彼らは、「教育の目標
+は、「子どもに生きる技術を与えること」と言う。オーストラリアの友人（Ｍ大教授）も、かつてこう
+教えてくれた。
+
+　「教育の目標は、私たちのもつ知恵や経験を、子どもたちがつぎの世代を、よりよく生きてい
+くことができるように、それを教え伝えることだ」と。
+
+　つまり「実用的なのが教育」ということになっている。しかしこの日本には、むしろ実用的であ
+ってはならないという風潮すらある。日本の教育は、将来学者になるためには、すぐれた体系
+をもっている。しかし、だ。みながみな、学者になるわけではない。あるいは将来、学者になる
+子どもは、いったい何％、いるというのか。
+
+　英語にしても、数学にしても、将来、英語の文法学者や、数学者になるには、すぐれた体系
+をもっている。しかしそのため、おもしろくない。役にたたない。しかしこんなことは、三〇年前
+に、すでにわかっていたことではないか。最近になって、やっと「役にたつ」という言葉が聞かれ
+るようになったが、それにしても、三〇年とは！
+
+　要するに、子どもを産むだけでは、親ではないということ（失礼！）。自分の生きザマを、子ど
+もに示してこそ、親は、親になる。そしてそれが親の役目ということになる。
+（０３０７２０）
+　
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++
+
+バートランド・ラッセルの教育論
+
+　イギリスに、バートランド・ラッセル※という人がいた。ノーベル文学賞受賞者、哲学者であ
+る。私が学生のころ、ちょうど尊敬し始めたころ、なくなってしまった。１９７０年のことである。そ
+のラッセルが、こんな文章を、書き残している。
+
+Passive acceptance of the teacher's wisdom is easy to most boys and girls. It involves no 
+efforts of independent thought, and seems rational because the teacher knows more than 
+his pupils; it is moreover the way to win the favor of the teacher unless he is a very 
+exceptional man. Yet the habit of passive acceptance is a disastrous one in later life. It 
+causes men to seek a leader, and to accept as a leader whoever is established in that 
+position... It will be said that the joy of mental adventure must be rare, that there are few 
+who can appreciate it, and that ordinary education can take no account of so aristocratic a 
+good. I do not believe this. The joy of mental adventure is far commoner in the young than 
+in grown men and women. Among children it is very common, and grows naturally out of the 
+period of make-believe and fancy. It is rare in later life because everything is done to kill it 
+during education... The wish to preserve the past rather than the hope of creating the 
+future dominates the minds of those who control the teaching of the young. Education 
+should not aim at passive awareness of dead facts, but at an activity directed towards the 
+world that our efforts are to create. 
+
+　改めて、彼の文章を読みなおしてみる。
+
+　「教師が教えることを、受動的に受け入れることは、ほとんどの生徒にとっては、簡単なことで
+ある。生徒にしても、個々の考えをもつのに、まったく努力がいらない。それに教師は生徒より
+も、ものをよく知っているから、この方法は合理的である。それにこの方法は、教師があまり例
+外的な人物でなければ、教師の好みを勝ち取ることができる。
+
+　が、何かにつけて受動的な生き方をしていると、人生も後半になると、いろいろ弊害が出てく
+る。そうした教育を受けることによって、リーダーを求めるようになり、どんな立場の人であれ、
+リーダーとして受け入れるようになってしまう。
+
+　心の冒険の喜びなどというものは、もともとまれなことであり、そんなことをしても、だれも評価
+しない。また通常の教育は、貴族的な教育であってはいけないと言う人もいるだろう。
+
+　私は、このことを信じない。年をとった男女よりも、若い人たちのほうが、はるかに心の冒険
+を楽しむことができる。子どもたちの間では、こうしたことはたいへんよくあることである。子ども
+たちは作り話や、おとぎ話を楽しむ時期を経て、自然な形で、それを成長させていく。それはむ
+しろ、あとになればなるほど、できなくなるものなのである。
+
+というのも、教育を通して、そうした可能性をつぶすため、いろいろなことがなされるからであ
+る。若い人の教育をコントロールする人たちというのは、どうしても、未来を創造するという希望
+よりも、過去を保持するという願いを、もちやすいものである。教育は、死んだ事実を受動的に
+与えることを目的としてはいけない。教育は、私たちがこれから創りあげていくであろう世界に
+向った、能動的なものでなければならない」
+
+※……バートランド・ラッセル、１８７２～１９７０。イギリスの哲学者、数学者、文明批評家、平
+和運動家。第二次大戦以後は、核兵器反対運動に尽力。１９５０年、ノーベル文学賞受賞。著
+書に『外界の認識』『社会改造の諸原理』など。　
+
+●教育は受動的なものであってはならない。
+
+　日本では、先生が、生徒に向って、「わかったか？」「では、つぎ！」と言って授業を進める。
+この方式は、進学塾では、さらにはっきりしている。
+
+　一方、アメリカでは、「君は、どう思う？」「それはすばらしい！」と言って、授業を進める。はた
+から見ていても、ほめすぎではないかと思えるほど、子どもをほめる。
+
+　進学塾の教育、あるいは進学塾的教育が、日本の教育の「柱」になっていることは、たいへ
+ん悲しむべきことである。またそういう教育を受けないと、進学に不利というのは、さらに悲しむ
+べきことである。それだけではない。そういう教育を受けた子どもほど、スイスイと受験競争を
+勝ち抜き、それなりの地位や立場につくというのは、さらにさらに悲しむべきことである。
+
+　が、親も、教師も、こういうのが教育と思いこんでいる。先日も、テレビで、掛け算の九九を暗
+記させている幼児教室が紹介されていたが、さすがにここまでくると、だれしも、「おかしい？」
+と思う。
+
+　しかしレベルこそ違え、進学塾では、それとまったく同じことをしている。にもかかわらず、こう
+した進学塾教育、もしくは進学塾的教育を疑う人は少ない。このオメデタサは、いったい、どこ
+からくるのか。ラッセルは、こう言っている。「こうした教育を受けた人は、リーダーを求めるよう
+になり、どんな立場の人であれ、リーダーとして受け入れるようになってしまう」と。
+
+　つまりは、依存心を身につけてしまうというのだ。
+
+　この依存心の恐ろしさは、若いうちはわからない。そうした依存心をもち、だれかに依存して
+いる間は、楽だし、居心地がよい。しかし人生も晩年に近づくと、その恐ろしさが、ヒシヒシとわ
+かってくる。「私の人生は何だったのか！」と。
+
+　この問題は、あなた自身の問題と言ってもよい。あなたは、今、自分の人生を生きているだ
+ろうか。それをほんの少しでもよいから、自問してみてほしい。もしあなたが「ＹＥＳ」と答えた
+ら、あなたはすばらしい人だ。しかし反対にもし、世間の波にのまれ、流されるまま流されてい
+るなら、できるだけ早くそれに気づき、自分の足で、立ちあがることだ。で、ないと、人生の晩年
+になって、あなたは確実に後悔することになる。「私の人生を、返せ！」と。
+
+　そう「後悔」ほど、その人の人生をむしばむものは、ない。ああ、それともあなたは、どこかの
+インチキ宗教を信じて、来世や天国に、未来や希望をつなぐとでもいうのだろうか。方法として
+は、それしかないのだろうが、しかしそれこそ、自分の人生の敗北を認めるようなものである。
+
+　が、しかし、だ。仮にあなたが今、依存的な生き方をしたとしても、それはあなたの責任では
+ない。あなたは日本の教育システムの中で、そういう人間に作りあげられたのだ。だから、もし
+あなたがこの事実に気づいたら、これだけは、あなたの義務として守ってほしい。それをつぎの
+世代、つまりあなたの子どもに繰りかえしてはいけないということ。
+
+　久しぶりにラッセルの文章を読んで、若いころの自分を思い出した。思い出して、このエッセ
+ーを書いた。
+（０３０７２１）
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++
+
+幸福論
+
+ 幸福とは何か。イギリスの教育格言に、『子どもを幸福で包んであげるのが、最高の教育』と
+いうのがある。それはわかる。そのとおりだと思う。しかし問題は、その中身である。イギリスの
+「自由投稿サイト、The Quote Cache Daily Random Quote List」に載っている格言から、いくつ
+かを選んで、訳してみた。（訳がおかしいと思うときは、原文を読んでほしい。）
+
+　まず登場するのが、アンディ・ルーニィ。
+
+★For most of life, nothing wonderful happens. If you don't enjoy getting up and working and 
+finishing your work and sitting down to a meal with family or friends, then the chances are 
+that you're not going to be very happy. If someone bases his happiness or unhappiness on 
+major events like a great new job, huge amounts of money, a flawlessly happy marriage or a 
+trip to Paris, that person isn't going to be happy much of the time. If, on the other hand, 
+happiness depends on a good breakfast, flowers in the yard, a drink or a nap, then we are 
+more likely to live with quite a bit of happiness.- Andy Rooney
+人生では、すばらしいことなど、めったにない。朝起きて、仕事をして、それを終えて、家族や
+友といっしょに食事することを楽しみなさい。そうすれば、それぞれのときに、あなたは幸福に
+なる。もし人が、幸福の基盤を、新しい仕事や、莫大なお金や、完ぺきな結婚生活や、パリへ
+の旅行など、そういった大きなできごとに置くなら、ほとんどの時間で、その人は、幸福ではな
+いということになる。しかし一方、幸福を、おいしい朝食や、庭の花や、飲んだり、昼寝したりす
+ることに求めるなら、あなたはすばらしい幸福とともに、人生を過ごすことができる。
+
+★Think of all the beauty that's still left in and around you and be happy! - Anne Frank
+あなたのまわりにまだ残っているすべての美しいものを、思い浮かべなさい。そして幸福になり
+なさい。（アンネ・フランク）
+
+★We all live with the objective of being happy; our lives are all different and yet the same. 
+- Anne Frank
+私たちはみな、幸福になりたいと思って生きている。つまり人生はみな、異なっていても、目的
+は同じ。（アンネ・フランク）
+
+★Happiness is a warm puppy. - Charles Schulz
+幸福は、暖かいぬいぐるみ。（チャールズ・シュルツ）
+
+★When I meet people from other cultures I know that they too want happiness and do not 
+want suffering, this allows me to see them as brothers and sisters. - Dalai Lama, Tenzin 
+Gyatso
+他の文化をもっている人に会ったとき、彼らもまた幸福を求め、苦しみを望んでいない。それが
+わかるから、私は彼らをみな、私の兄弟だと思う。（ダライ・ラマ）
+
+★There is a very fine line between "hobby" and "mental illness." - Dave Barry
+「趣味」と、「心の病気」の間には、明確な一線がある。（Ｄ・バリー）
+
+★You get more joy out of the giving to others, and should put a good deal of thought into 
+the happiness you are able to give. - Eleanor Roosevelt
+他人に分け与えることで、あなたはもっと大きな喜びを得る。それはそうだが、しかしそれを与
+えるとき、幸福とは何か、それをよく考えて、すべきである。（Ｅ・ルーズベルト）
+
+★We tend to forget that happiness doesn't come as a result of getting something we don't 
+have, but rather of recognizing and appreciating what we do have. - Frederick Koenig
+もっていないものを手にしたとき、その結果として幸福がやってくるのではないということを、私
+たちは忘れてはいけない。そうではなく、幸福というのは、今、私たちがもっているものに気づ
+き、それを評価することの結果として、やってくる。（Ｆ・コーニグ）
+
+★There is work that is work and there is play that is play; there is play that is work and 
+work that is play. And in only one of these lies happiness. - Gelett Burgess
+仕事の仕事がある。遊びの遊びがある。仕事の遊びもあるし、遊びの仕事もある。しかしこれ
+らの一つだけに、幸福がある。（Ｇ・バーゲス）
+
+★If you have nothing else to do, look about you and see if there isn't something close at 
+hand that you can improve! It may make you wealthy, though it is more likely that it will 
+make you happy. - George Matthew Adams
+ほかに何もすることがなかったら、あなたの近くで、あなたができることがないかを、見てみた
+らよい。そうすれば、あなたは幸福になるだろうし、お金持ちになれる。（Ｇ・Ｍ・アダムズ）
+
+★Shall a man go and hang himself because he belongs to the race of pygmies, and not be 
+the biggest pygmie that he can? Let everyone mind his own business, and endeavor to be 
+what he was made. - Henry David Thoreau, "Walden"
+彼がピグミー（中央アフリカの小人の黒人）だからといって、自殺する人はいるだろうか。ある
+いは彼が、最大のピグミーでないからとって、自殺する人はいるだろうか。他人のことは、ほっ
+ておけ。そして自分のおかれた境遇で、努力せよ。（Ｈ・Ｄ・ソロー）
+
+★For every moment of triumph, for every instance of beauty, many souls must be 
+trampeled. - Hunter S. Thompson
+すべての成功の瞬間に、そしてすべての美の瞬間に、多くの魂が、踏みにじられる。（Ｈ・Ｓ・ト
+ンプソン）
+
+★The fact is always obvious much too late, but the most singular difference between 
+happiness and joy is that happiness is a solid and joy a liquid. - J.D. Salinger
+事実は、いつも明らかに、あとになってわかる。「幸福」と「喜び」の、もっとも大きな違いは、幸
+福というのは、固体だが、喜びは、液体であること。（Ｊ・Ｄ・サリンジャー）
+
+★Three grand essentials to happiness in this life are something to do, something to love and 
+something to hope for. - Joseph Addison
+幸福の三つの大きな要素は、すべきことがあること。愛すべきものがあること。そして希望とす
+べきものがあることである。（Ｊ・アジソン）
+
+★One of the first conditions of happiness is that the link between Man and Nature shall not 
+be broken. - Leo Tolstoy
+幸福の最初の条件は、人間と、自然のつながりを、壊してはいけないということである。（Ｌ・ト
+ルストイ）
+
+★Happiness lies only in that which excites, and the only thing that excites is crime. - 
+Marquis de Sade
+幸福というのは、エキサイトするものに存在し、エキサイトする唯一のものというのは、犯罪で
+ある。（Ｍ・Ｓａｄｅ）
+
+★I've learned from experience that the greater part of our happiness or misery depends on 
+our dispositions and not on our circumstances. - Martha Washington
+私は、つぎのことを学んだ。つまり幸福にせよ、悲惨にせよ、その大部分は、私たちのおかれ
+た環境ではなく、私たちの気質によるものだということを。（Ｍ・ワシントン）
+
+★Everything exists in limited quantity - especially happiness. - Picasso
+すべてのものには、かぎられた量しかない。とくに幸福は！（ピカソ）
+
+★Sooner or later in life everyone discovers that perfect happiness is unrealizable, but 
+there are few who pause to consider the antithesis: that perfect unhappiness is equally 
+unattainable. - Primo Levi
+遅かれ早かれ、だれもが、完ぺきな幸福というのは、自分ではわからないものだということを発
+見する。しかしほとんどの人は、その正反対については、考えない。つまり完ぺきな不幸という
+のは、同じように、達成しがたいものであることを。（Ｐ・レビ）
+
+★It's a funny thing about life; if you refuse to accept anything but the best , you very often 
+get it. - Somerset Maugham
+もしあなたがいつも最高のもの以外は受け取らないとするなら、あなたはそれをしばしば手に
+入れることができるというのは、人生でも、おかしなことだ。（Ｓ・モーガム）
+
+★The supreme happiness in life is the conviction that we are loved -- loved for ourselves, 
+or rather, loved in spite of ourselves. - Victor Hugo
+人生で最高の幸福というのは、私たちが愛されているという確信である。つまり、私たち自身の
+ために愛されているか、もしくは、むしろ、私たち自身のかわりに愛されているという確信であ
+る。（Ｖ・ユーゴ）
+
+★The essentials to happiness are something to love, something to do, and something to 
+hope for. - William Blake
+幸福の重要な部分は、愛すべき何か、すべき何か、そして希望とすべき何かをいう。（Ｗ・ブレ
+イク）
+
+●改めて幸福論
+
+世界の賢人たちは、身近な、ごく平凡な、かつ、ごく日常的な生活の中に、「幸福」を見いだして
+いるのがわかる。つまりこのあたりに、幸福の原点があるのでは。ここまで書いて、私は、ボー
+ムという人が書いた、「オズの魔法使い」を思い出した。それについて書いたのが、つぎの原稿
+である。「家族主義」について書いた原稿である。（私の本から、転載。）
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+家族主義と幸福論
+
+●幸福の原点は家庭にある
+
+ボームが書いた物語に「オズの魔法使い」がある。カンザスの田舎に住む、ドロシーという女の
+子と、犬のトトが虹のかなたにある幸せを求めて、冒険するという物語である。こんなことがあ
+った。
+
+　オーストラリアにいたころ、仲間に「君たちはこの国（カントリー）が、インドネシア軍に襲われ
+たらどうするか」と聞いたときのこと。皆はこう答えた。「逃げる」と。「おやじの故郷のスコットラ
+ンドへ帰る」と言ったのもいた。何という愛国心！　私があきれていると、一人の学生がこう言
+った。「ヒロシ、オーストラリア人が手をつないで一列に並んでもすきまができるんだよ。どうして
+この国を守れるか」と。
+
+　英語でカントリーというときは、「国」というよりは、「土地」を意味する。そこで質問を変えて、
+「では、君たちの家族がインドネシア軍に襲われたらどうするか」と聞くと、皆血相を変えてこう
+言った。「そのときは、命がけで戦う」と。これだけではないが、私はいつしか欧米人の考え方
+の基本に、「家族」があることを知った。愛国心もそこから生まれる。
+
+たとえばメル・ギブソンの映画に『パトリオット』というのがあった。日本語に訳する「愛国者」と
+いうことになるが、もともとパトリオットという語は、ラテン語のパトリス、つまり「父なる大地」とい
+う語に由来する。つまり欧米で、「ペイトリアチズム（愛国心）」というときは、「父なる土地を愛す
+る」あるいは、「同胞を愛する」を意味する。その映画の中でも、国というよりは家族のために
+戦う一人の父親が、テーマになっていた。
+
+　家族主義というと、よく小市民的な生き方を想像する人がいる。しかしそれは誤解。冒頭にあ
+げたオズの魔法使いの中でも、人間が求めている幸福は、そんな遠くにあるのではない。あな
+たのすぐそばで、あなたに見つけてもらうのを、息を潜めて待っている…。ドロシーは長い冒険
+の末、それを教えられる。
+
+　明治の昔から、日本人は「出世」という言葉をもてはやした。結果として、仕事第一主義が生
+まれ、その陰で家族が犠牲になるのは当然と考えられていた。発展途上の国としてやむをえな
+かったのかもしれないが、しかし今、多くの人がそうした生き方に疑問をもち始めている。九九
+年の終わりに中日新聞社がした調査でも、四五％の日本人が「もっとも大切にすべきもの」とし
+て「家族」をあげた。日本人は今、確実に変わりつつある。
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+こうした賢人の中で、私の心をとらえたのは、Ｆ・コーニグの、つぎの言葉だ。いわく……。
+
+「もっていないものを手にしたとき、その結果として幸福がやってくるのではないということを、私
+たちは忘れてはいけない。そうではなく、幸福というのは、今、私たちがもっているものに気づ
+き、それを評価することの結果として、やってくる」と。
+
+　同じようなことだが、アンディ・ルーニィ※も、こう言っている。
+　
+「人生では、すばらしいことなど、めったにない。朝起きて、仕事をして、それを終えて、家族や
+友といっしょに食事することを楽しみなさい。そうすれば、それぞれのときに、あなたは幸福に
+なる。もし人が、幸福の基盤を、新しい仕事や、莫大なお金や、完ぺきな結婚生活や、パリへ
+の旅行など、そういった大きなできごとに置くなら、ほとんどの時間で、その人は、幸福ではな
+いということになる。しかし一方、幸福を、おいしい朝食や、庭の花や、飲んだり、昼寝したりす
+ることに求めるなら、あなたはすばらしい幸福とともに、人生を過ごすことができる」と。
+
+　それはそのとおりで、もし名誉や地位、肩書きや権威、権力が、幸福の条件とするなら、人間
+は、数十万年のうちの、（数十万年、引く、二〇〇〇年）の間は、不幸だったということになる。
+なぜなら、こうした亡霊が人間社会を支配するようになったのは、せいぜい、この二〇〇〇年
+にすぎないからである。……とまあ、こんなこと改めて、書くまでもない。
+
+　しかし現実には、こうした亡霊にとりつかれている人は、多い。あなたのまわりにも、いる。私
+の知人の中にも、いる。定年退職をしてからも、過去の栄光（？）にしがみつき、それをふりか
+ざして、いまだに威張りちらしている。もっともそれで本人がそれなりにハッピーなら、それでよ
+いのだが、実際には、（多分？）、日々を悶々とした気分で過ごしている。そういう人にとって
+は、過去の栄光を否定されることは、自分の人生を否定されることに等しい。だから、猛烈に
+反発する。
+
+　これは本当の話だから、正直に書く。ウソの話ではない。
+
+その人は、長い間、ある研究所の研究員をしていた。そして四〇歳くらいのとき、Ｈ大学の助
+教授になり、つづいて五〇歳少し前に、教授になった。現役時代には、ある研究団体の会長に
+もなっている。その彼と議論しているとき、ふとしたことから、喧嘩になってしまった。彼は、メー
+ルで、私にこう言ってきた。
+
+　「君だって、文部省あたりから仕事が回ってくれば、シッポを振る口ではないのかね」「君だか
+ら、正直に言ってやるが、君が称している研究など、この世界では、価値がない。いいかね、研
+究というのは、公的な機関で認められてはじめて、意味をもつんだよ」「田舎のおばちゃんたち
+を相手に、偉そうな文章を書いても、意味はないよ」「君の書いている本などというのは、資源
+のムダづかい。君が一冊、本を出すたびに、インドネシアの森林が、数十本、犠牲になるんだ
+よ」「偉く国際人ぶっているが、君が本当に知っている外国は、オーストラリアという田舎だけで
+はないのかね」と。最後には、こう言った。「君は、知識をひけらかしている、ただのバカだ」と。
+
+　しかし私とて、負けていない。
+
+　「公的機関で、税金で研究している男が、何を偉そうなことを言うか」「あなたのまわりの人間
+は、自分もその恩恵にあやかりたいから、あなたにペコペコしているだけだ」「文句があるな
+ら、裸で私と勝負してみろ」「こちらは生きる糧（かて）を稼ぎながら、そのあいた時間で、ものを
+書いている。あんたとは、立場が基本的に違う」「文部省から仕事がくれば、ありがたいことだ。
+いくらでもシッポを振ってやる。そのかわり、ちゃんと、お金をもらう」「文化というのは、大衆が
+つくる。あんたが言うところの、田舎のおばちゃんたちがつくる。あんたのような雲の上の、偉
+い人ではない。文句あるか！」と。
+
+　そうそう、こんなことも言った。「君は、教育で金もうけする。私は、教育そのものに生きる」
+と。そこで私はこう反論した。「あなたは、上ばかり見て、教育論を書く。私は、下の人のため
+に、教育論を書く」と。
+
+　実のところ、こうした不毛の議論が、三か月ほど、つづいた。で、私のほうがあるときから返
+事を書かなくなり、それでその人との交際は、終わった。今も、まったく音信はない。私も若か
+った。しかしその心意気だけは、今も変わらない。
+
+　ずいぶんと熱い話になってしまったが、この事件が、私の考え方に大きな影響を与えたこと
+は言うまでもない。以後、私は、権威や権力を振りかざす人には、生理的な嫌悪感を覚えるよ
+うになった。
+
+ところで、この話には、余談がある。一つは、その人からメールが入るたびに、はげしい動悸
+と、不快感が私を襲ったということ。不愉快だった。それにもう一つは、それまでそれほど好き
+ではなかった、尾崎豊の『卒業』が好きになったこと。ある時期は、毎日、その曲を聞きなが
+ら、うさ晴らしをした。（これは本当に、ホント！）
+
+　さてさて、幸福というのは、私たちの身のまわりにある。そして今の今も、私たちに見つけても
+らうのを、じっと、静かに待っている。賢明な人は、それをなくす前に気づき、そうでない人は、
+なくしてから気づく。もう一言、つけ加えるなら、賢明な人は、若いうちにそれに気づき、そうでな
+い人は、死んでも気づかない。
+　
+Ｍ・ワシントンが言っているように、幸福とは、心のもち方で決まる。いわく、「私は、つぎのこと
+を学んだ。つまり幸福にせよ、悲惨にせよ、その大部分は、私たちのおかれた環境ではなく、
+私たちの気質によるものだということを」と。この言葉は、おおいに参考になる。
+（０３０７２２）
+
+※アンディ・ルーニィ……１９１９生まれ、アメリカの著名ニュース・コメンテイター
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++
+
+孤独論
+
+　孤独は、あらゆる人が共通してもつ、人生、最大の問題といってよい。だからもしあなたが
+今、孤独だからといって、それを恥じることはない。隠すこともない。大切なことは、その孤独
+と、いかにうまく共存するかということ。さあ、あなたも声を出して叫んでみよう。「私はさみしい」
+と。マザーテレサは、つぎのように語っている。
+
+　訳はかなりラフにつけたので、必要な方は、原文をもとに、自分で訳してほしい。
+
+★When Christ said: "I was hungry and you fed me," he didn't mean only the hunger for 
+bread and for food; he also meant the hunger to be loved. Jesus himself experienced this 
+loneliness. He came amongst his own and his own received him not, and it hurt him then and 
+it has kept on hurting him. The same hunger, the same loneliness, the same having no one to 
+be accepted by and to be loved and wanted by. Every human being in that case resembles 
+Christ in his loneliness; and that is the hardest part, that's real hunger. 
+
+キリストが言った。「私は空腹だった。あなたが食事を与えてくれた」と。彼はただ食物としての
+パンを求める空腹を意味したのではなかった。彼は、愛されることの空腹を意味した。キリスト
+自身も、孤独を経験している。つまりだれにも受け入れられず、だれにも愛されず、だれにも求
+められないという、孤独を、である。彼自身も、孤独になった。そしてそのことが彼をキズつけ、
+それからもキズつけつづけた。どんな人も孤独という点では、キリストに似ている。孤独は、もっ
+ともきびしい、つまりは、真の空腹ということになる。
+
+★No one would choose a friendless existence on condition of having all the other things in 
+the world. - Aristotle
+世界中のあらゆるものを手に入れたとしても、だれも、孤独（friendless condition）は選ばない
+だろう。（アリストテレス）
+
+★No my friend, darkness is not everywhere, for here and there I find faces illuminated from 
+within; paper lanterns among the dark trees. - Carole Borges
+友がいれば、暗闇ばかりとはかぎらない。私は彼らの輝く顔を思い浮かべるが、それが暗い
+木々にかかる、ちょうちんのようなものだ。（Ｃ・ボーグ）
+
+★To dare to live alone is the rarest courage; since there are many who had rather meet 
+their bitterest enemy in the field, than their own hearts in their closet. - Charles Caleb 
+Colton
+あえてひとりで生きるというのも、勇気のいることだ。なぜならクロゼットに心をしまっておくより
+も、戦場で、最悪の敵に会うことを望む人は多い。（Ｃ・Ｃ・コルトン）
+
+★Pray that your loneliness may spur you into finding something to live for, great enough to 
+die for. - Dag Hammarskjold
+あなたが孤独であるなら、何かそのために生きることができる目標が見つかるように、できれ
+ばそのために死ぬことができる目標が見つかるように、祈れ。（Ｄ・ハマーショルド）
+
+★There is no greater sorrow than to recall in misery the time when we were happy. - Dante
+あなたが幸福だったときを、みじめな状態で思い起こすほど、悲しいものはない。（ダンテ）
+
+★We're all lonely for something we don't know we're lonely for. How else to explain the 
+curious feeling that goes around feeling like missing somebody we've never even met? - 
+David Foster Wallace
+私たちがなぜさみしいか、それがわからないのに、私たちは、みな、さみしい。会ったこともな
+いような人をしのぶような、実におかしな感情を、どうやって説明したらよいのか。（Ｄ・Ｆ・ウォレ
+ス）
+
+★The most I ever did for you was to outlive you. But that is much. - Edna St. Vincent Millay
+あなたのためにした最大のことといえば、あなたより長生きをしたことです。それだけです。（Ｅ・
+Ｓ・Ｖ・ミレー）
+
+★The end comes when we no longer talk with ourselves. It is the end of genuine thinking 
+and the beginning of the final loneliness. The remarkable thing is that the cessation of the 
+inner dialogue marks also the end of our concern with the world around us. It is as if we 
+noted the world and think about it only when we have to report it to ourselves. - Eric Hoffer
+自分と話をすることが、もうないとき、終わりはやってくる。それは純粋な思想の終わりであり、
+かつ最終的な孤独のはじまりでもある。はっきりわかっていることは、心の対話の終わりは、私
+たちのまわりの世界に関心をもつことの終わりであるということ。つまり世界というのは、私た
+ちがそれを、自分に問いかけるときのみ、そこにある。（Ｅ・ホッファー）
+
+★With some people solitariness is an escape not from others but from themselves. For 
+they see in the eyes of others only a reflection of themselves. - Eric Hoffer
+他人から逃れるから、孤独になるのではなく、自分から逃れるから孤独になる。なぜなら彼ら
+は、他人に目の中に、自分の姿を見るからである。（Ｅ・ホッファー）
+
+★It is loneliness that makes the loudest noise. This is true of men as of dogs. - Eric Hoffer
+もっとも騒々しいのは、さみしさである。犬も、人間も同じ。（Ｅ・ホッファー）
+
+★"Don't you want to join us?" I was recently asked by an acquaintance when he ran 
+across me alone after midnight in a coffeehouse that was already almost deserted. "No, I 
+don't," I said. - Franz Kafka
+「いっしょに、やらないか？」と、真夜中の、みすぼらしいコーヒーショップで、最近、知りあいの
+男にたずねられた。私は、「いいや」と答えた。（Ｆ・カフカ）
+
+★I've never found a companion as companionable as solitude. - Henry David Thoreau
+孤独ほど仲がよくなりやすい友だちはいないことを、私は知った。（Ｈ・Ｄ・ソロー）
+
+★Ships that pass in the night, and speak each other in passing, Only a signal shown, and a 
+distant voice in the darkness; So on the ocean of life, we pass and speak one another, Only 
+a look and a voice, then darkness again and a silence. - Henry Wadsworth Longfellow
+夜、行きかいながら交信する船。
+暗闇の中の、ただの信号と遠くの声。
+人生の海においても、またそうで、
+私たちは通りすぎ、会話を交わす。
+ただ見て、たがいに声をかける。
+それから再びやってくる、暗闇と静寂。（Ｗ・ロングフェロー）
+
+★Oh, sweet sorrow, the time you borrow, will you be here when Ｉ wake up tomorrow? - 
+Katherine Wolf
+オー、甘い悲しみよ、生きながらえて、あなたは明日、私が目ざめるとき、ここにいるだろうか。
+（Ｋ・ウルフ）
+
+★What should young people do with their lives today? Many things, obviously. But the most 
+daring thing is to create stable communities in which the terrible disease of loneliness can 
+be cured. - Kurt Vonnegut
+今日、若い人たちは、自分の人生をどうすべきか？　明らかに多くのことがある。しかしもっと
+も大切なことは、孤独という恐ろしい病気が癒されるべき、確かな人間関係をつくりあげること
+である。（Ｋ・ボネー）
+
+★In solitude, where we are least alone - Lord Byron
+孤独の中で、我、ひとりにあらず。（L・バイロン）
+
+★Life dies inside a person when there are no others willing to be-friend him. He thus gets 
+filled with emptiness and a non-existent sense of self-worth. - Mark R. J. Lavoie
+喜んで彼の友になる人なければ、人生は、その人は死ぬ。彼はかくして、空しさに包まれ、生
+きる価値を見失う。（M・R・J・ラボー）
+
+★Music was my refuge. I could crawl into the spaces between the notes and curl my back 
+to loneliness. - Maya Angelou
+音楽は、私の逃げ場。私は音符の間の空間に身をすべらせ、孤独に身をかがめる。（Mアンジ
+ェロウ）
+
+★There is no pleasure to me without communication: there is not so much as a sprightly 
+thought comes into my mind that it does not grieve me to have produced alone, and that I 
+have no one to tell it to. Michel Eyquem De Montaigne
+人との交わりのない喜びというのは、私には考えられない。たとえばこれはと思うひらめきがあ
+ったとき、私はそれを自分ひとりで考え出したとは思わないし、それをだれかに話さずにはおら
+れない。（M・E・D・モンテニュー）
+
+★Our language has widely sensed the two sides of being alone. It has created the word "
+loneliness" to express the pain of being alone. And it has created the word "solitude" to 
+express the glory of being alone. - Paul Tillich
+私たちの言語は、ひとりでいることについて、二つの見方をする。一つは、「さみしさ」という語
+で、これは、ひとりでいることの苦痛を意味する。そしてもう一つは、「孤独」という語で、これは
+ひとりでいることの栄光を意味する。（P・チリッヒ）
+
+★God made everything out of nothing, but the nothingness shows through. -Paul Valery
+神は、無からすべて作り出した。しかし無は、透けて現れる。（Ｐ・バレリイ）
+
+★The person who tries to live alone will not succeed as a human being. His heart withers if 
+it does not answer another heart. His mind shrinks away if he hears only the echoes of his 
+own thoughts and finds no other inspiration. - Pearl S. Buck
+ひとりでいようと思う人は、人間としては、成功しない。もしだれの心にも答えることがなけれ
+ば、その人の心は、しぼみ、もし彼自身の心のエコーだけを聞いているならば、その人の心
+は、縮む。そして新しい発見も、そこで終わる。（Ｐ・Ｓ・バック）
+
+★When you're lonley, go to the music store and visit with your friends. - Penny 
+Lane, "Almost Famous"
+さみしかったら、あなたの友と、ミュージック・ショップへ行け。（Ｐ・レイン）
+
+★The body is a house of many windows: there we all sit, showing ourselves and crying on 
+the passers-by to come and love us. - Robert Louis Stevenson
+体は、たくさんの窓がある家。その窓辺に座って、自分を見せ、その外を行き交う人に、やって
+きて、自分を愛するようにと泣き叫ぶ。（Ｒ・Ｌ・スティーブンソン）
+
+★Time takes it all, whether you want it to or not. Time takes it all, time bears it away, and 
+in the end there is only darkness. Sometimes we find others in that darkness, and 
+sometimes we lose them there again. - Stephen King, "The Green Mile"
+時は、すべてを奪う。あなたがそれを望むと、望まないとにかかわらず。時は、すべてを奪い、
+運び去る。そして最後には、暗闇のみ。ときに私たちはその暗闇の中に、人を見る。そしてとき
+に私たちは、その人すら再び見失う。（Ａ・キング・「グリーンマイル」）
+
+★Better be alone than in bad company - Thomas Fuller
+悪い仲間といるくらいなら、ひとりのほうがよい。（Ｔ・フラー）
+
+★The whole conviction of my life now rests upon the belief that loneliness, far from being a 
+rare and curious phenomenon, peculiar to myself and to a few other solitary men, is the 
+central and inevitable fact of human existence. - Thomas Wolfe
+今や私は、人生の中で、孤独というのが、人間の存在には欠かせないものであることを、信念
+として発見した。その孤独というのは、とくに私や、二、三の孤独な人にとっては、まったく理解
+しがたい奇妙な現象ではあるが……。（Ｔ・ウルフェ）
+
+★And I look again towards the sky as the raindrops mix with the tears I cry. - Unknown
+雨と涙が混ざるように、私は再び空を見あげる。（作者不詳）
+
+★One may have a blazing hearth in one's soul, and yet no one ever comes to sit by it. - 
+Vincent Van Gogh
+人は、魂の中に、燃えさかる暖炉をもっているかもしれないが、だれもそのそばにきて、座るこ
+とはない。（Ｖ・Ｖ・ゴッフォ）
+
+★Skillful listening is the best remedy for loneliness, loquaciousness, and laryngitis. - William 
+Arthur Ward
+孤独な人、多弁な人、咽頭炎の人には、しっかりと耳を傾けてあげよう。それが最善の治療法
+だから。（Ｗ・Ａ・ウォード）
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+　ここでは「loneliness」（さみしさ）と「solitude」（孤独）を、ともに「孤独」と訳した。孤独は、たいて
+いさみしさをともなう。中に、孤独を楽しむ人もいるというが、私にはそういう人の気持ちが、理
+解できない。私にとって孤独は、人生、最大の敵。孤独と戦うことが、生きることの目的にもな
+っている。
+
+　私は冒頭で、「孤独との共存」を口にした。いかなる方法をもってしても、孤独を取り除くこと
+ができないなら、共存するしかない。それが今の、私の考え方である。それは人間が、原罪とし
+てもって生まれたものではないかと思う。つまり「知恵ある生物」が、その知恵で、自分が孤独
+な存在であることに気づいてしまった。
+
+　もし人間が、もう少しバカなら、バカなまま、何も考えることもなく、従って孤独になることもな
+かった。へたに利口になってしまったから、孤独を感ずるようになってしまった。「原罪的」という
+のは、そういう意味である。
+
+　こうして世界の賢人の言葉を拾い集めてみると、幸福論と孤独論は、ちょうど紙の表と裏の
+関係にあるのがわかる。そして多くの賢人が、幸福を追求するかたわら、孤独について語って
+いる。この中で、とくに私の関心をひいたのが、マザーテレサの言葉。「イエスも孤独だった」と
+いう言葉である。私は、これを読んでほっとした。多分、あなたもそうであろう。
+（０３０７２５）
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+人生論
+
+　人生は、どのように生きるべきなのか。私も考えているし、多分、あなたもそうであろう。もち
+ろん多くの賢人たちも、そうであった。Ｃ・ソレスクが言っているように、バカで生きればそれなり
+に楽だが、そういう人生に、どれほどの意味があるというのか。反対に、Ｃ・Ｓ・ルイスが言うよ
+うに、生きる意味などというものは、言葉で表現できるような問題でもなさそうだ。
+
+　『人生は、チョコレートの箱のようなもの。食べてみるまでは味はわからないよ』（映画「フォレ
+スト・ガンプ」）というのが、どうも答のようだが、しかしこれでは答になっていない？　懸命に生
+きることに価値があるとしたトルストイもいる。さて、あなたは、あなたの人生を、どのように考
+えているか？　世界の賢人たちの言葉に、耳を傾けてみよう。（英文は、イギリスのフリー投稿
+ボードに掲載されたものから選んだ。）
+
+★"If you live to be a hundred, I want to live to be a hundred minus one day, so I never 
+have to live without you." - Winnie The Pooh
+もしあなたが１００年生きるなら、私は、１００年マイナス一日、生きたい。そうすれば私はずっ
+と、あなたといっしょに生きることができる。（ウィニー・ザ・プー）
+
+★There is only one success -- to be able to spend your life in your own way - 20th 
+Century American Writer Christopher Morley
+唯一の成功がある。つまり、自分のやり方で、自分の人生を生きることだ。（クリストファー・モ
+ーレイ）
+
+★When something is true many words are not necessary. - A Paralyzed Japanese Painter
+そのものが真実であるなら、多くの言葉は必要ない。（日本の画家）
+
+★If I were two-faced, why would I be wearing this one? - Abraham Lincoln
+もし私に二つの顔があるなら、どうしてこの一つをかぶることがあるのだろうか。（Ａ・リンカー
+ン）
+
+★Great spirits have always encountered violent opposition from mediocre minds. - Albert 
+Einstein
+偉大な精神というのは、二流の心をもった人間たちの、猛烈な抵抗にあうものだ。（Ａ・アインス
+タイン）
+
+★Reality is merely an illusion, albeit a very persistent one - Albert Einstein
+現実というのは、幻想だ。たとえしつこいものであっても。
+
+★There's no such thing in anyone's life as an unimportant day - Alexander Woolcott
+だれにとっても、不必要な日というのは、ないものだ。（Ａ・ウールコット）
+
+★All changes, even the most longed for have their melancholy, for what we leave behind us 
+is a part of ourselves. We must die to one life before we can enter another - Anatole France
+すべての変化は、それが長く望まれたものではあっても、もの悲しいもの。なぜなら私たちのう
+しろにあるものは、私たちの部分にすぎないから。私たちはつぎの変化に入る前に、一つの人
+生を生き、そして死なねばならない。（Ａ・フランス）
+
+★There are few things as precious as our emotions, and those so ignorant to play with 
+them are at a complete loss of any good you might have to offer. - Anonymous
+私たちの感情ほど、貴重なものはないのよ。その感情と遊ぶことに無知な人は、ほかの人に
+提供できる大切なものを、ムダにしているのよ。（作者不明）
+
+★Age is a defection of experience. - Brian Anthony, "Archangels"
+年齢というのは、経験からの離脱をいう。（Ｂア・ンソニー）
+
+★We have reached the point where we are now possessed of sufficient information for 
+each individual human to dare to exercise the option to "make it" rather than having to 
+depend on the decisions of an educated elite. - Buckminster Fuller
+私たちは、教育を受けたエリートの決定に頼るというよりは、個人個人が、それをあえて自ら実
+現するための、じゅうぶんな情報をもつようになった。（Ｂ・フラー）
+
+★Dare to be naive. - Buckminster Fuller
+あえてナイーブ（無邪気）であれ。
+
+★It is not for me to change you. The question is, how can I be of service to you without 
+diminishing your degrees of freedom? - Buckminster Fuller
+あなたを変えるのは私ではない。問題は、いかにして、あなたの自由を減らすことなく、あなた
+に仕えることができるか、だ。（Ｂ・フラー）
+
+★Our passions are not too strong, they are too weak. We are far too easily pleased. - C.S. 
+Lewis
+我々の感情は、あまり強くない。弱いだけだ。我々はそのため、何かにつけて、すぐ喜びやす
+い。（Ｃ・Ｓ・ルイス）
+
+★He who takes his life for granted is a pencil without an eraser. - C.S. Lewis
+人生を当然のように考えている人は、消しゴムのない鉛筆のようなものだ。（Ｃ・Ｓ・ルイス）
+
+★Life is too deep for words, so don't try to describe it, just live it. - C.S. Lewis
+人生は、言葉で言い尽くせないほど、深い。それでそれを言葉で表現しようと思うな。ただ生き
+ろ。（Ｃ・Ｓ・ルイス）
+
+★It is very simple to play as fool! You don't have to prove nothing. - Catalin Sorescu
+バカとして生きることは、とても簡単なこと。あなたは何も証明する必要がない。（Ｃ・ソレスク）
+
+★Kindness is just about the best you can do. - Charles Bukowski
+親切が、あなたがなしうる最善のことだ。（Ｃ・ブコウスキィ）
+
+★The first half of our lives is ruined by our parents, and the second half by our children - 
+Clarence Darrow
+あなたの人生の最初の半分は、親によって滅ぼされる。あとの半分は、子どもによって滅ぼさ
+れる。（Ｃ・ダロウ）
+
+★To know is to know that you know nothing. That is the true meaning of knowledge - 
+Confucious
+知るということは、あなたが何も知らないことを知ることである。それが真の知識の意味であ
+る。（孔子）
+
+★It does not matter how slowly you go as long as you do not stop. - Confucious
+あなたが立ち止まらさえしなければ、いかにゆっくり進もうと、問題ではない。（孔子）
+
+★You don't really own anything you can't carry on your back at a dead run. - Daniel Keys 
+Moran 
+背中に負って、死にものぐるいで走らないなら、あなたは、何も自分のものとすることができな
+い。（Ｄ・Ｋ・モラン）
+
+★Fantasy is a necessary ingredient in living, it's a way of looking at life through the wrong 
+end of a telescope and that enables you to laugh at life's realities. - Dr. Suess
+ファンタジーというのは、生きる上においては、重要な要素である。それはたとえて言うなら、望
+遠鏡を反対からのぞくようなもので、人生の現実を、笑うことができるようになる。（スエス博士）
+
+★There is a certain satisfaction in living a life in complete and total failure. - Edward Abbey
+不完全で失敗だらけの人生を生きることには、ある種の満足感がある。（Ｅ．アビー）
+
+★Life is like playing the violin solo in public and learning the instrument as you go. - Edward 
+Geroge Bulwer-Lytton
+人生は、公の面前でバイオリンをひくようなものだ。そしてひきながら、その楽器の使い方を学
+ぶようなものだ。（リットン）
+
+★"If you wind up with a boring, miserable life because you listened to your mom, your dad, 
+your teacher, your priest, or some guy on TV telling you how to do your shit, then YOU 
+DESERVE IT." - Frank Zappa
+「もしあなたが、あなたの母親や父親、先生や牧師、それにＴＶの男たちが、クソの仕方（＝くだ
+らない話）を話したことにより、あなたが退屈でみじめな生活を、何とかしようと考えたとしたら、
+あなたはそれだけの人間ということよ」（Ｆ・ザッパ）
+
+★In the fight between you and the world, back the world. - Franz Kafka
+もしあなたと世界が戦うなら、世界にもどれ。（Ｆ・カフカ）
+
+★I do my thing, and you do your thing. I am not in this world to live up to your 
+expectations, and you are not in this world to live up to mine. You are you, and I am I, and if 
+by chance we find each other, it's beautiful. - Frederick E. Perl
+私は私のことをする。あなたはあなたのことをする。私はあなたのために生きるのではない。
+あなたも私のために生きるのではない。あなたは、あなた。私は私。それでいてもしたがいに
+知りあいになるなら、それはすてきなこと。（Ｆ・Ｅ・パール）
+
+★A life spent making mistakes is not only more honorable but more useful than a life spent 
+doing nothing. - George Benard Shaw
+失敗をする人生は、何もしない人生より、もっと名誉あるもののみならず、もっと有用なもので
+ある　（Ｇ・バーナード・ショー）。
+
+★To be awake is to be alive. - Henry David Thoreau
+目覚めているということは、生きているということ。（Ｈ・Ｄ・ソロー）
+
+★Love your life poor as it is. You may perhaps have some pleasant, thrilling, glorious hours 
+even in a poorhouse. - Henry David Thoreau
+貧しい生活を、愛せよ。あなたは貧しい家で、何か居心地がよく、スリルがあって、輝きにあふ
+れたときをもつであろう。（Ｈ・Ｄ・ソロー）
+
+★Three things in human life are important. The first is to be kind. The second is to be 
+kind. And the third is to be kind. - Henry James
+人生には三つのものが必要である。親切であること。つぎに親切であること。三番目に親切で
+あること。（ヘンリー・ジェームズ）
+
+★When you forget to eat you know you're alive. - Henry Miller
+食べるのを忘れたとき、あなたは生きていることを知る。（ヘンリー・ミラー）
+
+★When life hands you a lemon, say "Oh yeah, I like lemons. What else you got?" - Henry 
+Rollins
+人生が君にレモンを渡すとき、こう言え。「オー、そうだ。私はレモンが好きだ。ほかに何をもっ
+ているか？」と。
+
+★Sociability is a big smile, and a big smile is nothing but teeth. Rest and be kind. - Jack 
+kerouac, "The Scripture of the Golden Eternity #30"
+社交性というのは、大きなほほえみで、ほほえみというのは、ただの歯以外の何ものでもな
+い。体を休めて、親切であれ。
+
+★Nature wants children to be children before men . . . Childhood has its own seeing, thinkin 
+and feeling. - Jean-Jacques Rousseau
+自然は、おとなになる前、子どもは子どもであることを欲する。子どもには、独特の見方、考え
+方、感じ方がある。（Ｊ・Ｊ・ルソー）
+
+★For all the sad things of tounge or pen, the worst are these,"it might have been." - John 
+Greenleaf Whittier
+言葉にせよ、書いたものにせよ、「それはこうであったかもしれない……」というものほど、最悪
+なものはない。（ＪＧウィッティアー）
+
+★No one wants advice, only collaboration. - John Steinbeck
+だれもアドバイスなんか、ほしくない。ほしいのは手助けだ。（Ｊ・スタインバック）
+
+★Maybe a long life does have to be filled with many unpleasant conditions, if it's to seem 
+long. But in that event, who wants one. - Joseph Heller, "Catch-22"
+もし人生が長く見えるなら、その長い人生には、いやなことも多い。しかしもしそうなら、だれ
+が、そんな人生を望むだろうか。（Ｊ・ヘラー）
+
+★Always be a first-rate version of yourself, instead of a second-rate version of anybody 
+else. - Judy Garland
+いつもあなたの第一バージョンであれ。決して他人の第二バージョンになるな。（Ｊ・ガーランド）
+
+★"Movies are open doors, and at every door, I change character and life...I live for the 
+present always. I accept this risk. I don't deny the past, but it's a page to turn." - Juliette 
+Binoche (French Actress)
+映画は、開いたドア。そしてそのドアごとに、私はキャラクターと人生を変える。私はいつも現実
+を生きる。私はこのリスクを受け入れる。過去を否定しない。それはめくるべき、一ページ。
+（Ｊ・ビノシェ）
+
+★We are what we pretend to be, so we must be careful about what we pretend to be. - 
+Kurt Vonnegut
+われわれは、そのフリをした人間になっている。だから、我々がどんなフリをしたか、注意深く
+なければならない。（Ｋ・ボネー）
+
+★When we were children, we used to think that when we were grown-up we would no longer 
+be vulnerable. But to grow up is to accept vulnerability... To be alive is to be vulnerable. - 
+Madeleine L'Engle
+子どものころ、私たちはおとなになれば、強くなれると思っていたもの。しかし成長するというこ
+とは、人間のもろさを受け入れるということ。つまり生きているということは、キズつきやすくなる
+ことである。（Ｍ・レンゲル）
+
+★Twenty years from now you will be more disappointed by the things that you didn't do 
+than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. 
+Catch the trade winds in your sails. Explore. Dream. Discover. - Mark Twain
+２０年後に、それによってあなたがしたことよりも、あなたがしなかったことによって、あなたはさ
+らに失望するだろう。ヒモをなげろ。安全な港から、航海に出ろ。帆で。風を受けろ。冒険せ
+よ。夢を見ろ。発見せよ。（マーク・トウェイン）
+
+★Wink at a homely girl, it costs you so little & does her so much good. - Menken
+かわいい娘にウィンクしな。簡単なことだが、彼女には、大きな意味をもつよ。（ウェンケン）
+
+★Once a person has all the things they need to live, everything else is entertainment. - 
+Neal Stephenson In
+生きるために必要なものをすべて手に入れたら、もう一つ必要なのは、娯楽。（Ｎ・Ｓ・イン）
+
+★What a strange machine man is! You fill him with bread, wine, fish, and radishes, and out 
+comes sighs, laughter, and dreams. - Nikos Kazantzakis
+人間は、何と奇妙な機械のことよ。パン、ワイン、魚、ラディシュで体を満たし、出てくるのは、
+ため息と、笑いと夢。（Ｎ・カザンザキス）
+
+★The truth is rarely pure and never simple. - Oscar Wilde
+真実というのは、えてして不純なものであり、決して単純なものではない。（オスカー・ワイルド）
+
+★Ordinary riches can be stolen; real riches cannot. In your soul are infinitely precious 
+things that cannot be taken from you. - Oscar Wilde
+ふつうの富は、盗まれる。しかし真の富は、盗まれない。あなたの魂の中には、盗まれることの
+ない、永遠に貴重なものがある。（オスカー・ワイルド）
+
+★Nowdays people know the price of everything, and the value of nothing. - Oscar Wilde
+今日、人々は、すべてのものの価値を知っている。つまり無の価値を、である。（オスカー・ワイ
+ルド）
+
+★We do not necessarily improve with age: for better or worse, we become more like 
+ourselves. - Peter Hall
+年齢とともに、よくなるか悪くなるか、ともかくも、進歩するとはかぎらない。我々は、年齢ととも
+に、より自分らしくなるということ。（Ｐ・ホール）
+
+★Perfection means not perfect actions in a perfect world, but appropriate actions in an 
+imperfect one. - R. H. Blyth
+完ぺきな世界では、完ぺきは、完ぺきな行動を意味しない。しかし適当な世界では、適当な行
+動が、完ぺきな行動を意味する。（Ｒ・Ｈ・ブライス）
+
+★Is this the end of everything?　 Fifteen minutes later and oh, how I've changed. - Rainer 
+Maria
+これがすべての終わりかい？　１５分もたてば、私はいかに変わっていることか。（Ｒ・マリア）
+
+★No law can be sacred to me but that of my nature. - Ralph Waldo Emerson
+自然の法以外、どんな法律も、私には神聖ではない。（Ｒ・Ｗ・エマーソン）
+
+★We live on the planet of the Apes. Is that funny, or serious? - Robert Anton Wilson
+我々は、サルの惑星に住んでいる。それはおかしなことなのか。それとも、深刻なことなのか。
+（Ｒ・Ａ・ウィルソン）
+
+★In three words I can sum up everything I've learned about life - It goes on. - Robert Frost
+私は三つの単語に、私が学んだ人生、すべてを要約する。つまり、「それはつづく」ということ。
+（ロバート・フロスト）
+
+★Be glad you had the moment - Steve Shagen
+その瞬間があったということを、喜べ。（Ｓ・シェイジェン）
+
+★To know you have enough is to be rich. - Tao
+充足を知るということは、リッチということ。（タオ）
+
+★Ninety percent of everything is crap. - Theodore Sturgeon
+すべての９０％は、サイコロ賭博。（Ｔ・スタージャン）
+
+★Don't cry because it's over, smile because it happened. - Unknown
+もう終わったから、泣くなよ。そうなってしまったんだから、笑えよ。（不明）
+
+★Each player must accept the cards life deals him or her: but once they are in hand, he or 
+she alone must decide how to play the cards in order to win the game. - Voltaire
+人生がその人に配るカードは、そのまま受け入れなければならない。それらがいったん、手に
+渡されたら、勝つためには、どうやってプレーをすればいいのか、考えなければならない。（ボ
+ルテール）
+
+★You never know what is enough unless you know what is more than enough. - William Blake
+もしあなたが、何が、じゅうぶん以上のものであるかを知らなければ、何がじゅうぶんかを知る
+ことは決してない。
+
+★"Against my will, I am sent to bid you....come into dinner.......There's a double meaing in that!
+" Benadict - William Shakespeare
+「私の意思に反して、私はあなたに乞うために送られてきた。つまり夕食に。これには二つの
+意味がある」（シェークスピア）
+
+★The world is conspiring in youｒ　favor. - Written on the street in front of the Metropolitan 
+Museum of Art.
+世界は、あなたとともにある。（メトロポリタン・ミュージアム・オブ・アートの前の通りに書かれた
+言葉）
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+人生
+
+　ジョン・レノンは、つぎのように言っている。
+
+★You make your own dream. That's the Beatles' story, isn't it? That's Yoko's story . That's 
+what I'm saying now. Produce your own dream. If you want to save Peru, go save Peru. It's 
+quite possible to do anything, but not to put it on the leaders and the parking meters. Don't 
+expect Jimmy Carter or Ronald Reagan or John Lennon or Yoko Ono or Bob Dylan or 
+Jesus Christ to come and do it for you. You have to do it yourself. That's what the great 
+masters and mistresses have been saying ever since time began. They can point the way, 
+leave signposts and little instructions in various books that are now called holy and 
+worshipped for the cover of the book and not for what it says, but the instructions are all 
+there for all to see, have always been and always will be. There's nothing new under the sun. 
+All the roads lead to Rome. And people cannot provide it for you. I can't wake you up. You 
+can wake you up. I can't cure you. You can cure you. 
+- John Lennon, In Music/John Lennon 
+
+君は、自分の夢を作るよね。それはビートルズの物語だよね。それはヨーコの物語だよ。その
+ことを今、ぼくは言っているよ。君自身の夢を生み出しなよ。ペルーを救いたかったら、ペルー
+へ行って、救えばいい。何だってできるよ。しかしね、それをどこかのリーダーに任せたり、パ
+ーキングメーターに任せちゃ、だめだよ。
+
+ジミー・カーターや、ロナルド・レーガンや、ジョン・レノンや、ヨーコ・オノや、ボブ・ディラン、ある
+いはイエス・キリストが、君のためにやってきて、君のためにするなんて、期待しちゃ、だめだ
+よ。自分でしなければ、いけないよ。
+
+それは、この世が始まってからというもの、偉大な人たちが、みんな言っていることだよ。彼ら
+はみな、いろいろな本の中で、道を示して、道しるべを立て、少しのやり方を示すことはできる
+よ。本の表紙を飾るために、神聖なとか、いろいろ書いてはあるけどね。しかしそのやり方とい
+うのは、そこにあるんだ。今までもあったし、これからも、ね。
+
+太陽の下には、何も新しいものはないよ。すべての道はローマにつづくよ。だれも、君のため
+にはしてくれないよ。ぼくだって、君を起こすことはできない。癒（いや）すことはできない。君だ
+けが、それをできるよ。
+（ジョン・レノン）
+
++++++++++＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+★The reasonable man adapts himself to the world; the unreasonable one persists in trying 
+to adapt the world to himself. Therefore all progress depends on the unreasonable man. - 
+George Bernard Shaw, (1856 - 1950) "Man and Superman (1903) "Maxims for Revolutionists
+", In Struggle/Progress
+合理的な人間は、自分を、世界に適応させようとする。しかし非合理的な人間は、世界を彼に
+適応させようとする。それゆえにすべての進歩は、非合理的な人間に頼ることになる。（Ｇ・バ
+ーナードショー）
+ 
+★Usually, terrible things that are done with the excuse that progress requires them are not 
+really progress at all, but just terrible things. - Russell Baker In Struggle/Progress 
+ふつう、そのひどいことが進歩のために必要だったという言い訳をともなう進歩は、進歩ではな
+い。それは、ただひどかっただけだ。（Ｒ・ベーカー）
+
+★Every day you may make progress. Every step may be fruitful. Yet there will stretch out 
+before you an ever-lengthening, ever-ascending, ever-improving path. You know you will 
+never get to the end of the journey. But this, so far from discouraging, only adds to the joy 
+and glory of the climb. - Sir Winston Churchilｌ, In Struggle/Progress 
+毎日、君は、進歩するかもしれない。それぞれの一歩は、実りあるものかもしれない。しかしさ
+らにその先には、より長く、より高く、より前に伸びた道が伸びているだろう。君は、決して、そ
+の旅の終わりに到着することはない。しかし君は落胆するということはない。君は、登る喜びや
+栄光を自分のものにするだろう。（Ｗ・チャーチル）
+
+★Each person was to himself one alone. One oneness, a unit in a society, but always afraid, 
+always alone. If I should scream, if i should call for help, would anyone hear... would it even 
+matter? - Ray Bradbury, "Dandelion Wine", In Loneliness 
+人間というのは、自分に対しは、またくのひとりぼっち。まったくの一人。社会における単体。い
+つも恐れ、いつもひとり。叫べば、だれかが助けてくれるだろう。助けを求めれば、だれかが助
+けてくれるだろう。しかしそれが、どうだというのだい？（Ｒ・ブラッドベリー）
+
+★Indeed, I tremble for my country when I reflect that God is just: that his justice cannot 
+sleep forever. - Thomas Jefferson, In Religion 
+神は正しく、彼の正義派決して眠ることはないということを知るとき、私は私の国を前にして、身
+をふるわす。（Ｔ・ジェーファーソン）
+
+
+●「神などいない」という、ジョン・レノン。「神がすべて」という、ジェファーソン。さらに「人間はも
+ともとひとりぼっち」と説く、ブラッドベリー。そして「人生にゴールはない」と説く、チャーチル。
+
+　こうした人たちの意見をまとめると、こうなる。
+
+　一応、この世界では、神はいなという前提で生きる。人間は、生まれてから死ぬまで、ひとり
+ぼっち。そういう前提で生きる。その孤独感が、何らかの形で、やわらげば、もうけもの。死ん
+でから、あの世があれば、もうけもの。そして人生には、ゴールはない。そのゴールに向かって
+懸命に生きるところに、意味がある、と。
+（０３０７３１）
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+★Nearly all men can withstand adversity; if you want to test a man's character, give him 
+power. - Abraham Lincoln
+ほとんどすべての人は、逆境にあえば、それと戦う。もしその人の性格を試してみたいと思うな
+ら、彼に力を与えてみろ。（Ａ・リンカーン）
+
+★They that can give up essential liberty to obtain a little temporary safety deserve neither 
+liberty nor safety. - Ben Franklin, "Historical Review Of Pennsylvania"
+ささやかな一時的な安全を得るために、基本的な自由をあきらめるような人は、自由も安全
+も、もつことはない。（Ｂ・フランクリン）
+
+★Government is the Entertainment Division of the military-industrial complex. - Frank 
+Zappa
+政府というのは、軍産共同体の、娯楽部門のようなもの。（Ｆ・ザッパ）
+
+★The body politic, as well as the human body, begins to die as soon as it is born, and 
+carries in itself the causes of its destruction. - Jean Jacques Rousseau
+政治体というのは、人間の体と同じように、生まれたときから、死に始める。つまりそれ自体
+が、破滅の原因をもっている。（Ｊ・Ｊ・ルソー）
+
+★The more that is given the less people will work for themselves, and the less they work 
+the more their poverty will increase. - Leo Tolstoy
+与えられれば与えられるほど、民衆は自分のために働かなくなる。そして働かなくなればなる
+ほど、彼らの貧困は、増大する。（Ｌ・トルストイ）
+
+★Politicians are the same all over. They promise to build a bridge even when there is no 
+river. - Nikita Khrushchev
+政治家なんてものは、みな、同じ。川がないのに、橋をかけてやると、約束する。（Ｎ・フルシチ
+ョフ）
+
+★You only have power over people as long as you don't take everything away from them. 
+But when you've robbed a man of everything he's no longer in your power -- he's free 
+again. - Nobel Prize-Winning Author Alexander Solzhenitsyn
+あなたがすべてを奪い取らない限り、あなたはその人たちの上に、力を行使できる。しかしす
+べてを奪えば、もうかれは、あなたの力の中にはいない。その人は、再び、自由になる。（ノー
+ベル賞受賞者、Ａ・ソルジェニツィン）
+
+★Politics is perhaps the only profession for which no preparation is thought necessary. - 
+Robert Louis Stevenson
+政治というのは、この世界で、唯一、準備のいらない職業である。（Ｒ・Ｌ・スティーブンソン）
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+自然
+
+　アインシュタインは、かつてこう言った。
+
+★The human mind is not capable of grasping the Universe. We are like a little child entering 
+a huge library. The walls are covered to the ceilings with books in many different tongues. 
+The child knows that someone must have written these books. It does not know who or how. 
+It does not understand the languages in which they are written. But the child notes a 
+definite plan in the arrangement of books--a mysterious order which it does not 
+comprehend, but only dimly suspects. - Albert Einstein
+
+人間は、宇宙の全体像を知ることはできない。私たち人間は、巨大な図書館に入り込んだ、小
+さな子どものようなものである。壁は天井まで、いろいろな言語で書かれた書物が、ぎっしりと
+並べられている。その子どもは、だれかがこれらの本を書いたということは知るかもしれない
+が、だれが、どうやって書いたかまでは、わからない。それらの言語を理解することもない。
+が、その子どもは、その本の並べ方について、一定の約束、つまり理解はできないが、ぼんや
+りとした疑いを感じながらも、神秘的な秩序があることに気づくだろう。
+
+　最近、こんなことが、少しずつわかってきた。つまり日本人が言うところの「自然」と、英語で
+言うところの「Ｎａｔｕｒｅ（自然）」とは、どうやら異質のものではないか、と。
+
+　日本人は、平気で、「自然を大切にしましょう」と言う。が、恐らく、そんなことをいうのは、日本
+人だけではないか。ブラジルへ行ったとき、ブラジル人は、あのアマゾンに対して、敵意すら感
+じているというような話を聞いたことがある。またアラブの砂漠の国へ行くと、彼らにとっては、
+自然とは、砂漠を意味する。へたに「自然を大切にしましょう」などと言おうものなら、「お前は
+バカか」と言われるかもしれない。
+
+　また日本が緑豊かな国なのは、日本人が、それだけ自然を愛しているからではない。大切に
+守っているからでもない。たまたま放っておいても、緑だけは、豊富に育つという国だからにほ
+かならない。むしろ日本人ほど、自然を粗末にする国民は、いない。
+
+　先日も、オーストラリアの友人が日本の山々と見ながら、私にこう聞いた。「どうして日本人
+は、山を、コンクリートでおおうのか？」と。日本人の私には見慣れた風景でも、オーストラリア
+人には、奇異に見えるらしい。官僚と土建業と政治家。この三者が一体となって、そうした日本
+独特の風景をつくりあげた。
+
+　そこでアインシュタインの言葉だが、彼がいう「自然」は、日本人が考えている自然より、ずっ
+とスケールが大きい。彼は宇宙を見て、「自然論」を説いている。いわく「私たち人間は、巨大な
+図書館に入り込んだ、小さな子どものようなものである」と。謙遜して、そう言っているようにも
+思えるが、これは自然に対する、　畏敬の念を表した言葉とみるべきではないか。アインシュタ
+インは、あるときいつか、この大宇宙に思いをはせながら、その実大さに、恐れおののいたの
+かもしれない。
+
+　さてさて現在、地球は、たいへんな危機に直面しつつある。地球温暖化がそれである。もちろ
+ん温暖化を阻止することは重要だが、しかしそれ以上に大切なことは、私たちがもつ自然への
+意識を変えることである。でないと、結局は、「いたちごっこ」で終わってしまう。それについて、
+これから先、一つのテーマとして、いろいろと考えてみたい。その手始めに、アインシュタインの
+言葉について、考えてみた。
+（０３０８０５）
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+世界の格言
+
+●世界の格言を、イギリスのあるホームページから、拾い出してみた。かなり荒っぽい翻訳な
+ので、必要な方は、英文のほうを、自分で翻訳してほしい。
+
+●この中で気になったのは、「The reverse side also has a reverse side - Japanese proverb
+（裏には裏がある）」という、日本の（？）格言。「そんなのあったかなあ？」と思いつつ、翻訳し
+てみた。私の不勉強かもしれない。
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+★Four things come not back -- the spoken word, the sped arrow, the past life, and the 
+neglected opportunity. - Arabian Proverb
+四つのものは、帰ってこない。口から出た言葉、放たれた矢、過去の生活、そしてムダにした、
+せっかくの機会。（アラビア）
+
+★Until lions have their historians, tales of the hunt shall always glorify the hunter. - African 
+Proverb
+ライオンたちは歴史をもつまで、狩の話は、ライオンを喜ばす。（アフリカ）
+
+★When two elephants fight it is the grass that suffers. - African Proverb
+二頭の象がけんかをするときというのは、草を取りあうとき。（アフリカ）
+
+★If the enemy within cannot kill us, then the enemy without can do us no harm - African 
+Proverb
+内部の敵が我々を殺すなら、外部の敵は、害はない。（アフリカ）
+
+★The enemy of my enemy is my friend. - Arabian proverb
+敵の敵は、私の友。（アフリカ）
+
+★Fuck it. Let's do it. - Australian Proverb
+やってしまえ。さあ、それをしよう。（オーストラリア）
+
+★Enough is a feast - Buddhist Proverb
+じゅうぶんということが、ごちそう。（仏教）
+
+★That the birds of worry and care fly above your head, this you cannot change,　but that 
+they build nests in your hair，this you can prevent. - Chinese Proverb
+鳥が頭の上を飛ぶことは、だれにも止められない。しかしあなたの髪の毛の中に巣をつくるこ
+とは、止められる。（中国）
+
+★If you want happiness for a lifetime - help the next generation. - Chinese Proverb
+人生を幸福に過ごしたいなら、つぎの世代を助けろ。（中国）
+
+★Only after the last tree has been cut down; Only after the last fish has been caught; Only 
+after the last river has been poisoned; Only then will you realize that money cannot be 
+eaten. - Cree Indian Prophecy 
+最後の木が倒されたあとだけ、最後の魚がとらえられたあとだけ、最後の川が汚されたあとだ
+け、そのときだけあなたはお金が、食べられないことを知る。（インド）
+
+
+★In the rich man's house there is nowhere to spit but in his face - Diogenes
+niet geschoten altijd mis - Dutch Proverb
+金持ちの家では、相手の顔以外に、つばをひっかけるところがない。（オランダ）
+
+★When spiders unite, they can tie down a lion. - Ethiopian Proverb
+クモが力をあわせれば、ライオンを倒すことができる。（エチオピア）
+
+★The death of a friend is equivalent to the loss of a limb. - German Proverb
+友の死は、足をなくすようなもの。（ドイツ）
+
+★Man has himself as his only friend and his only enemy. - Indian Proverb
+人は、自分の中に友をもち、敵をもつ。（インド）
+
+★The frog does not drink up the pond in which it lives - Indian proverb
+カエルは、決して自分が住んでいるところの池の水を飲み干すことはない。（インド）
+
+★Dance as if no one's watching, sing as if no one's listening, and live everyday as if it were 
+your last. - Irish proverb
+だれも見ていないかのように、踊れ。だれも聞いていないかのように歌え。毎日の人生を、最
+後だと思って生きろ。（アイルランド）
+
+★At the end of the game, the pawn and the king go back in the same box. - Italian Proverb
+ゲームの終わりには、歩兵も王も、同じ箱に戻る。（イタリア）
+
+I★f you stand up like a nail you will get hammered down. - Japanese Proverb
+出る釘は、叩かれる。（日本）
+
+★The reverse side also has a reverse side - Japanese proverb
+裏には裏がある。（日本）
+
+★If God lived on earth, people would break his windows. - Jewish Proverb
+神が地上に住むときは、人々は、窓を割る。（ユダヤ）
+
+★Turn your face to the sun and the shadows fall behind you - Maori Proverb
+太陽に顔を向けろ。影はうしろにできる。（マオリ）
+
+★It is better to live one day as a lion, than a thousand days as a lamb. - Roman proverb
+羊として、１０００日生きるよりも、ライオンとして一日生きたほうがよい。（ローマ）
+
+★He who doesn't risk never gets to drink champagne. - Russian Proverb
+リスクを犯さないものは、シャンペーンを飲むことはできない。（ロシア）
+
+★The church is close, but the road is icy. The bar is far, but I will walk carefully. - Russian 
+Proverb
+教会は近いが、道は凍っている。バーへの道は遠いが、注意深くあるくだろう。（ロシア）
+
+★Water that does not move, is always shallow... - Sami proverb
+動かない水は、いつも浅い。（サミ）
+
+★They talk of my drinking but never my thirst - Scottish Proverb
+人は、私が飲むことを話題にするが、私の乾きについては話題にしない。（スコットランド）
+
+★Be humble for you are made of earth. Be noble for you are made of stars. - Serbian 
+proverb
+あなたは大地から生まれたから、謙虚に。あなたは星から生まれたから、高貴に。（セルビア）
+
+★Don't speak unless you can improve upon the silence - Spanish Proverb
+沈黙の重要さを知らないなら、話すな。（スペイン）
+
+★I don't want the cheese, I just want out of the trap. - Spanish Proverb
+チーズがほしいのではない。ワナから抜け出たいだけ。（スペイン）
+
+★Fear less, hope more; eat less, chew more; whine less, breathe more; talk less, say more; 
+hate less, love more; and all good things are yours. - Swedish Proverb
+恐れを少なく、希望を多く。食べる量を少なく、よくかめ。息をたくさん吸って、話を少なくせよ。
+恨みを少なく、人を愛せよ。そうすれば、あなたにもっとよいことが……。（スウェーデン）
+（０３０８１１）
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ジョーク
+
+★In order for three people to keep a secret, two must be dead. - Ben Franklin 
+三人で秘密を守ろうとしたらね、二人が死んでいればいいのさ。（Ｂ・フランクリン）
+
+★In order to keep a true perspective of one's importance, everyone should have a dog that 
+will worship him and a cat that will ignore him. - Dereke Bruce
+自分の重要性のバランスをとりたかったら、自分をあがめる犬と、自分を無視するネコを飼う
+ことだよ。（Ｄ・ブルース）
+
+★I do not want people to be agreeable, as it saves me the trouble of liking them - Jane 
+Austen
+ぼくは、みんなに同意してもらいたくない。めんどうなことに、彼らを好きにならねばならないか
+らね。（Ｊ・オースティン）
+
+★Humor is the absence of terror, and terror the absence of humor. - Lord Richard Buckley
+ユーモアには、恐怖はない。恐怖には、ユーモアはない。（ロード・Ｒ・バックレイ）
+
+★When choosing between two evils, I always like to try the one I've never tried before. - 
+Mae West (1892-1980)
+二つの悪魔から一つを選べと言われたらね、以前、選んだことがないほうの悪魔を選ぶよ。
+（Ｍ・ウェスト）
+
+★Be careful about reading health books. You may die of a misprint. - Mark Twain
+健康の本を読むときは注意しな。ミスプリントが原因で、死ぬことがある。（マーク・ツウェイン）
+
+★The clothes make the man. Naked people have little or no influence on society. - Mark 
+Twain
+衣服が人間をつくるよ。裸の人間というのはね、社会にほとんど影響を及ぼさない。（マーク・ツ
+ウェイン）
+
+★Why don't you write books people can read? - Nora Joyce, To Her Husband James (1882-
+1941)
+どうして人が読めるような本を書かないのかい。（ノラ・ジョイス）
+
+★Fashion is a form of ugliness so intolerable that we have to alter it every six months. - 
+Oscar Wilde
+ファッションというのは、あまりにも、見苦しいので、６か月ごとに変えなければならないもの。
+（オスカー・ワィルド）
+
+★Some cause happiness wherever they go; others whenever they go. - Oscar Wilde
+どこへ行っても幸福をもたらすものもいれば、いつ行っても、幸福をもたらすものもいるよ。（オ
+スカー・ワイルド）
+
+★Physics is like sex: sure, it may give some practical results, but that's not why we do it. - 
+Richard Feynman
+物理学というのは、セックスのようなものだよ。それは何らかの実用的な結果をもたらすが、し
+かしそれが目的というわけではないよ。（Ｒ・フェイナム）
+
+★We had gay robbers last night. They broke in and rearranged the furniture. - Robin 
+Williams
+昨夜、おもしろいドロボーがうちに入ったよ。うちに押し入って、家具を並べ替えてくれたよ。（ロ
+ビン・ウィリアムズ）
+
+★Three o'clock is always too late or too early for anything you want to do - Sartre
+３時という時刻は、いつも、何かをするには、遅すぎる時刻であり、何かをするには、早すぎる
+時刻である。（サルトル）
+
+★If you have weird vegetarian friends it is best not to invite them to a barbecue. - Scott 
+Adams
+あなたにもし、ベジタリアンの友人がいるなら、その友人は、バーベキューには、誘わないこと
+だ。（Ｓ・アダムズ）
+
+★If your lips are extended beyond your nose then you are about to do something rude. - 
+Scott Adams
+唇が、鼻より前に出たなら、それはあなたが何か、失礼なことをするときだ。（Ｓ・アダムズ）
+
+★I don't make jokes. I just watch the government and report the facts. - Will Rogers
+私は冗談を言わない。私はただ、政府が、事実を報告するかどうか、それを監視するだけだ。
+（Ｗ・ロジャーズ）
+【以上、イギリスのフリーソフト掲載ボードより】
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+幸福論
+
+ 幸福とは何か。イギリスの教育格言に、『子どもを幸福で包んであげるのが、最高の教育』と
+いうのがある。それはわかる。そのとおりだと思う。しかし問題は、その中身である。イギリスの
+「自由投稿サイト、The Quote Cache Daily Random Quote List」に載っている格言から、いくつ
+かを選んで、訳してみた。（訳がおかしいと思うときは、原文を読んでほしい。）
+
+　まず登場するのが、アンディ・ルーニィ。
+
+★For most of life, nothing wonderful happens. If you don't enjoy getting up and working and 
+finishing your work and sitting down to a meal with family or friends, then the chances are 
+that you're not going to be very happy. If someone bases his happiness or unhappiness on 
+major events like a great new job, huge amounts of money, a flawlessly happy marriage or a 
+trip to Paris, that person isn't going to be happy much of the time. If, on the other hand, 
+happiness depends on a good breakfast, flowers in the yard, a drink or a nap, then we are 
+more likely to live with quite a bit of happiness.- Andy Rooney
+人生では、すばらしいことなど、めったにない。朝起きて、仕事をして、それを終えて、家族や
+友といっしょに食事することを楽しみなさい。そうすれば、それぞれのときに、あなたは幸福に
+なる。もし人が、幸福の基盤を、新しい仕事や、莫大なお金や、完ぺきな結婚生活や、パリへ
+の旅行など、そういった大きなできごとに置くなら、ほとんどの時間で、その人は、幸福ではな
+いということになる。しかし一方、幸福を、おいしい朝食や、庭の花や、飲んだり、昼寝したりす
+ることに求めるなら、あなたはすばらしい幸福とともに、人生を過ごすことができる。
+
+★Think of all the beauty that's still left in and around you and be happy! - Anne Frank
+あなたのまわりにまだ残っているすべての美しいものを、思い浮かべなさい。そして幸福になり
+なさい。（アンネ・フランク）
+
+★We all live with the objective of being happy; our lives are all different and yet the same. 
+- Anne Frank
+私たちはみな、幸福になりたいと思って生きている。つまり人生はみな、異なっていても、目的
+は同じ。（アンネ・フランク）
+
+★Happiness is a warm puppy. - Charles Schulz
+幸福は、暖かいぬいぐるみ。（チャールズ・シュルツ）
+
+★When I meet people from other cultures I know that they too want happiness and do not 
+want suffering, this allows me to see them as brothers and sisters. - Dalai Lama, Tenzin 
+Gyatso
+他の文化をもっている人に会ったとき、彼らもまた幸福を求め、苦しみを望んでいない。それが
+わかるから、私は彼らをみな、私の兄弟だと思う。（ダライ・ラマ）
+
+★There is a very fine line between "hobby" and "mental illness." - Dave Barry
+「趣味」と、「心の病気」の間には、明確な一線がある。（Ｄ・バリー）
+
+★You get more joy out of the giving to others, and should put a good deal of thought into 
+the happiness you are able to give. - Eleanor Roosevelt
+他人に分け与えることで、あなたはもっと大きな喜びを得る。それはそうだが、しかしそれを与
+えるとき、幸福とは何か、それをよく考えて、すべきである。（Ｅ・ルーズベルト）
+
+★We tend to forget that happiness doesn't come as a result of getting something we don't 
+have, but rather of recognizing and appreciating what we do have. - Frederick Koenig
+もっていないものを手にしたとき、その結果として幸福がやってくるのではないということを、私
+たちは忘れてはいけない。そうではなく、幸福というのは、今、私たちがもっているものに気づ
+き、それを評価することの結果として、やってくる。（Ｆ・コーニグ）
+
+★There is work that is work and there is play that is play; there is play that is work and 
+work that is play. And in only one of these lies happiness. - Gelett Burgess
+仕事の仕事がある。遊びの遊びがある。仕事の遊びもあるし、遊びの仕事もある。しかしこれ
+らの一つだけに、幸福がある。（Ｇ・バーゲス）
+
+★If you have nothing else to do, look about you and see if there isn't something close at 
+hand that you can improve! It may make you wealthy, though it is more likely that it will 
+make you happy. - George Matthew Adams
+ほかに何もすることがなかったら、あなたの近くで、あなたができることがないかを、見てみた
+らよい。そうすれば、あなたは幸福になるだろうし、お金持ちになれる。（Ｇ・Ｍ・アダムズ）
+
+★Shall a man go and hang himself because he belongs to the race of pygmies, and not be 
+the biggest pygmie that he can? Let everyone mind his own business, and endeavor to be 
+what he was made. - Henry David Thoreau, "Walden"
+彼がピグミー（中央アフリカの小人の黒人）だからといって、自殺する人はいるだろうか。ある
+いは彼が、最大のピグミーでないからとって、自殺する人はいるだろうか。他人のことは、ほっ
+ておけ。そして自分のおかれた境遇で、努力せよ。（Ｈ・Ｄ・ソロー）
+
+★For every moment of triumph, for every instance of beauty, many souls must be 
+trampeled. - Hunter S. Thompson
+すべての成功の瞬間に、そしてすべての美の瞬間に、多くの魂が、踏みにじられる。（Ｈ・Ｓ・ト
+ンプソン）
+
+★The fact is always obvious much too late, but the most singular difference between 
+happiness and joy is that happiness is a solid and joy a liquid. - J.D. Salinger
+事実は、いつも明らかに、あとになってわかる。「幸福」と「喜び」の、もっとも大きな違いは、幸
+福というのは、固体だが、喜びは、液体であること。（Ｊ・Ｄ・サリンジャー）
+
+★Three grand essentials to happiness in this life are something to do, something to love and 
+something to hope for. - Joseph Addison
+幸福の三つの大きな要素は、すべきことがあること。愛すべきものがあること。そして希望とす
+べきものがあることである。（Ｊ・アジソン）
+
+★One of the first conditions of happiness is that the link between Man and Nature shall not 
+be broken. - Leo Tolstoy
+幸福の最初の条件は、人間と、自然のつながりを、壊してはいけないということである。（Ｌ・ト
+ルストイ）
+
+★Happiness lies only in that which excites, and the only thing that excites is crime. - 
+Marquis de Sade
+幸福というのは、エキサイトするものに存在し、エキサイトする唯一のものというのは、犯罪で
+ある。（Ｍ・Ｓａｄｅ）
+
+★I've learned from experience that the greater part of our happiness or misery depends on 
+our dispositions and not on our circumstances. - Martha Washington
+私は、つぎのことを学んだ。つまり幸福にせよ、悲惨にせよ、その大部分は、私たちのおかれ
+た環境ではなく、私たちの気質によるものだということを。（Ｍ・ワシントン）
+
+★Everything exists in limited quantity - especially happiness. - Picasso
+すべてのものには、かぎられた量しかない。とくに幸福は！（ピカソ）
+
+★Sooner or later in life everyone discovers that perfect happiness is unrealizable, but 
+there are few who pause to consider the antithesis: that perfect unhappiness is equally 
+unattainable. - Primo Levi
+遅かれ早かれ、だれもが、完ぺきな幸福というのは、自分ではわからないものだということを発
+見する。しかしほとんどの人は、その正反対については、考えない。つまり完ぺきな不幸という
+のは、同じように、達成しがたいものであることを。（Ｐ・レビ）
+
+★It's a funny thing about life; if you refuse to accept anything but the best , you very often 
+get it. - Somerset Maugham
+もしあなたがいつも最高のもの以外は受け取らないとするなら、あなたはそれをしばしば手に
+入れることができるというのは、人生でも、おかしなことだ。（Ｓ・モーガム）
+
+★The supreme happiness in life is the conviction that we are loved -- loved for ourselves, 
+or rather, loved in spite of ourselves. - Victor Hugo
+人生で最高の幸福というのは、私たちが愛されているという確信である。つまり、私たち自身の
+ために愛されているか、もしくは、むしろ、私たち自身のかわりに愛されているという確信であ
+る。（Ｖ・ユーゴ）
+
+★The essentials to happiness are something to love, something to do, and something to 
+hope for. - William Blake
+幸福の重要な部分は、愛すべき何か、すべき何か、そして希望とすべき何かをいう。（Ｗ・ブレ
+イク）
+
+●改めて幸福論
+
+世界の賢人たちは、身近な、ごく平凡な、かつ、ごく日常的な生活の中に、「幸福」を見いだして
+いるのがわかる。つまりこのあたりに、幸福の原点があるのでは。ここまで書いて、私は、ボー
+ムという人が書いた、「オズの魔法使い」を思い出した。それについて書いたのが、つぎの原稿
+である。「家族主義」について書いた原稿である。（私の本から、転載。）
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+家族主義と幸福論
+
+●幸福の原点は家庭にある
+
+ボームが書いた物語に「オズの魔法使い」がある。カンザスの田舎に住む、ドロシーという女の
+子と、犬のトトが虹のかなたにある幸せを求めて、冒険するという物語である。こんなことがあ
+った。
+
+　オーストラリアにいたころ、仲間に「君たちはこの国（カントリー）が、インドネシア軍に襲われ
+たらどうするか」と聞いたときのこと。皆はこう答えた。「逃げる」と。「おやじの故郷のスコットラ
+ンドへ帰る」と言ったのもいた。何という愛国心！　私があきれていると、一人の学生がこう言
+った。「ヒロシ、オーストラリア人が手をつないで一列に並んでもすきまができるんだよ。どうして
+この国を守れるか」と。
+
+　英語でカントリーというときは、「国」というよりは、「土地」を意味する。そこで質問を変えて、
+「では、君たちの家族がインドネシア軍に襲われたらどうするか」と聞くと、皆血相を変えてこう
+言った。「そのときは、命がけで戦う」と。これだけではないが、私はいつしか欧米人の考え方
+の基本に、「家族」があることを知った。愛国心もそこから生まれる。
+
+たとえばメル・ギブソンの映画に『パトリオット』というのがあった。日本語に訳する「愛国者」と
+いうことになるが、もともとパトリオットという語は、ラテン語のパトリス、つまり「父なる大地」とい
+う語に由来する。つまり欧米で、「ペイトリアチズム（愛国心）」というときは、「父なる土地を愛す
+る」あるいは、「同胞を愛する」を意味する。その映画の中でも、国というよりは家族のために
+戦う一人の父親が、テーマになっていた。
+
+　家族主義というと、よく小市民的な生き方を想像する人がいる。しかしそれは誤解。冒頭にあ
+げたオズの魔法使いの中でも、人間が求めている幸福は、そんな遠くにあるのではない。あな
+たのすぐそばで、あなたに見つけてもらうのを、息を潜めて待っている…。ドロシーは長い冒険
+の末、それを教えられる。
+
+　明治の昔から、日本人は「出世」という言葉をもてはやした。結果として、仕事第一主義が生
+まれ、その陰で家族が犠牲になるのは当然と考えられていた。発展途上の国としてやむをえな
+かったのかもしれないが、しかし今、多くの人がそうした生き方に疑問をもち始めている。九九
+年の終わりに中日新聞社がした調査でも、四五％の日本人が「もっとも大切にすべきもの」とし
+て「家族」をあげた。日本人は今、確実に変わりつつある。
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+こうした賢人の中で、私の心をとらえたのは、Ｆ・コーニグの、つぎの言葉だ。いわく……。
+
+「もっていないものを手にしたとき、その結果として幸福がやってくるのではないということを、私
+たちは忘れてはいけない。そうではなく、幸福というのは、今、私たちがもっているものに気づ
+き、それを評価することの結果として、やってくる」と。
+
+　同じようなことだが、アンディ・ルーニィ※も、こう言っている。
+　
+「人生では、すばらしいことなど、めったにない。朝起きて、仕事をして、それを終えて、家族や
+友といっしょに食事することを楽しみなさい。そうすれば、それぞれのときに、あなたは幸福に
+なる。もし人が、幸福の基盤を、新しい仕事や、莫大なお金や、完ぺきな結婚生活や、パリへ
+の旅行など、そういった大きなできごとに置くなら、ほとんどの時間で、その人は、幸福ではな
+いということになる。しかし一方、幸福を、おいしい朝食や、庭の花や、飲んだり、昼寝したりす
+ることに求めるなら、あなたはすばらしい幸福とともに、人生を過ごすことができる」と。
+
+　それはそのとおりで、もし名誉や地位、肩書きや権威、権力が、幸福の条件とするなら、人間
+は、数十万年のうちの、（数十万年、引く、二〇〇〇年）の間は、不幸だったということになる。
+なぜなら、こうした亡霊が人間社会を支配するようになったのは、せいぜい、この二〇〇〇年
+にすぎないからである。……とまあ、こんなこと改めて、書くまでもない。
+
+　しかし現実には、こうした亡霊にとりつかれている人は、多い。あなたのまわりにも、いる。私
+の知人の中にも、いる。定年退職をしてからも、過去の栄光（？）にしがみつき、それをふりか
+ざして、いまだに威張りちらしている。もっともそれで本人がそれなりにハッピーなら、それでよ
+いのだが、実際には、（多分？）、日々を悶々とした気分で過ごしている。そういう人にとって
+は、過去の栄光を否定されることは、自分の人生を否定されることに等しい。だから、猛烈に
+反発する。
+
+　これは本当の話だから、正直に書く。ウソの話ではない。
+
+その人は、長い間、ある研究所の研究員をしていた。そして四〇歳くらいのとき、Ｈ大学の助
+教授になり、つづいて五〇歳少し前に、教授になった。現役時代には、ある研究団体の会長に
+もなっている。その彼と議論しているとき、ふとしたことから、喧嘩になってしまった。彼は、メー
+ルで、私にこう言ってきた。
+
+　「君だって、文部省あたりから仕事が回ってくれば、シッポを振る口ではないのかね」「君だか
+ら、正直に言ってやるが、君が称している研究など、この世界では、価値がない。いいかね、研
+究というのは、公的な機関で認められてはじめて、意味をもつんだよ」「田舎のおばちゃんたち
+を相手に、偉そうな文章を書いても、意味はないよ」「君の書いている本などというのは、資源
+のムダづかい。君が一冊、本を出すたびに、インドネシアの森林が、数十本、犠牲になるんだ
+よ」「偉く国際人ぶっているが、君が本当に知っている外国は、オーストラリアという田舎だけで
+はないのかね」と。最後には、こう言った。「君は、知識をひけらかしている、ただのバカだ」と。
+
+　しかし私とて、負けていない。
+
+　「公的機関で、税金で研究している男が、何を偉そうなことを言うか」「あなたのまわりの人間
+は、自分もその恩恵にあやかりたいから、あなたにペコペコしているだけだ」「文句があるな
+ら、裸で私と勝負してみろ」「こちらは生きる糧（かて）を稼ぎながら、そのあいた時間で、ものを
+書いている。あんたとは、立場が基本的に違う」「文部省から仕事がくれば、ありがたいことだ。
+いくらでもシッポを振ってやる。そのかわり、ちゃんと、お金をもらう」「文化というのは、大衆が
+つくる。あんたが言うところの、田舎のおばちゃんたちがつくる。あんたのような雲の上の、偉
+い人ではない。文句あるか！」と。
+
+　そうそう、こんなことも言った。「君は、教育で金もうけする。私は、教育そのものに生きる」
+と。そこで私はこう反論した。「あなたは、上ばかり見て、教育論を書く。私は、下の人のため
+に、教育論を書く」と。
+
+　実のところ、こうした不毛の議論が、三か月ほど、つづいた。で、私のほうがあるときから返
+事を書かなくなり、それでその人との交際は、終わった。今も、まったく音信はない。私も若か
+った。しかしその心意気だけは、今も変わらない。
+
+　ずいぶんと熱い話になってしまったが、この事件が、私の考え方に大きな影響を与えたこと
+は言うまでもない。以後、私は、権威や権力を振りかざす人には、生理的な嫌悪感を覚えるよ
+うになった。
+
+ところで、この話には、余談がある。一つは、その人からメールが入るたびに、はげしい動悸
+と、不快感が私を襲ったということ。不愉快だった。それにもう一つは、それまでそれほど好き
+ではなかった、尾崎豊の『卒業』が好きになったこと。ある時期は、毎日、その曲を聞きなが
+ら、うさ晴らしをした。（これは本当に、ホント！）
+
+　さてさて、幸福というのは、私たちの身のまわりにある。そして今の今も、私たちに見つけても
+らうのを、じっと、静かに待っている。賢明な人は、それをなくす前に気づき、そうでない人は、
+なくしてから気づく。もう一言、つけ加えるなら、賢明な人は、若いうちにそれに気づき、そうでな
+い人は、死んでも気づかない。
+　
+Ｍ・ワシントンが言っているように、幸福とは、心のもち方で決まる。いわく、「私は、つぎのこと
+を学んだ。つまり幸福にせよ、悲惨にせよ、その大部分は、私たちのおかれた環境ではなく、
+私たちの気質によるものだということを」と。この言葉は、おおいに参考になる。
+（０３０７２２）
+
+※アンディ・ルーニィ……１９１９生まれ、アメリカの著名ニュース・コメンテイター
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+＋
+
+
+●人生について
+
+
+What is life? We are born, we live a little and we die. 
+
+- EB White, "Charlotte's Web "
+
+人生って、何？　生まれて、少しだけ生きて、死ぬのよ。
+
+
+
+To live is so startling it leaves little time for anything else. 
+
+- Emily Dickinson
+
+生きるって、驚くことばかり。ほかのことのための時間は、ほとんどないわ。
+
+
+
+People's whole lives do pass in front of their eyes before they die. The process is called '
+living'. 
+
+- Terry Pratchett, "The Last Continent"
+
+人間の人生というのはね、死ぬまでの間、目の前で、過ぎるだけ。その過程を、「生きている」
+と言うのよ。
+
+
+
+Life obliges me to do something, so I paint. 
+
+- Rene Magritte, In Art/Painting 
+
+人生というのは、私に何かを課してしるのね。だから私は描くだけ。
+
+
+
+Literature is mostly about having sex and not much about having children. Life is the other 
+way round. 
+
+- David Lodge, The British Museum is Falling Down, In Literature 
+
+文学というのは、ほとんどが、セックスをすることばかりで、あまり子どもをもつということには、
+書かないものね。しかし人生は、その逆。
+
+
+
+Life is pleasant. Death is peaceful. It's the transition that's troublesome. 
+
+- Isaac Asimov, In Death 
+
+人生は楽しい。死はやすらか。死ぬことは、人生から死へのめんどうな移動のこと。
+
+
+
+Life without love is meaningless and goodness without love is impossible. 
+
+- Greg Jurkiewicz, "The Neo-Reconstructionist Manifesto" In Love
+
+愛のない人生は、意味がない。愛のない善は、ありえない。
+
+
+
+Life dies inside a person when there are no others willing to be-friend him. He thus gets 
+filled with emptiness and a non-existent sense of self-worth. 
+
+- Mark R. J. Lavoie, In Loneliness 
+
+その人に対して好意的な友がいなくなったとき、その人の中で、人生は死ぬ。かくしてその人
+は、空虚感に満たされ、無価値であるという非存在感に満たされる。
+
+
+
+Life is too deep for words, so don't try to describe it, just live it. 
+
+- C.S. Lewis, In Humanity 
+
+人生は、言葉では言い尽くせないほど、深い。だからそれを表現しようと思うな。ただ生きろ。
+
+
+
+I could not, at any age, be content to take my place by the fireside and simply look on. Life 
+was meant to be lived. Curiosity must be kept alive. One must never, for whatever reason, 
+turn his back on life. 
+
+- Eleanor Roosevelt, In Humanity 
+
+私はどんな年齢のときも、暖炉のそばに居座って、ただそれを見るということに満足できなかっ
+た。人生というのは、生きることを意味する。好奇心は、いつも生きていなければならない。人
+は、どんな理由であるにせよ、人生に背を向けてはいけない。
+
+
+
+Life is a succession of moments. To live each one is to succeed. 
+
+- Corita Kent, In Struggle/Success 
+
+人生というのは、瞬間の連続。それぞれの瞬間を生きるということは、つづけるということ。
+
+
+
+Life is like playing the violin solo inpublic and learning the instument as you go. 
+
+- Edward Geroge Bulwer-Lytton, In Humanity 
+
+人生というのは、隠れてバイオリンのソロを弾くようなもの。そしてそれを弾きながら、楽器の弾
+き方を学ぶようなもの。
+
+
+
+Life is not so bad if you have plenty of luck, a good physique and not too much imagination. 
+
+- Christopher Isherwood, In Imagination 
+
+人生も、幸運が重なり、健康で、あまり想像力がなければ、それほど悪くはない。
+
+
+
+Life has taught us that love does not consist in gazing at each other but in looking outward 
+together in the same direction. 
+
+- Antoine de Saint-Exupery, In Love 
+
+人生というのは、たがいに見つめあうのが愛ではないと教える。そうではなく、外に向って、同じ
+方向を、いっしょに見ることが愛だと教える。
+
+
+
+Life is very interesting, if you make mistakes. 
+
+- Georges Carpentier, In Humanity 
+
+もしまちがいをおかせば、人生は、たいへんいおもしろい。
+
+
+
+Life is raw material. We are artisans. We can sculpt our existence into something beautiful, 
+or debase it into ugliness. It's in our hands. 
+
+- Cathy Better, In Art/The Artist 
+
+人生は、原材料。私たちは芸術家。私たちはそれを彫刻して、何か美しいものにする。あるい
+はつぶして、見苦しいものにする。それは私たちの手にかかっている。
+
+
+
+Life is a mystery, not a problem to be solved 
+
+- Albert Einstein, In Mystery 
+
+人生は神秘的。解くべき問題ではない。
+
+
+
+＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+
+
+
+　人生は、気楽に生きろと説く賢人もいれば、懸命に生きろと説く賢人もいる。
+
+
+
+　一番印象に残ったのは、「人生というのは、たがいに見つめあうのが愛ではないと教える。そ
+うではなく、外に向って、同じ方向を、いっしょに見ることが愛だと教える」というもの。
+
+
+
+これは、フランスの飛行家・作家、アントワーヌ・Ｍ・Ｒ・ド・サン･テグジュペリの言葉。あの「星
+の王子様」の作家である。日本でも、よく知られた言葉である。
+
+
+
+
+
+
+
+
+
+
+
+　　＊＊＊＊＊＊＊＊＊＊＊＊＊世界の格言より＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+
+
+
+
+
+
+
+
+
+
+ 
